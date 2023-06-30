@@ -1,0 +1,367 @@
+Tanggal,Jam Pasang,Tinggi Pasang,Jam Surut,Tinggi Surut,Koefisien
+1 Januari 2020, 10:29 ,0.9, 23:38 ,0.3,48  rendah 
+2 Januari 2020, 9:53 ,0.8, 23:42 ,0.4,43  rendah 
+3 Januari 2020, 9:19 ,0.8, 23:28 ,0.4,42  rendah 
+4 Januari 2020, 8:53 ,0.9, 22:17 ,0.4,43  rendah 
+5 Januari 2020, 8:39 ,0.9, 18:06 ,0.4,48  rendah 
+6 Januari 2020, 8:35 ,0.9, 17:59 ,0.3,56  rata-rata 
+7 Januari 2020, 8:41 ,1.0, 18:14 ,0.3,65  rata-rata 
+8 Januari 2020, 8:55 ,1.0, 18:39 ,0.2,74  tinggi 
+9 Januari 2020, 9:15 ,1.1, 19:10 ,0.2,82  tinggi 
+10 Januari 2020, 9:40 ,1.1, 19:47 ,0.2,88  tinggi 
+11 Januari 2020, 10:08 ,1.1, 20:25 ,0.2,92  s. tinggi 
+12 Januari 2020, 10:37 ,1.1, 21:02 ,0.2,92  s. tinggi 
+13 Januari 2020, 11:05 ,1.1, 21:34 ,0.2,90  s. tinggi 
+14 Januari 2020, 11:28 ,1.0, 21:58 ,0.3,84  tinggi 
+15 Januari 2020, 11:32 ,0.9, 22:12 ,0.3,77  tinggi 
+16 Januari 2020, 10:16 ,0.8, 22:13 ,0.4,68  rata-rata 
+17 Januari 2020, 8:09 ,0.8, 21:52 ,0.4,61  rata-rata 
+18 Januari 2020, 7:41 ,0.9, 18:00 ,0.4,57  rata-rata 
+19 Januari 2020, 7:48 ,1.0, 17:15 ,0.3,56  rata-rata 
+20 Januari 2020, 8:10 ,1.0, 17:30 ,0.2,60  rata-rata 
+21 Januari 2020, 8:38 ,1.1, 17:58 ,0.2,66  rata-rata 
+22 Januari 2020, 9:07 ,1.1, 18:30 ,0.2,72  tinggi 
+23 Januari 2020, 9:36 ,1.1, 19:03 ,0.2,77  tinggi 
+24 Januari 2020, 10:02 ,1.1, 19:38 ,0.2,81  tinggi 
+25 Januari 2020, 10:23 ,1.0, 20:12 ,0.2,82  tinggi 
+26 Januari 2020, 10:39 ,1.0, 20:44 ,0.3,80  tinggi 
+27 Januari 2020, 10:47 ,1.0, 21:12 ,0.3,77  tinggi 
+28 Januari 2020, 10:45 ,0.9, 21:33 ,0.3,72  tinggi 
+29 Januari 2020, 10:31 ,0.9, 21:40 ,0.4,66  rata-rata 
+30 Januari 2020, 10:01 ,0.8, 21:19 ,0.4,58  rata-rata 
+31 Januari 2020, 9:14 ,0.8, 19:59 ,0.5,51  rata-rata 
+1 Februari 2020, 8:26 ,0.8, 18:07 ,0.4,44  rendah 
+2 Februari 2020, 7:52 ,0.8, 17:16 ,0.4,40  rendah 
+3 Februari 2020, 7:41 ,0.9, 17:03 ,0.3,40  rendah 
+4 Februari 2020, 7:46 ,0.9, 17:11 ,0.3,46  rendah 
+5 Februari 2020, 8:04 ,1.0, 17:30 ,0.2,56  rata-rata 
+6 Februari 2020, 8:28 ,1.0, 17:55 ,0.2,69  rata-rata 
+7 Februari 2020, 8:58 ,1.1, 18:23 ,0.2,82  tinggi 
+8 Februari 2020, 9:29 ,1.1, 18:53 ,0.2,93  s. tinggi 
+9 Februari 2020, 10:02 ,1.1, 19:21 ,0.2,101  s. tinggi 
+10 Februari 2020, 10:33 ,1.0, 19:44 ,0.3,105  s. tinggi 
+11 Februari 2020, 11:01 ,1.0, 19:59 ,0.3,104  s. tinggi 
+12 Februari 2020, 11:19 ,0.9, 20:03 ,0.4,97  s. tinggi 
+13 Februari 2020, 10:53 ,0.7, 19:48 ,0.4,86  tinggi 
+14 Februari 2020, 6:01 ,0.7, 18:41 ,0.5,72  tinggi 
+15 Februari 2020, 5:52 ,0.8, 16:28 ,0.4,58  rata-rata 
+16 Februari 2020, 6:23 ,0.9, 16:06 ,0.3,48  rendah 
+17 Februari 2020, 7:02 ,1.0, 16:22 ,0.2,45  rendah 
+18 Februari 2020, 7:42 ,1.0, 16:48 ,0.2,49  rendah 
+19 Februari 2020, 8:20 ,1.0, 17:16 ,0.2,57  rata-rata 
+20 Februari 2020, 8:55 ,1.0, 17:45 ,0.2,66  rata-rata 
+21 Februari 2020, 9:25 ,1.0, 18:13 ,0.2,74  tinggi 
+22 Februari 2020, 9:50 ,1.0, 18:38 ,0.3,80  tinggi 
+23 Februari 2020, 10:09 ,0.9, 19:00 ,0.3,84  tinggi 
+24 Februari 2020, 10:22 ,0.9, 19:15 ,0.4,85  tinggi 
+25 Februari 2020, 10:27 ,0.8, 19:18 ,0.4,84  tinggi 
+26 Februari 2020, 10:21 ,0.8, 19:02 ,0.5,80  tinggi 
+27 Februari 2020, 10:00 ,0.7, 18:21 ,0.5,74  tinggi 
+28 Februari 2020, 9:08 ,0.7, 17:22 ,0.5,66  rata-rata 
+29 Februari 2020, 7:27 ,0.7, 16:27 ,0.5,57  rata-rata 
+1 Maret 2020, 5:40 ,0.7, 15:56 ,0.4,48  rendah 
+2 Maret 2020, 5:32 ,0.8, 15:49 ,0.3,40  rendah 
+3 Maret 2020, 6:02 ,0.8, 15:57 ,0.3,36  rendah 
+4 Maret 2020, 6:39 ,0.9, 16:14 ,0.2,41  rendah 
+5 Maret 2020, 7:18 ,1.0, 16:36 ,0.2,53  rata-rata 
+6 Maret 2020, 7:57 ,1.0, 16:59 ,0.2,69  rata-rata 
+7 Maret 2020, 8:36 ,1.0, 17:23 ,0.2,85  tinggi 
+8 Maret 2020, 9:15 ,1.0, 17:43 ,0.3,100  s. tinggi 
+9 Maret 2020, 9:52 ,1.0, 17:58 ,0.3,110  s. tinggi 
+10 Maret 2020, 0:26 ,0.6, 3:02 ,0.5,115  s. tinggi 
+11 Maret 2020, 0:21 ,0.6, 4:32 ,0.5,112  s. tinggi 
+12 Maret 2020, 0:38 ,0.7, 6:20 ,0.6,103  s. tinggi 
+13 Maret 2020, 1:11 ,0.8, 16:12 ,0.5,88  tinggi 
+14 Maret 2020, 2:00 ,0.8, 14:31 ,0.4,71  tinggi 
+15 Maret 2020, 3:15 ,0.9, 14:33 ,0.3,54  rata-rata 
+16 Maret 2020, 4:48 ,0.9, 14:57 ,0.2,41  rendah 
+17 Maret 2020, 6:06 ,0.9, 15:26 ,0.2,38  rendah 
+18 Maret 2020, 7:05 ,0.9, 15:54 ,0.2,43  rendah 
+19 Maret 2020, 7:53 ,0.9, 16:21 ,0.2,53  rata-rata 
+20 Maret 2020, 8:32 ,0.9, 16:45 ,0.3,63  rata-rata 
+21 Maret 2020, 0:40 ,0.6, 1:55 ,0.5,72  tinggi 
+22 Maret 2020, 0:27 ,0.6, 2:46 ,0.5,79  tinggi 
+23 Maret 2020, 0:22 ,0.6, 3:25 ,0.5,84  tinggi 
+24 Maret 2020, 0:15 ,0.6, 4:03 ,0.5,87  tinggi 
+25 Maret 2020, 0:02 ,0.7, 4:45 ,0.6,86  tinggi 
+26 Maret 2020, 5:39 ,0.6, 9:55 ,0.7,83  tinggi 
+27 Maret 2020, 7:41 ,0.6, 8:19 ,0.7,78  tinggi 
+28 Maret 2020, 14:28 ,0.4, 23:46 ,0.8,70  tinggi 
+29 Maret 2020, 14:10 ,0.4, 14:14 ,0.3,61  rata-rata 
+30 Maret 2020, 0:11 ,0.8, 14:28 ,0.3,50  rata-rata 
+31 Maret 2020, 0:54 ,0.8, 15:56 ,0.4,41  rendah 
+1 April 2020, 2:23 ,0.9, 14:48 ,0.2,37  rendah 
+2 April 2020, 4:53 ,0.9, 15:11 ,0.2,42  rendah 
+3 April 2020, 6:17 ,0.9, 15:32 ,0.2,55  rata-rata 
+4 April 2020, 7:17 ,0.9, 15:52 ,0.3,72  tinggi 
+5 April 2020, 8:08 ,0.9, 16:07 ,0.3,89  tinggi 
+6 April 2020, 2:36 ,0.5, 8:56 ,0.8,104  s. tinggi 
+7 April 2020, 3:52 ,0.5, 9:43 ,0.7,113  s. tinggi 
+8 April 2020, 5:09 ,0.5, 10:30 ,0.6,116  s. tinggi 
+9 April 2020, 6:39 ,0.5, 11:24 ,0.6,111  s. tinggi 
+10 April 2020, 8:53 ,0.4, 11:37 ,0.3,99  s. tinggi 
+11 April 2020, 0:01 ,0.9, 12:36 ,0.3,84  tinggi 
+12 April 2020, 0:37 ,0.9, 13:18 ,0.2,67  rata-rata 
+13 April 2020, 1:22 ,0.9, 13:54 ,0.2,51  rata-rata 
+14 April 2020, 2:31 ,0.9, 14:25 ,0.2,39  rendah 
+15 April 2020, 4:29 ,0.9, 14:53 ,0.2,36  rendah 
+16 April 2020, 6:02 ,0.8, 7:05 ,0.8,42  rendah 
+17 April 2020, 2:10 ,0.6, 7:52 ,0.8,51  rata-rata 
+18 April 2020, 3:01 ,0.6, 8:31 ,0.7,60  rata-rata 
+19 April 2020, 3:45 ,0.6, 9:04 ,0.7,69  rata-rata 
+20 April 2020, 4:28 ,0.6, 9:34 ,0.7,76  tinggi 
+21 April 2020, 5:12 ,0.6, 10:04 ,0.6,82  tinggi 
+22 April 2020, 6:03 ,0.5, 10:35 ,0.6,84  tinggi 
+23 April 2020, 7:07 ,0.5, 22:41 ,0.9,85  tinggi 
+24 April 2020, 9:12 ,0.4, 22:50 ,0.9,83  tinggi 
+25 April 2020, 11:17 ,0.4, 23:08 ,0.9,78  tinggi 
+26 April 2020, 11:49 ,0.3, 23:34 ,1.0,71  tinggi 
+27 April 2020, 12:19 ,0.3, 13:16 ,0.2,62  rata-rata 
+28 April 2020, 12:48 ,0.2, 13:41 ,0.2,53  rata-rata 
+29 April 2020, 0:09 ,1.0, 14:48 ,0.2,45  rendah 
+30 April 2020, 0:54 ,0.9, 15:11 ,0.2,42  rendah 
+1 Mei 2020, 2:08 ,0.9, 14:03 ,0.2,48  rendah 
+2 Mei 2020, 4:36 ,0.8, 14:20 ,0.3,60  rata-rata 
+3 Mei 2020, 1:59 ,0.6, 6:19 ,0.8,75  tinggi 
+4 Mei 2020, 3:15 ,0.6, 7:35 ,0.7,90  s. tinggi 
+5 Mei 2020, 4:21 ,0.5, 8:44 ,0.6,101  s. tinggi 
+6 Mei 2020, 5:28 ,0.4, 10:00 ,0.5,108  s. tinggi 
+7 Mei 2020, 6:42 ,0.4, 22:29 ,1.0,108  s. tinggi 
+8 Mei 2020, 8:04 ,0.3, 22:56 ,1.1,102  s. tinggi 
+9 Mei 2020, 9:29 ,0.2, 23:25 ,1.1,91  s. tinggi 
+10 Mei 2020, 10:39 ,0.2, 23:54 ,1.0,78  tinggi 
+11 Mei 2020, 11:34 ,0.2, 12:18 ,0.2,64  rata-rata 
+12 Mei 2020, 0:21 ,1.0, 12:54 ,0.2,52  rata-rata 
+13 Mei 2020, 0:37 ,0.9, 13:23 ,0.2,42  rendah 
+14 Mei 2020, 0:02 ,0.9, 22:24 ,0.8,39  rendah 
+15 Mei 2020, 13:46 ,0.3, 22:09 ,0.8,42  rendah 
+16 Mei 2020, 14:02 ,0.3, 6:18 ,0.7,48  rendah 
+17 Mei 2020, 5:06 ,0.6, 7:38 ,0.7,56  rata-rata 
+18 Mei 2020, 5:26 ,0.6, 8:50 ,0.6,64  rata-rata 
+19 Mei 2020, 5:58 ,0.5, 10:28 ,0.5,70  tinggi 
+20 Mei 2020, 6:36 ,0.4, 21:58 ,0.9,76  tinggi 
+21 Mei 2020, 7:17 ,0.4, 22:04 ,1.0,79  tinggi 
+22 Mei 2020, 8:02 ,0.3, 22:15 ,1.0,81  tinggi 
+23 Mei 2020, 8:51 ,0.3, 22:33 ,1.0,80  tinggi 
+24 Mei 2020, 9:40 ,0.2, 22:55 ,1.0,77  tinggi 
+25 Mei 2020, 10:26 ,0.2, 23:23 ,1.0,72  tinggi 
+26 Mei 2020, 11:07 ,0.2, 23:52 ,1.0,66  rata-rata 
+27 Mei 2020, 11:42 ,0.2, 12:33 ,0.2,59  rata-rata 
+28 Mei 2020, 12:11 ,0.2, 12:49 ,0.3,54  rata-rata 
+29 Mei 2020, 0:18 ,1.0, 21:25 ,0.8,52  rata-rata 
+30 Mei 2020, 0:17 ,0.9, 14:03 ,0.2,56  rata-rata 
+31 Mei 2020, 12:57 ,0.3, 14:20 ,0.3,65  rata-rata 
+1 Juni 2020, 12:56 ,0.4, 21:02 ,0.9,75  tinggi 
+2 Juni 2020, 5:30 ,0.5, 7:09 ,0.6,84  tinggi 
+3 Juni 2020, 5:53 ,0.4, 10:00 ,0.5,92  s. tinggi 
+4 Juni 2020, 6:36 ,0.3, 21:41 ,1.1,95  s. tinggi 
+5 Juni 2020, 7:26 ,0.2, 22:08 ,1.1,95  s. tinggi 
+6 Juni 2020, 8:18 ,0.2, 22:37 ,1.1,91  s. tinggi 
+7 Juni 2020, 9:11 ,0.1, 23:05 ,1.1,84  tinggi 
+8 Juni 2020, 10:00 ,0.1, 23:29 ,1.1,76  tinggi 
+9 Juni 2020, 10:45 ,0.2, 23:45 ,1.0,66  rata-rata 
+10 Juni 2020, 11:24 ,0.2, 23:41 ,0.9,57  rata-rata 
+11 Juni 2020, 11:55 ,0.2, 23:02 ,0.9,49  rendah 
+12 Juni 2020, 12:19 ,0.3, 22:14 ,0.9,44  rendah 
+13 Juni 2020, 12:35 ,0.3, 21:43 ,0.8,43  rendah 
+14 Juni 2020, 12:40 ,0.4, 21:25 ,0.9,45  rendah 
+15 Juni 2020, 12:32 ,0.4, 21:15 ,0.9,50  rata-rata 
+16 Juni 2020, 11:57 ,0.4, 21:11 ,0.9,56  rata-rata 
+17 Juni 2020, 6:36 ,0.4, 21:12 ,0.9,62  rata-rata 
+18 Juni 2020, 6:46 ,0.3, 21:18 ,1.0,68  rata-rata 
+19 Juni 2020, 7:09 ,0.3, 21:29 ,1.0,73  tinggi 
+20 Juni 2020, 7:40 ,0.2, 21:44 ,1.1,77  tinggi 
+21 Juni 2020, 8:16 ,0.2, 22:04 ,1.1,80  tinggi 
+22 Juni 2020, 8:55 ,0.2, 22:27 ,1.1,80  tinggi 
+23 Juni 2020, 9:35 ,0.2, 22:53 ,1.1,78  tinggi 
+24 Juni 2020, 10:11 ,0.2, 23:19 ,1.1,75  tinggi 
+25 Juni 2020, 10:42 ,0.2, 23:40 ,1.0,70  tinggi 
+26 Juni 2020, 11:05 ,0.2, 23:42 ,0.9,66  rata-rata 
+27 Juni 2020, 11:18 ,0.3, 22:31 ,0.8,63  rata-rata 
+28 Juni 2020, 11:21 ,0.3, 20:48 ,0.8,62  rata-rata 
+29 Juni 2020, 11:12 ,0.4, 20:14 ,0.9,64  rata-rata 
+30 Juni 2020, 10:36 ,0.4, 20:15 ,1.0,68  rata-rata 
+1 Juli 2020, 5:55 ,0.3, 20:31 ,1.0,73  tinggi 
+2 Juli 2020, 6:07 ,0.3, 20:57 ,1.1,78  tinggi 
+3 Juli 2020, 6:38 ,0.2, 21:26 ,1.1,82  tinggi 
+4 Juli 2020, 7:16 ,0.1, 21:56 ,1.1,84  tinggi 
+5 Juli 2020, 7:56 ,0.1, 22:25 ,1.1,84  tinggi 
+6 Juli 2020, 8:37 ,0.1, 22:51 ,1.1,82  tinggi 
+7 Juli 2020, 9:18 ,0.2, 23:09 ,1.0,77  tinggi 
+8 Juli 2020, 9:55 ,0.2, 23:16 ,1.0,71  tinggi 
+9 Juli 2020, 10:27 ,0.2, 23:03 ,0.9,64  rata-rata 
+10 Juli 2020, 10:52 ,0.3, 22:25 ,0.9,57  rata-rata 
+11 Juli 2020, 11:07 ,0.3, 21:37 ,0.8,51  rata-rata 
+12 Juli 2020, 11:08 ,0.4, 21:00 ,0.8,46  rendah 
+13 Juli 2020, 10:45 ,0.4, 20:37 ,0.8,43  rendah 
+14 Juli 2020, 7:20 ,0.4, 20:26 ,0.9,44  rendah 
+15 Juli 2020, 5:58 ,0.4, 20:24 ,0.9,47  rendah 
+16 Juli 2020, 5:53 ,0.3, 20:32 ,1.0,53  rata-rata 
+17 Juli 2020, 6:06 ,0.3, 20:46 ,1.0,61  rata-rata 
+18 Juli 2020, 6:29 ,0.2, 21:06 ,1.1,69  rata-rata 
+19 Juli 2020, 6:58 ,0.2, 21:30 ,1.1,77  tinggi 
+20 Juli 2020, 7:31 ,0.2, 21:56 ,1.1,83  tinggi 
+21 Juli 2020, 8:05 ,0.2, 22:23 ,1.1,87  tinggi 
+22 Juli 2020, 8:37 ,0.2, 22:50 ,1.1,89  tinggi 
+23 Juli 2020, 9:05 ,0.2, 23:13 ,1.0,88  tinggi 
+24 Juli 2020, 9:25 ,0.3, 23:23 ,0.9,84  tinggi 
+25 Juli 2020, 9:34 ,0.3, 22:40 ,0.8,77  tinggi 
+26 Juli 2020, 9:28 ,0.4, 19:55 ,0.8,70  tinggi 
+27 Juli 2020, 8:57 ,0.4, 19:07 ,0.8,63  rata-rata 
+28 Juli 2020, 6:13 ,0.4, 19:13 ,0.9,58  rata-rata 
+29 Juli 2020, 5:00 ,0.3, 19:37 ,1.0,57  rata-rata 
+30 Juli 2020, 5:09 ,0.2, 20:08 ,1.1,61  rata-rata 
+31 Juli 2020, 5:35 ,0.2, 20:42 ,1.1,67  rata-rata 
+1 Agustus 2020, 6:06 ,0.2, 21:16 ,1.1,74  tinggi 
+2 Agustus 2020, 6:39 ,0.2, 21:47 ,1.1,79  tinggi 
+3 Agustus 2020, 7:13 ,0.2, 22:14 ,1.0,82  tinggi 
+4 Agustus 2020, 7:47 ,0.2, 22:35 ,1.0,83  tinggi 
+5 Agustus 2020, 8:18 ,0.3, 22:47 ,0.9,81  tinggi 
+6 Agustus 2020, 8:44 ,0.3, 22:46 ,0.9,78  tinggi 
+7 Agustus 2020, 9:04 ,0.4, 22:25 ,0.8,72  tinggi 
+8 Agustus 2020, 9:08 ,0.4, 21:40 ,0.8,65  rata-rata 
+9 Agustus 2020, 8:41 ,0.5, 20:42 ,0.8,57  rata-rata 
+10 Agustus 2020, 7:04 ,0.5, 19:55 ,0.8,49  rendah 
+11 Agustus 2020, 5:26 ,0.5, 19:28 ,0.8,42  rendah 
+12 Agustus 2020, 4:47 ,0.4, 19:22 ,0.8,38  rendah 
+13 Agustus 2020, 4:41 ,0.3, 19:31 ,0.9,40  rendah 
+14 Agustus 2020, 4:51 ,0.3, 19:50 ,0.9,46  rendah 
+15 Agustus 2020, 5:11 ,0.2, 20:14 ,1.0,57  rata-rata 
+16 Agustus 2020, 5:35 ,0.2, 20:43 ,1.0,69  rata-rata 
+17 Agustus 2020, 6:02 ,0.2, 21:13 ,1.1,81  tinggi 
+18 Agustus 2020, 6:29 ,0.2, 21:44 ,1.0,92  s. tinggi 
+19 Agustus 2020, 6:55 ,0.2, 22:15 ,1.0,99  s. tinggi 
+20 Agustus 2020, 7:15 ,0.3, 22:43 ,0.9,103  s. tinggi 
+21 Agustus 2020, 7:26 ,0.4, 23:04 ,0.8,101  s. tinggi 
+22 Agustus 2020, 7:25 ,0.4, 22:55 ,0.7,94  s. tinggi 
+23 Agustus 2020, 7:04 ,0.5, 16:01 ,0.7,83  tinggi 
+24 Agustus 2020, 5:56 ,0.5, 16:35 ,0.8,70  tinggi 
+25 Agustus 2020, 3:56 ,0.4, 17:24 ,0.9,57  rata-rata 
+26 Agustus 2020, 3:34 ,0.3, 18:14 ,0.9,48  rendah 
+27 Agustus 2020, 3:50 ,0.2, 19:02 ,1.0,47  rendah 
+28 Agustus 2020, 4:16 ,0.2, 19:47 ,1.0,53  rata-rata 
+29 Agustus 2020, 4:46 ,0.2, 20:27 ,1.0,62  rata-rata 
+30 Agustus 2020, 5:15 ,0.2, 21:03 ,1.0,71  tinggi 
+31 Agustus 2020, 5:43 ,0.2, 21:34 ,1.0,78  tinggi 
+1 September 2020, 6:09 ,0.3, 21:58 ,0.9,84  tinggi 
+2 September 2020, 6:30 ,0.3, 22:14 ,0.9,86  tinggi 
+3 September 2020, 6:44 ,0.4, 22:20 ,0.8,86  tinggi 
+4 September 2020, 6:45 ,0.4, 22:11 ,0.7,83  tinggi 
+5 September 2020, 6:25 ,0.5, 21:34 ,0.7,77  tinggi 
+6 September 2020, 5:33 ,0.5, 20:05 ,0.7,70  tinggi 
+7 September 2020, 4:25 ,0.5, 13:47 ,0.7,61  rata-rata 
+8 September 2020, 3:36 ,0.5, 14:19 ,0.7,51  rata-rata 
+9 September 2020, 3:16 ,0.4, 16:25 ,0.8,41  rendah 
+10 September 2020, 3:16 ,0.3, 17:28 ,0.8,35  rendah 
+11 September 2020, 3:28 ,0.3, 18:14 ,0.9,35  rendah 
+12 September 2020, 3:46 ,0.3, 18:56 ,0.9,43  rendah 
+13 September 2020, 4:08 ,0.2, 19:35 ,0.9,57  rata-rata 
+14 September 2020, 4:31 ,0.2, 20:14 ,1.0,72  tinggi 
+15 September 2020, 4:53 ,0.3, 20:51 ,1.0,88  tinggi 
+16 September 2020, 5:11 ,0.3, 12:33 ,0.6,101  s. tinggi 
+17 September 2020, 5:23 ,0.4, 11:44 ,0.6,110  s. tinggi 
+18 September 2020, 5:26 ,0.4, 11:39 ,0.6,113  s. tinggi 
+19 September 2020, 5:16 ,0.5, 11:53 ,0.7,109  s. tinggi 
+20 September 2020, 4:44 ,0.5, 12:20 ,0.8,98  s. tinggi 
+21 September 2020, 3:15 ,0.5, 13:01 ,0.8,82  tinggi 
+22 September 2020, 1:38 ,0.4, 14:00 ,0.9,65  rata-rata 
+23 September 2020, 1:51 ,0.3, 15:30 ,0.9,49  rendah 
+24 September 2020, 2:20 ,0.2, 17:07 ,0.9,40  rendah 
+25 September 2020, 2:50 ,0.2, 18:21 ,0.9,41  rendah 
+26 September 2020, 3:20 ,0.2, 19:18 ,0.9,49  rendah 
+27 September 2020, 3:48 ,0.2, 20:04 ,0.9,60  rata-rata 
+28 September 2020, 4:13 ,0.3, 11:48 ,0.7,70  tinggi 
+29 September 2020, 4:32 ,0.3, 11:41 ,0.7,78  tinggi 
+30 September 2020, 4:46 ,0.4, 11:41 ,0.7,84  tinggi 
+1 Oktober 2020, 4:50 ,0.4, 11:39 ,0.7,87  tinggi 
+2 Oktober 2020, 4:40 ,0.5, 11:33 ,0.7,87  tinggi 
+3 Oktober 2020, 4:09 ,0.5, 11:22 ,0.7,85  tinggi 
+4 Oktober 2020, 3:12 ,0.5, 11:13 ,0.8,80  tinggi 
+5 Oktober 2020, 2:09 ,0.5, 11:10 ,0.8,72  tinggi 
+6 Oktober 2020, 1:34 ,0.4, 11:18 ,0.8,63  rata-rata 
+7 Oktober 2020, 1:30 ,0.4, 11:37 ,0.8,53  rata-rata 
+8 Oktober 2020, 1:40 ,0.3, 12:07 ,0.9,42  rendah 
+9 Oktober 2020, 1:58 ,0.3, 12:59 ,0.9,35  rendah 
+10 Oktober 2020, 2:19 ,0.2, 15:35 ,0.8,35  rendah 
+11 Oktober 2020, 2:41 ,0.2, 17:37 ,0.9,44  rendah 
+12 Oktober 2020, 3:02 ,0.2, 18:44 ,0.9,59  rata-rata 
+13 Oktober 2020, 3:19 ,0.3, 11:37 ,0.7,77  tinggi 
+14 Oktober 2020, 3:32 ,0.3, 10:38 ,0.7,94  s. tinggi 
+15 Oktober 2020, 3:39 ,0.4, 10:21 ,0.7,107  s. tinggi 
+16 Oktober 2020, 3:37 ,0.4, 10:22 ,0.8,114  s. tinggi 
+17 Oktober 2020, 3:22 ,0.5, 10:35 ,0.9,115  s. tinggi 
+18 Oktober 2020, 2:37 ,0.4, 10:58 ,0.9,108  s. tinggi 
+19 Oktober 2020, 11:27 ,1.0, 22:49 ,0.3,95  s. tinggi 
+20 Oktober 2020, 12:02 ,1.0, 23:58 ,0.2,78  tinggi 
+21 Oktober 2020, 12:43 ,1.0, 13:38 ,0.9,61  rata-rata 
+22 Oktober 2020, 0:43 ,0.2, 15:15 ,0.9,46  rendah 
+23 Oktober 2020, 1:21 ,0.2, 17:11 ,0.8,38  rendah 
+24 Oktober 2020, 1:54 ,0.2, 10:59 ,0.8,40  rendah 
+25 Oktober 2020, 2:22 ,0.2, 10:36 ,0.8,48  rendah 
+26 Oktober 2020, 2:45 ,0.3, 10:30 ,0.8,58  rata-rata 
+27 Oktober 2020, 3:02 ,0.3, 10:29 ,0.8,67  rata-rata 
+28 Oktober 2020, 3:11 ,0.4, 10:30 ,0.8,75  tinggi 
+29 Oktober 2020, 3:11 ,0.4, 10:29 ,0.8,80  tinggi 
+30 Oktober 2020, 2:55 ,0.5, 10:26 ,0.8,83  tinggi 
+31 Oktober 2020, 2:12 ,0.5, 11:39 ,0.7,84  tinggi 
+1 November 2020, 0:25 ,0.5, 10:24 ,0.9,83  tinggi 
+2 November 2020, 10:26 ,0.9, 22:50 ,0.4,79  tinggi 
+3 November 2020, 10:33 ,0.9, 23:26 ,0.3,73  tinggi 
+4 November 2020, 10:47 ,1.0, 23:57 ,0.3,65  rata-rata 
+5 November 2020, 11:08 ,1.0, 11:34 ,1.0,55  rata-rata 
+6 November 2020, 0:26 ,0.2, 12:06 ,0.9,46  rendah 
+7 November 2020, 0:53 ,0.2, 12:38 ,0.9,40  rendah 
+8 November 2020, 1:17 ,0.2, 12:37 ,0.8,40  rendah 
+9 November 2020, 1:37 ,0.2, 10:49 ,0.8,49  rendah 
+10 November 2020, 1:52 ,0.3, 9:51 ,0.8,63  rata-rata 
+11 November 2020, 2:01 ,0.3, 9:30 ,0.8,78  tinggi 
+12 November 2020, 2:03 ,0.4, 9:29 ,0.9,93  s. tinggi 
+13 November 2020, 1:56 ,0.4, 9:42 ,1.0,104  s. tinggi 
+14 November 2020, 1:33 ,0.4, 19:38 ,0.3,109  s. tinggi 
+15 November 2020, 10:03 ,1.1, 20:57 ,0.2,108  s. tinggi 
+16 November 2020, 10:31 ,1.1, 22:07 ,0.2,101  s. tinggi 
+17 November 2020, 11:01 ,1.1, 23:04 ,0.2,89  tinggi 
+18 November 2020, 11:33 ,1.1, 23:50 ,0.2,75  tinggi 
+19 November 2020, 12:04 ,1.0, 12:07 ,0.9,61  rata-rata 
+20 November 2020, 12:25 ,1.0, 10:44 ,0.8,49  rendah 
+21 November 2020, 0:28 ,0.2, 10:04 ,0.8,42  rendah 
+22 November 2020, 0:58 ,0.2, 9:49 ,0.8,41  rendah 
+23 November 2020, 1:21 ,0.3, 9:44 ,0.9,45  rendah 
+24 November 2020, 1:38 ,0.3, 9:43 ,0.9,52  rata-rata 
+25 November 2020, 1:46 ,0.4, 9:44 ,0.9,59  rata-rata 
+26 November 2020, 1:43 ,0.4, 19:13 ,0.4,66  rata-rata 
+27 November 2020, 1:20 ,0.4, 19:54 ,0.3,72  tinggi 
+28 November 2020, 9:46 ,0.9, 20:38 ,0.3,76  tinggi 
+29 November 2020, 9:49 ,1.0, 10:24 ,0.9,78  tinggi 
+30 November 2020, 9:56 ,1.0, 22:50 ,0.4,79  tinggi 
+1 Desember 2020, 10:05 ,1.0, 21:24 ,0.2,77  tinggi 
+2 Desember 2020, 10:20 ,1.0, 22:09 ,0.2,74  tinggi 
+3 Desember 2020, 10:39 ,1.0, 22:49 ,0.2,69  rata-rata 
+4 Desember 2020, 11:01 ,1.0, 23:24 ,0.2,62  rata-rata 
+5 Desember 2020, 11:24 ,1.0, 23:52 ,0.2,56  rata-rata 
+6 Desember 2020, 11:43 ,1.0, 11:41 ,0.9,51  rata-rata 
+7 Desember 2020, 0:13 ,0.2, 10:37 ,0.8,50  rata-rata 
+8 Desember 2020, 0:26 ,0.3, 9:22 ,0.8,55  rata-rata 
+9 Desember 2020, 0:32 ,0.3, 8:49 ,0.9,64  rata-rata 
+10 Desember 2020, 0:28 ,0.4, 8:44 ,1.0,74  tinggi 
+11 Desember 2020, 0:13 ,0.4, 18:15 ,0.3,84  tinggi 
+12 Desember 2020, 8:57 ,1.0, 18:58 ,0.2,92  s. tinggi 
+13 Desember 2020, 9:19 ,1.1, 19:46 ,0.2,96  s. tinggi 
+14 Desember 2020, 9:47 ,1.2, 20:38 ,0.1,96  s. tinggi 
+15 Desember 2020, 10:18 ,1.2, 21:29 ,0.1,93  s. tinggi 
+16 Desember 2020, 10:49 ,1.2, 22:17 ,0.1,86  tinggi 
+17 Desember 2020, 11:17 ,1.1, 22:58 ,0.2,77  tinggi 
+18 Desember 2020, 11:39 ,1.0, 23:32 ,0.2,67  rata-rata 
+19 Desember 2020, 11:42 ,1.0, 23:58 ,0.3,58  rata-rata 
+20 Desember 2020, 11:04 ,0.9, 9:26 ,0.9,50  rata-rata 
+21 Desember 2020, 10:01 ,0.9, 9:10 ,0.9,45  rendah 
+22 Desember 2020, 0:16 ,0.3, 9:04 ,0.9,43  rendah 
+23 Desember 2020, 0:23 ,0.4, 18:15 ,0.4,45  rendah 
+24 Desember 2020, 0:15 ,0.4, 18:28 ,0.3,49  rendah 
+25 Desember 2020, 9:03 ,0.9, 18:51 ,0.3,55  rata-rata 
+26 Desember 2020, 9:07 ,1.0, 19:20 ,0.2,61  rata-rata 
+27 Desember 2020, 9:14 ,1.0, 19:53 ,0.2,67  rata-rata 
+28 Desember 2020, 9:25 ,1.0, 20:30 ,0.2,72  tinggi 
+29 Desember 2020, 9:40 ,1.1, 21:09 ,0.2,76  tinggi 
+30 Desember 2020, 9:57 ,1.1, 21:24 ,0.2,78  tinggi 
+31 Desember 2020, 10:16 ,1.1, 22:09 ,0.2,79  tinggi 

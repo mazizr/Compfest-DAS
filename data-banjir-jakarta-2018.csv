@@ -1,0 +1,136 @@
+,kota_administrasi,kecamatan,kelurahan,rw,jumlah_terdampak_rw,jumlah_terdampak_rt,jumlah_terdampak_kk,jumlah_terdampak_jiwa,ketinggian_air,tanggal_kejadian,lama_genangan,jumlah_meninggal,jumlah_hilang,jumlah_luka_berat,jumlah_luka_ringan,jumlah_pengungsi_tertinggi,jumlah_tempat_pengungsian,nilai_kerugian
+0,Jakarta Barat,PENJARINGAN,KAMAL MUARA,"01, 04",2,12,0,0,20 - 30 cm, 02 januari 2018,0,0,0,0,0,0,0,0
+1,Jakarta Utara,KALIDERES,KAMAL,"1, 4",2,3,0,0,10 - 25 cm," 03, 04, 05, 18, 31 januari 2018",0,0,0,0,0,0,0,0
+2,Jakarta Utara,GROGOL PETAMBURAN,JELAMBAR BARU,1,1,2,0,0,15 cm, 03 januari 2018,0,0,0,0,0,0,0,0
+3,Jakarta Utara,GROGOL PETAMBURAN,JELAMBAR,7,1,1,0,0,20 cm, 03 januari 2018,0,0,0,0,0,0,0,0
+4,Jakarta Utara,KEMBANGAN,KEMBANGAN UTARA,"3, 4, 5, 6",4,2,0,0,5 - 20 cm, 18 januari 2018,0,0,0,0,0,0,0,0
+5,Jakarta Utara,CENGKARENG,KAPUK,"02, 05, 06, 07, 09, 12, 13, 15, 16",9,21,0,0,5 - 30 cm, 18 januari 2018,0,0,0,0,0,0,0,0
+6,Jakarta Utara,CENGKARENG,RAWA BUAYA,"01, 02",2,1,0,0,15 - 20 cm , 18 januari 2018,0,0,0,0,0,0,0,0
+7,Jakarta Utara,CENGKARENG,CENGKARENG TIMUR,"03, 04, 12, 13",4,12,0,0,10 - 40 cm, 18 januari 2018,0,0,0,0,0,0,0,0
+0,Jakarta Pusat,CEMPAKA PUTIH,CEMPAKA PUTIH TIMUR,"05, 07, 08",3,7,0,0,10 - 35 cm," 15, 16 februari 2018",0,0,0,0,0,0,0,0
+1,Jakarta Pusat,KEMAYORAN,SERDANG,"01, 07",2,6,0,0,10 - 50 cm, 15 februari 2018,0,0,0,0,0,0,0,0
+2,Jakarta Utara,PENJARINGAN,KAMAL MUARA,"01, 02, 04",3,5,0,0,5 - 10 cm," 01, 15 februari 2018",0,0,0,0,0,0,0,0
+3,Jakarta Utara,PENJARINGAN,PENJARINGAN,"12, 17",2,3,0,0,10 - 35 cm, 15 februari 2018,0,0,0,0,0,0,0,0
+4,Jakarta Utara,PENJARINGAN,KAPUK MUARA,1,1,1,0,0,05 - 15 cm, 15 februari 2018,0,0,0,0,0,0,0,0
+5,Jakarta Utara,CILINCING,SUKAPURA,"01, 10",2,8,7,30,10 - 50 cm," 15, 16 februari 2018",0,0,0,0,30,1,0,0
+6,Jakarta Utara,KELAPA GADING,PEGANGSAAN DUA,3,1,1,30,100,60 - 70 cm," 15, 16 februari 2018",0,0,0,0,100,1,0,0
+7,Jakarta Utara,KOJA,TUGU SELATAN,4,1,2,38,140,40 cm," 15, 16 februari 2018",0,0,0,0,140,1,0,0
+8,Jakarta Barat,KALIDERES,TEGAL ALUR,"01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16",16,143,0,0,20 - 30 cm," 5, 15, 17 februari 2018",0,0,0,0,0,0,0,0
+9,Jakarta Barat,KALIDERES,KAMAL,"01, 02, 03, 04, 05, 06, 07, 08, 09",9,2,0,0,30 - 50 cm, 15 februari 2018,0,0,0,0,0,0,0,0
+10,Jakarta Barat,CENGKARENG,KAPUK,"01, 02, 03, 04, 05, 06, 07, 09, 10, 11, 12, 13, 15, 16",14,47,0,0,5 - 60 cm," 15, 16 februari 2018",0,0,0,0,0,0,0,0
+11,Jakarta Barat,CENGKARENG,RAWA BUAYA,"01, 02, 05, 11",4,15,0,0,5 - 30 cm, 15 februari 2018,0,0,0,0,0,0,0,0
+12,Jakarta Barat,CENGKARENG,DURI KOSAMBI,4,1,1,0,0,10 - 50 cm," 15, 16 februari 2018",0,0,0,0,0,0,0,0
+13,Jakarta Barat,CENGKARENG,CENGKARENG BARAT,"04, 06, 09, 10, 11, 16",6,13,0,0,10 - 80 cm," 15, 16 februari 2018",0,0,0,0,0,0,0,0
+14,Jakarta Barat,CENGKARENG,CENGKARENG TIMUR,"03, 12, 13, 14, 16",5,39,0,0,10 - 80 cm," 15, 16 februari 2018",0,0,0,0,0,0,0,0
+15,Jakarta Barat,KEMBANGAN,KEMBANGAN UTARA,"04, 10",2,3,0,0,15 - 30 cm, 15 februari 2018,0,0,0,0,0,0,0,0
+16,Jakarta Barat,KEBON JERUK,DURI KEPA,"01, 02, 03, 04, 10",5,4,0,0,15 - 60 cm, 15 februari 2018,0,0,0,0,0,0,0,0
+17,Jakarta Barat,GROGOL PETAMBURAN,WIJAYA KUSUMA,"03, 16",2,2,0,0,10 - 50 cm," 15, 16 februari 2018",0,0,0,0,0,0,0,0
+18,Jakarta Barat,GROGOL PETAMBURAN,JELAMBAR BARU,1,1,0,0,0,10 - 30 cm," 15, 16 februari 2018",0,0,0,0,0,0,0,0
+19,Jakarta Barat,PALMERAH,JATI PULO,5,1,3,0,0,30 - 50 cm," 15, 16 februari 2018",0,0,0,0,0,0,0,0
+20,Jakarta Selatan,CILANDAK,PONDOK LABU,3,1,1,98,480,40 - 50 cm," 05, 06 februari 2018",0,0,0,0,0,0,0,0
+21,Jakarta Selatan,PANCORAN,PANGADEGAN,"01, 02",2,6,600,2993,10 - 300 cm," 05, 06, 07, 08, 09 februari 2018",0,0,1,0,3200,7,0,0
+22,Jakarta Selatan,PANCORAN,RAWA JATI,"01, 03, 07",3,8,464,1509,10 - 250 cm," 05, 06, 07 februari 2018",0,0,0,0,2008,8,0,0
+23,Jakarta Selatan,PASAR MINGGU,PEJATEN TIMUR,"05, 06, 07, 08",4,10,324,962,30 - 200 cm," 05, 06, 07, 25, 26 februari 2018",0,0,0,0,1811,6,0,0
+24,Jakarta Selatan,TEBET,KEBON BARU,10,1,1,0,0,20 - 80 cm," 05, 06, 07 februari 2018",0,0,0,0,1278,1,0,0
+25,Jakarta Selatan,TEBET,MANGGARAI,"01, 04",2,5,540,2347,30 - 200 cm," 05, 06, 07 februari 2018",0,0,0,0,2119,3,0,0
+26,Jakarta Selatan,TEBET,BUKIT DURI,"10, 11",2,12,0,0,10 - 40 cm, 06 februari 2018,0,0,0,0,0,0,0,0
+27,Jakarta Selatan,JAGAKARSA,LENTENG AGUNG,"02, 03, 04, 06, 07",5,0,0,0,50 - 200 cm, 05 februari 2018,0,0,0,0,0,0,0,0
+28,Jakarta Selatan,JAGAKARSA,SRENGSENG SAWAH,"01, 02, 05, 06, 07, 08, 12",7,12,113,265,100 - 300 cm," 05, 06 februari 2018",0,0,0,0,0,0,0,0
+29,Jakarta Selatan,MAMPANG PRAPATAN,BANGKA,2,1,1,0,0,30 - 40 cm," 05, 06 februari 2018",0,0,0,0,0,0,0,0
+30,Jakarta Timur,CAKUNG,RAWA TERATE,"04, 05",2,3,0,0,10 - 120 cm," 03, 05, 06,15, 16, 17 februari 2018",0,0,0,0,0,0,0,0
+31,Jakarta Timur,CAKUNG,CAKUNG BARAT,"03, 07, 08",3,10,18,56,30 - 70 cm," 15, 16 februari 2018",1,0,0,0,46,1,0,0
+32,Jakarta Timur,CAKUNG,JATINEGARA,"01, 02, 03, 05, 06, 07, 08, 11, 14",9,14,0,0,10 - 30 cm, 15 februari 2018,0,0,0,0,0,0,0,0
+33,Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,"01, 02, 04, 05, 06, 07, 08",8,55,983,3074,10 - 220 cm," 03, 05, 06, 07, 08, 13, 26 februari 2018",0,0,0,0,1392,10,0,0
+34,Jakarta Timur,JATINEGARA,BIDARA CINA,"03, 05, 06, 07, 11, 12, 14, 15, 16",9,32,876,2642,10 - 250 cm," 05, 06, 07, 08, 09, 26 februari 2018",0,0,0,0,553,8,0,0
+35,Jakarta Timur,JATINEGARA,CIPINANG MUARA,13,1,3,0,0,10 - 120 cm," 05, 06 februari 2018",0,0,0,0,0,0,0,0
+36,Jakarta Timur,MAKASAR,CIPINANG MELAYU,"03, 04, 05",3,13,0,0,20 - 90 cm, 05 februari 2018,0,0,0,0,0,0,0,0
+37,Jakarta Timur,MAKASAR,MAKASAR,4,1,2,0,0,20 - 50 cm," 05, 06 februari 2018",0,0,0,0,0,0,0,0
+38,Jakarta Timur,KRAMAT JATI,CAWANG,"01, 02, 03, 05, 08, 12",6,27,1066,3584,20 - 270 cm," 05, 06, 07, 26 februari 2018",0,0,0,0,557,4,0,0
+39,Jakarta Timur,KRAMAT JATI,CILILITAN,"05, 06, 07, 15, 16",5,10,251,806,30 - 250 cm," 05, 06, 07 februari 2018",0,0,0,0,350,3,0,0
+40,Jakarta Timur,KRAMAT JATI,BALE KAMBANG,"01, 02, 05",3,9,18,54,60 - 300 cm," 05, 06, 07, 08, 09, 10 februari 2018",0,0,0,0,1560,4,0,0
+41,Jakarta Timur,PASAR REBO,GEDONG,3,1,1,0,0,50 - 150 cm," 05, 06 februari 2018",0,0,0,0,0,0,0,0
+42,Jakarta Timur,MATRAMAN,KEBON MANGGIS,"03, 04",2,8,41,414,20 - 80 cm," 06, 07 februari 2018",0,0,0,0,414,2,0,0
+0,Jakarta Selatan,PANCORAN,RAWAJATI,7,1,4,0,0,30 - 80 cm, 4 maret 2018,0,0,0,0,0,0,0,0
+1,Jakarta Selatan,PASAR MINGGU,PEJATEN TIMUR,"05, 06, 08",3,3,0,0,10 - 50 cm," 4, 10 maret 2018",0,0,0,0,0,0,0,0
+2,Jakarta Selatan,TEBET,KEBON BARU,10,1,1,0,0,30 cm, 4 maret 2018,0,0,0,0,0,0,0,0
+3,Jakarta Timur,JATINEGARA,BIDARA CINA,"07, 11",2,3,0,0,10 - 50 cm," 4, 10 maret 2018",0,0,0,0,0,0,0,0
+4,Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,"04, 05, 06, 07, 08",5,26,303,1000,10 - 100 cm," 4, 10, 13 maret 2018",0,0,0,0,0,0,0,0
+5,Jakarta Timur,KRAMAT JATI,CAWANG,"01, 02, 03, 05, 08",5,0,0,0,10 - 50 cm," 4, 10, 13 maret 2018",0,0,0,0,0,0,0,0
+6,Jakarta Timur,KRAMAT JATI,CILILITAN,"06, 07",2,0,0,0,50 - 100 cm, 4 maret 2018,0,0,0,0,0,0,0,0
+7,Jakarta Timur,MAKASAR,CIPINANG MELAYU,"03, 04",2,9,0,0,10 cm, 12 maret 2018,0,0,0,0,0,0,0,0
+0,Jakarta Selatan,PESANGGRAHAN,ULUJAMI,1,1,1,0,0,20 - 30 CM, 22 april 2018,0,0,0,0,0,0,0,0
+1,Jakarta Timur,CAKUNG,JATINEGARA ,2,1,1,0,0,50 - 90 cm, 4 april 2018,0,0,0,0,0,0,0,0
+2,Jakarta Timur,CAKUNG, PENGGILINGAN ,12,1,1,0,0,20 - 30 cm, 18 april 2018,0,0,0,0,0,0,0,0
+3,Jakarta Timur,MAKASAR,CIPINANG MELAYU,"3 , 4",2,3,0,0,5 - 10 cm, 4 april 2018,0,0,0,0,0,0,0,0
+4,Jakarta Timur,PULOGADUNG,RAWAMANGUN,14,1,1,0,0,20 - 50 cm, 4  april 2018,0,0,0,0,0,0,0,0
+5,Jakarta Timur,JATINEGARA ,KAMPUNG MELAYU,"04 , 05, 06, 07, 08 ",5,27,300,988,05 - 60 cm," 08, 10 , 17 april 2018",0,0,0,0,0,0,0,0
+6,Jakarta Timur,JATINEGARA ,BIDARA CINA,"5, 7, 11 ",3,6,0,0,10 - 35 cm," 08, 10 , 17 april 2018",0,0,0,0,0,0,0,0
+7,Jakarta Timur,KRAMAT JATI,CAWANG ,"01, 02, 03, 05, 08",5,21,0,0,10 - 60 cm," 08, 10 , 17 april 2018",0,0,0,0,0,0,0,0
+0,Jakarta Barat,KEC. KALIDERES,KEL. KAMAL,01,1,2,0,0,20 cm, 17 mei 2018,0,0,0,0,0,0,0,0
+1,Jakarta Selatan,KEC. PASAR MINGGU,KEL. JATI PADANG,"02, 04, 05, 06, 09",5,10,0,0,10 - 40 cm, 03 mei 2018,0,0,0,0,0,0,0,0
+2,Jakarta Selatan,KEC. PASAR MINGGU,KEL. RAGUNAN,"07, 08",2,2,0,0,10 - 30 cm, 03 mei 2018,0,0,0,0,0,0,0,0
+3,Jakarta Selatan,KEC. PASAR MINGGU,KEL. CILANDAK TIMUR,"01, 03, 04, 09, 13",5,4,7,20,10 - 120 cm," 03, 20 mei 2018",0,0,0,0,9,1,0,0
+4,Jakarta Selatan,KEC. PASAR MINGGU,KEL. PEJATEN TIMUR,"05, 06, 07, 08",4,5,0,0,10 - 50 cm, 21 mei 2018,0,0,0,0,0,0,0,0
+5,Jakarta Selatan,KEC. MAMPANG PRAPATAN,KEL. BANGKA,"01, 02, 03, 04",4,7,20,60,100 - 150 cm, 03 mei 2018,0,0,0,0,60,1,0,0
+6,Jakarta Selatan,KEC. PANCORAN,KEL. DUREN TIGA,"01, 02, 05",3,4,0,0,10 - 60 cm, 03 mei 2018,0,0,0,0,0,0,0,0
+7,Jakarta Selatan,KEC. PANCORAN,KEL. RAWAJATI,07,1,3,0,0,30 - 60 cm, 21 mei 2018,0,0,0,0,0,0,0,0
+8,Jakarta Selatan,KEC. PANCORAN,KEL. PENGADEGAN,01,1,1,0,0,10 - 50 cm, 21 mei 2018,0,0,0,0,0,0,0,0
+9,Jakarta Selatan,KEC. CILANDAK,KEL. PONDOK LABU,"01, 02, 03, 07",4,4,0,0,10 - 80 cm, 03 mei 2018,0,0,0,0,0,0,0,0
+10,Jakarta Selatan,KEC. CILANDAK,KEL. CIPETE SELATAN,"01, 07",2,2,0,0,20 - 40 cm, 03 mei 2018,0,0,0,0,0,0,0,0
+11,Jakarta Selatan,KEC. KEBAYORAN BARU,KEL. PETOGOGAN,02,1,4,0,0,40 cm, 03 mei 2018,0,0,0,0,0,0,0,0
+12,Jakarta Selatan,KEC. TEBET,KEL. KEBON BARU,01,1,1,0,0,10 - 20 cm, 21 mei 2018,0,0,0,0,0,0,0,0
+13,Jakarta Timur,KEC. JATINEGARA,KEL. KAMPUNG MELAYU,"04, 05, 07, 08",4,25,187,636,10 - 100 cm," 20, 21 mei 2018",0,0,0,0,0,0,0,0
+14,Jakarta Timur,KEC. JATINEGARA,KEL. BIDARA CINA,"07, 11",2,5,0,0,70 - 110 cm, 21 mei 2018,0,0,0,0,0,0,0,0
+15,Jakarta Timur,KEC. KRAMAT JATI,KEL. CAWANG,"01, 02, 03, 05, 08",5,19,0,0,10 - 70 cm," 20, 21 mei 2018",0,0,0,0,0,0,0,0
+16,Jakarta Timur,KEC. KRAMAT JATI,KEL. CILILITAN,"06, 07",2,3,0,0,10 - 30 cm, 21 mei 2018,0,0,0,0,0,0,0,0
+0,Jakarta Selatan,KEC. PASAR MINGGU,KEL. PEJATEN TIMUR,"05, 06, 07, 08",4,7,0,0,10 - 30 cm, 25 juni 2018,0,0,0,0,0,0,0,0
+1,Jakarta Selatan,KEC. PANCORAN,KEL. PENGADEGAN,1,1,1,0,0,10 - 15 cm, 25 juni 2018,0,0,0,0,0,0,0,0
+2,Jakarta Selatan,KEC. KEBAYORAN LAMA,KEL. PONDOK PINANG,5,1,1,0,0,30 - 60 cm, 25 juni 2018,0,0,0,0,0,0,0,0
+3,Jakarta Selatan,KEC. KEBAYORAN LAMA,KEL. CIPULIR,10,1,1,0,0,10 - 30 cm, 25 juni 2018,0,0,0,0,0,0,0,0
+4,Jakarta Timur,KEC. JATINEGARA,KEL. KAMPUNG MELAYU,"04, 05, 06, 07, 08",5,27,327,1065,10 - 100 cm," 24, 25 juni 2018",0,0,0,0,0,0,0,0
+5,Jakarta Timur,KEC. JATINEGARA,KEL. BIDARA CINA,"07, 11",2,8,0,0,50 - 75 cm, 25 juni 2018,0,0,0,0,0,0,0,0
+6,Jakarta Timur,KEC. KRAMAT JATI,KEL. CAWANG,"03, 05, 08",3,3,0,0,10 - 20 cm," 24, 25 juni 2018",0,0,0,0,0,0,0,0
+7,Jakarta Timur,KEC. KRAMAT JATI,KEL. CILILITAN,7,1,1,1,3,10 - 30 cm, 25 juni 2018,0,0,0,0,0,0,0,0
+0,Jakarta Pusat,KEC. SAWAH BESAR,KEL. GUNUNG SAHARI UTARA,1,1,3,0,0,10 - 40 cm, 29 oktober 2018,0,0,0,0,0,0,0,0
+1,Jakarta Barat,KEC. CENGKARENG,KEL. RAWA BUAYA,"03, 11",2,3,0,0,20 S/D 30, 29 oktober 2018,0,0,0,0,0,0,0,0
+2,Jakarta Timur,KEC. JATINEGARA,KEL. KAMPUNG MELAYU,"04, 05",4,21,212,711,30 - 80 cm," 23, 29 oktober 2018",0,0,0,0,0,0,0,0
+3,Jakarta Timur,KEC. JATINEGARA,KEL. BIDARA CINA,"07, 11",2,4,175,290,50 - 60 cm, 29 oktober 2018,0,0,0,0,0,0,0,0
+4,Jakarta Timur,KEC. KRAMAT JATI,KEL. CAWANG,"01, 02, 03, 05",4,8,0,0,10 - 50 cm, 29 oktober 2018,0,0,0,0,0,0,0,0
+0,Jakarta Utara,KEC. PENJARINGAN,KEL. PLUIT,22,1,1,0,0,2 - 15 cm," 26, 29 november 2018",0,0,0,0,0,0,0,0
+1,Jakarta Utara,KEC. PENJARINGAN,KEL. KAMAL MUARA,4,1,5,0,0,5 - 10 cm," 26, 27 november 2018",0,0,0,0,0,0,0,0
+2,Jakarta Barat,KEC. KALIDERES,KEL. KAMAL,1,1,2,0,0,5 - 30 cm," 27, 28, 29 november 2018",0,0,0,0,0,0,0,0
+3,Jakarta Selatan,KEC. KEBAYORAN LAMA,KEL. PONDOK PINANG,5,1,4,0,0,10 - 20 cm, 09 november 2018,0,0,0,0,0,0,0,0
+4,Jakarta Selatan,KEC. PASAR MINGGU,KEL. PEJATEN TIMUR,"05, 06, 08",3,3,0,0,10 - 30 cm, 12 november 2018,0,0,0,0,0,0,0,0
+5,Jakarta Selatan,KEC. PASAR MINGGU,KEL. CILANDAK TIMUR,"03, 09",2,2,0,0,10 - 30 cm, 28 november 2018,0,0,0,0,0,0,0,0
+6,Jakarta Selatan,KEC. CILANDAK,KEL. GANDARIA SELATAN,"05, 07",2,4,0,0,60 - 70 cm, 28 november 2018,0,0,0,0,0,0,0,0
+7,Jakarta Selatan,KEC. PESANGGRAHAN,KEL. ULUJAMI,1,1,1,825,4000,40 - 70 cm, 28 november 2018,0,0,0,0,0,0,0,0
+8,Jakarta Timur,KEC. MAKASAR,KEL. CIPINANG MELAYU,"03, 04",2,10,560,1858,30 - 50 cm, 11 november 2018,0,0,0,0,0,0,0,0
+9,Jakarta Timur,KEC. JATINEGARA,KEL. CIPINANG MUARA,13,1,3,60,240,60 - 80 cm, 11 november 2018,0,0,0,0,0,0,0,0
+10,Jakarta Timur,KEC. JATINEGARA,KEL. KAMPUNG MELAYU,"04, 05, 07, 08",4,25,235,789,10 - 100 cm, 12 november 2018,0,0,0,0,0,0,0,0
+11,Jakarta Timur,KEC. JATINEGARA,KEL. BIDARA CINA,"07, 11",2,5,168,710,20 - 60 cm, 12 november 2018,0,0,0,0,0,0,0,0
+12,Jakarta Timur,KEC. CIRACAS,KEL. RAMBUTAN,5,1,1,0,0,10 - 30 cm, 11 november 2018,0,0,0,0,0,0,0,0
+13,Jakarta Timur,KEC. KRAMAT JATI,KEL. CAWANG,"02, 03, 05, 08",4,2,0,0,10 - 50 cm, 12 november 2018,0,0,0,0,0,0,0,0
+14,Jakarta Timur,KEC. CAKUNG,KEL. JATINEGARA,8,1,1,0,0,10 - 15 cm, 29 november 2018,0,0,0,0,0,0,0,0
+15,Jakarta Timur,KEC. CAKUNG,KEL. RAWA TERATE,5,1,1,0,0,5 - 20 cm, 29 november 2018,0,0,0,0,0,0,0,0
+0,Jakarta Utara,KEC. PENJARINGAN,KEL. PLUIT,22,1,1,0,0,5 - 10 cm," 4, 5, 7 desember 2018",0,0,0,0,0,0,0,0
+1,Jakarta Utara,KEC. PENJARINGAN,KEL. KAMAL MUARA,4,1,3,0,0,3 - 10 cm," 4, 5, 6, 7, 8, 11, 13 desember 2018",0,0,0,0,0,0,0,0
+2,Jakarta Utara,KEC. PENJARINGAN,KEL. PENJARINGAN,17,1,0,0,0,5 - 10 cm, 07 desember 2018,0,0,0,0,0,0,0,0
+3,Jakarta Barat,KEC. KALIDERES,KEL. KAMAL,1,1,3,0,0,6 - 10 cm," 4, 5, 6, 11, 12 desember 2018",0,0,0,0,0,0,0,0
+4,Jakarta Barat,KEC. CENGKARENG,KEL. RAWA BUAYA,"1, 2, 3, 4, 7, 8, 11",7,12,0,0,15 - 60 cm, 12 desember 2018,0,0,0,0,0,0,0,0
+5,Jakarta Barat,KEC. CENGKARENG,KEL. CENGKARENG TIMUR,3,1,1,0,0,20 - 30 cm, 12 desember 2018,0,0,0,0,0,0,0,0
+6,Jakarta Barat,KEC. CENGKARENG,KEL. DURI KOSAMBI,"4, 5, 6",3,6,34,77,10 - 40 cm, 12 desember 2018,0,0,0,0,0,0,0,0
+7,Jakarta Barat,KEC. KEMBANGAN,KEL. KEMBANGAN UTARA,1,1,1,0,0,50 cm, 12 desember 2018,0,0,0,0,0,0,0,0
+8,Jakarta Selatan,KEC. CILANDAK,KEL. CILANDAK BARAT,"02, 06",2,2,0,0,20 - 60 cm, 4 desember 2018,0,0,0,0,0,0,0,0
+9,Jakarta Selatan,KEC. CILANDAK,KEL. PONDOK LABU,7,1,4,0,0,20 - 60 cm, 13 desember 2018,0,0,0,0,0,0,0,0
+10,Jakarta Selatan,KEC. PANCORAN,KEL. KALIBATA,9,1,5,0,0,30 cm, 10 desember 2018,0,0,0,0,0,0,0,0
+11,Jakarta Selatan,KEC. PANCORAN,KEL. DUREN TIGA,5,1,1,0,0,70 cm, 10 desember 2018,0,0,0,0,0,0,0,0
+12,Jakarta Selatan,KEC. MAMPANG PRAPATAN,KEL. BANGKA,"02, 03, 04",3,5,0,0,50 - 80 cm," 10, 13 desember 2018",0,0,0,0,0,0,0,0
+13,Jakarta Selatan,KEC. KEBAYORAN BARU,KEL. PETOGOGAN,"1, 2, 3, 5",4,27,0,0,10 - 40 cm," 10, 12, 13 desember 2018",0,0,0,0,0,0,0,0
+14,Jakarta Selatan,KEC. KEBAYORAN BARU,KEL. CIPETE UTARA,6,1,1,0,0,20 - 40 cm, 13 desember 2018,0,0,0,0,0,0,0,0
+15,Jakarta Selatan,KEC. PASAR MINGGU,KEL. CILANDAK TIMUR,"1, 3",2,3,0,0,10 - 100 cm, 13 desember 2018,0,0,0,0,0,0,0,0
+16,Jakarta Selatan,KEC. KEBAYORAN LAMA,KEL. CIPULIR,10,1,2,0,0,30 - 80 cm, 13 desember 2018,0,0,0,0,0,0,0,0
+17,Jakarta Selatan,KEC. PESANGGRAHAN,KEL. ULUJAMI,1,1,8,0,0,20 - 40 cm, 11 desember 2018,0,0,0,0,0,0,0,0
+18,Jakarta Timur,KEC. CAKUNG,KEL. RAWA TERATE,5,1,1,0,0,10 - 100 cm, 3 desember 2018,0,0,0,0,0,0,0,0
+19,Jakarta Timur,KEC. CAKUNG,KEL. CAKUNG TIMUR,9,1,4,210,800,20 cm, 3 desember 2018,0,0,0,0,0,0,0,0
+20,Jakarta Timur,KEC. MAKASAR,KEL. CIPINANG MELAYU,4,1,1,0,0,10 - 30 cm, 6 desember 2018,0,0,0,0,0,0,0,0
+21,Jakarta Timur,KEC. CIRACAS,KEL. RAMBUTAN,"03, 05",2,4,0,0,10 - 50, 11 desember 2018,0,0,0,0,0,0,0,0
