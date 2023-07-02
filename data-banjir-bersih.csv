@@ -1,0 +1,2183 @@
+,tanggal_kejadian,kota_administrasi,lokasi,rw,jumlah_terdampak_jiwa,ketinggian_air
+0,2 januari 2018,jakarta barat,"jakarta barat, kamal muara","01, 04",0,20 - 30 cm
+1,3 januari 2018,jakarta utara,"jakarta utara, kamal","1, 4",0,10 - 25 cm
+2,4 januari 2018,jakarta utara,"jakarta utara, kamal","1, 4",0,10 - 25 cm
+3,5 januari 2018,jakarta utara,"jakarta utara, kamal","1, 4",0,10 - 25 cm
+4,18 januari 2018,jakarta utara,"jakarta utara, kamal","1, 4",0,10 - 25 cm
+5,31 januari 2018,jakarta utara,"jakarta utara, kamal","1, 4",0,10 - 25 cm
+6,3 januari 2018,jakarta utara,"jakarta utara, jelambar baru",1,0,15 cm
+7,3 januari 2018,jakarta utara,"jakarta utara, jelambar",7,0,20 cm
+8,18 januari 2018,jakarta utara,"jakarta utara, kembangan utara","3, 4, 5, 6",0,5 - 20 cm
+9,18 januari 2018,jakarta utara,"jakarta utara, kapuk","02, 05, 06, 07, 09, 12, 13, 15, 16",0,5 - 30 cm
+10,18 januari 2018,jakarta utara,"jakarta utara, rawa buaya","01, 02",0,15 - 20 cm 
+11,18 januari 2018,jakarta utara,"jakarta utara, cengkareng timur","03, 04, 12, 13",0,10 - 40 cm
+12,15 februari 2018,jakarta pusat,"jakarta pusat, cempaka putih timur","05, 07, 08",0,10 - 35 cm
+13,16 februari 2018,jakarta pusat,"jakarta pusat, cempaka putih timur","05, 07, 08",0,10 - 35 cm
+14,15 februari 2018,jakarta pusat,"jakarta pusat, serdang","01, 07",0,10 - 50 cm
+15,1 februari 2018,jakarta utara,"jakarta utara, kamal muara","01, 02, 04",0,5 - 10 cm
+16,15 februari 2018,jakarta utara,"jakarta utara, kamal muara","01, 02, 04",0,5 - 10 cm
+17,15 februari 2018,jakarta utara,"jakarta utara, penjaringan","12, 17",0,10 - 35 cm
+18,15 februari 2018,jakarta utara,"jakarta utara, kapuk muara",1,0,05 - 15 cm
+19,15 februari 2018,jakarta utara,"jakarta utara, sukapura","01, 10",30,10 - 50 cm
+20,16 februari 2018,jakarta utara,"jakarta utara, sukapura","01, 10",30,10 - 50 cm
+21,15 februari 2018,jakarta utara,"jakarta utara, pegangsaan dua",3,100,60 - 70 cm
+22,16 februari 2018,jakarta utara,"jakarta utara, pegangsaan dua",3,100,60 - 70 cm
+23,15 februari 2018,jakarta utara,"jakarta utara, tugu selatan",4,140,40 cm
+24,16 februari 2018,jakarta utara,"jakarta utara, tugu selatan",4,140,40 cm
+25,5 februari 2018,jakarta barat,"jakarta barat, tegal alur","01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16",0,20 - 30 cm
+26,15 februari 2018,jakarta barat,"jakarta barat, tegal alur","01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16",0,20 - 30 cm
+27,17 februari 2018,jakarta barat,"jakarta barat, tegal alur","01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16",0,20 - 30 cm
+28,15 februari 2018,jakarta barat,"jakarta barat, kamal","01, 02, 03, 04, 05, 06, 07, 08, 09",0,30 - 50 cm
+29,15 februari 2018,jakarta barat,"jakarta barat, kapuk","01, 02, 03, 04, 05, 06, 07, 09, 10, 11, 12, 13, 15, 16",0,5 - 60 cm
+30,16 februari 2018,jakarta barat,"jakarta barat, kapuk","01, 02, 03, 04, 05, 06, 07, 09, 10, 11, 12, 13, 15, 16",0,5 - 60 cm
+31,15 februari 2018,jakarta barat,"jakarta barat, rawa buaya","01, 02, 05, 11",0,5 - 30 cm
+32,15 februari 2018,jakarta barat,"jakarta barat, duri kosambi",4,0,10 - 50 cm
+33,16 februari 2018,jakarta barat,"jakarta barat, duri kosambi",4,0,10 - 50 cm
+34,15 februari 2018,jakarta barat,"jakarta barat, cengkareng barat","04, 06, 09, 10, 11, 16",0,10 - 80 cm
+35,16 februari 2018,jakarta barat,"jakarta barat, cengkareng barat","04, 06, 09, 10, 11, 16",0,10 - 80 cm
+36,15 februari 2018,jakarta barat,"jakarta barat, cengkareng timur","03, 12, 13, 14, 16",0,10 - 80 cm
+37,16 februari 2018,jakarta barat,"jakarta barat, cengkareng timur","03, 12, 13, 14, 16",0,10 - 80 cm
+38,15 februari 2018,jakarta barat,"jakarta barat, kembangan utara","04, 10",0,15 - 30 cm
+39,15 februari 2018,jakarta barat,"jakarta barat, duri kepa","01, 02, 03, 04, 10",0,15 - 60 cm
+40,15 februari 2018,jakarta barat,"jakarta barat, wijaya kusuma","03, 16",0,10 - 50 cm
+41,16 februari 2018,jakarta barat,"jakarta barat, wijaya kusuma","03, 16",0,10 - 50 cm
+42,15 februari 2018,jakarta barat,"jakarta barat, jelambar baru",1,0,10 - 30 cm
+43,16 februari 2018,jakarta barat,"jakarta barat, jelambar baru",1,0,10 - 30 cm
+44,15 februari 2018,jakarta barat,"jakarta barat, jati pulo",5,0,30 - 50 cm
+45,16 februari 2018,jakarta barat,"jakarta barat, jati pulo",5,0,30 - 50 cm
+46,5 februari 2018,jakarta selatan,"jakarta selatan, pondok labu",3,480,40 - 50 cm
+47,6 februari 2018,jakarta selatan,"jakarta selatan, pondok labu",3,480,40 - 50 cm
+48,5 februari 2018,jakarta selatan,"jakarta selatan, pangadegan","01, 02",2993,10 - 300 cm
+49,6 februari 2018,jakarta selatan,"jakarta selatan, pangadegan","01, 02",2993,10 - 300 cm
+50,7 februari 2018,jakarta selatan,"jakarta selatan, pangadegan","01, 02",2993,10 - 300 cm
+51,8 februari 2018,jakarta selatan,"jakarta selatan, pangadegan","01, 02",2993,10 - 300 cm
+52,9 februari 2018,jakarta selatan,"jakarta selatan, pangadegan","01, 02",2993,10 - 300 cm
+53,5 februari 2018,jakarta selatan,"jakarta selatan, rawa jati","01, 03, 07",1509,10 - 250 cm
+54,6 februari 2018,jakarta selatan,"jakarta selatan, rawa jati","01, 03, 07",1509,10 - 250 cm
+55,7 februari 2018,jakarta selatan,"jakarta selatan, rawa jati","01, 03, 07",1509,10 - 250 cm
+56,5 februari 2018,jakarta selatan,"jakarta selatan, pejaten timur","05, 06, 07, 08",962,30 - 200 cm
+57,6 februari 2018,jakarta selatan,"jakarta selatan, pejaten timur","05, 06, 07, 08",962,30 - 200 cm
+58,7 februari 2018,jakarta selatan,"jakarta selatan, pejaten timur","05, 06, 07, 08",962,30 - 200 cm
+59,25 februari 2018,jakarta selatan,"jakarta selatan, pejaten timur","05, 06, 07, 08",962,30 - 200 cm
+60,26 februari 2018,jakarta selatan,"jakarta selatan, pejaten timur","05, 06, 07, 08",962,30 - 200 cm
+61,5 februari 2018,jakarta selatan,"jakarta selatan, kebon baru",10,0,20 - 80 cm
+62,6 februari 2018,jakarta selatan,"jakarta selatan, kebon baru",10,0,20 - 80 cm
+63,7 februari 2018,jakarta selatan,"jakarta selatan, kebon baru",10,0,20 - 80 cm
+64,5 februari 2018,jakarta selatan,"jakarta selatan, manggarai","01, 04",2347,30 - 200 cm
+65,6 februari 2018,jakarta selatan,"jakarta selatan, manggarai","01, 04",2347,30 - 200 cm
+66,7 februari 2018,jakarta selatan,"jakarta selatan, manggarai","01, 04",2347,30 - 200 cm
+67,6 februari 2018,jakarta selatan,"jakarta selatan, bukit duri","10, 11",0,10 - 40 cm
+68,5 februari 2018,jakarta selatan,"jakarta selatan, lenteng agung","02, 03, 04, 06, 07",0,50 - 200 cm
+69,5 februari 2018,jakarta selatan,"jakarta selatan, srengseng sawah","01, 02, 05, 06, 07, 08, 12",265,100 - 300 cm
+70,6 februari 2018,jakarta selatan,"jakarta selatan, srengseng sawah","01, 02, 05, 06, 07, 08, 12",265,100 - 300 cm
+71,5 februari 2018,jakarta selatan,"jakarta selatan, bangka",2,0,30 - 40 cm
+72,6 februari 2018,jakarta selatan,"jakarta selatan, bangka",2,0,30 - 40 cm
+73,3 februari 2018,jakarta timur,"jakarta timur, rawa terate","04, 05",0,10 - 120 cm
+74,5 februari 2018,jakarta timur,"jakarta timur, rawa terate","04, 05",0,10 - 120 cm
+75,6 februari 2018,jakarta timur,"jakarta timur, rawa terate","04, 05",0,10 - 120 cm
+76,15 februari 2018,jakarta timur,"jakarta timur, rawa terate","04, 05",0,10 - 120 cm
+77,16 februari 2018,jakarta timur,"jakarta timur, rawa terate","04, 05",0,10 - 120 cm
+78,17 februari 2018,jakarta timur,"jakarta timur, rawa terate","04, 05",0,10 - 120 cm
+79,15 februari 2018,jakarta timur,"jakarta timur, cakung barat","03, 07, 08",56,30 - 70 cm
+80,16 februari 2018,jakarta timur,"jakarta timur, cakung barat","03, 07, 08",56,30 - 70 cm
+81,15 februari 2018,jakarta timur,"jakarta timur, jatinegara","01, 02, 03, 05, 06, 07, 08, 11, 14",0,10 - 30 cm
+82,3 februari 2018,jakarta timur,"jakarta timur, kampung melayu","01, 02, 04, 05, 06, 07, 08",3074,10 - 220 cm
+83,5 februari 2018,jakarta timur,"jakarta timur, kampung melayu","01, 02, 04, 05, 06, 07, 08",3074,10 - 220 cm
+84,6 februari 2018,jakarta timur,"jakarta timur, kampung melayu","01, 02, 04, 05, 06, 07, 08",3074,10 - 220 cm
+85,7 februari 2018,jakarta timur,"jakarta timur, kampung melayu","01, 02, 04, 05, 06, 07, 08",3074,10 - 220 cm
+86,8 februari 2018,jakarta timur,"jakarta timur, kampung melayu","01, 02, 04, 05, 06, 07, 08",3074,10 - 220 cm
+87,13 februari 2018,jakarta timur,"jakarta timur, kampung melayu","01, 02, 04, 05, 06, 07, 08",3074,10 - 220 cm
+88,26 februari 2018,jakarta timur,"jakarta timur, kampung melayu","01, 02, 04, 05, 06, 07, 08",3074,10 - 220 cm
+89,5 februari 2018,jakarta timur,"jakarta timur, bidara cina","03, 05, 06, 07, 11, 12, 14, 15, 16",2642,10 - 250 cm
+90,6 februari 2018,jakarta timur,"jakarta timur, bidara cina","03, 05, 06, 07, 11, 12, 14, 15, 16",2642,10 - 250 cm
+91,7 februari 2018,jakarta timur,"jakarta timur, bidara cina","03, 05, 06, 07, 11, 12, 14, 15, 16",2642,10 - 250 cm
+92,8 februari 2018,jakarta timur,"jakarta timur, bidara cina","03, 05, 06, 07, 11, 12, 14, 15, 16",2642,10 - 250 cm
+93,9 februari 2018,jakarta timur,"jakarta timur, bidara cina","03, 05, 06, 07, 11, 12, 14, 15, 16",2642,10 - 250 cm
+94,26 februari 2018,jakarta timur,"jakarta timur, bidara cina","03, 05, 06, 07, 11, 12, 14, 15, 16",2642,10 - 250 cm
+95,5 februari 2018,jakarta timur,"jakarta timur, cipinang muara",13,0,10 - 120 cm
+96,6 februari 2018,jakarta timur,"jakarta timur, cipinang muara",13,0,10 - 120 cm
+97,5 februari 2018,jakarta timur,"jakarta timur, cipinang melayu","03, 04, 05",0,20 - 90 cm
+98,5 februari 2018,jakarta timur,"jakarta timur, makasar",4,0,20 - 50 cm
+99,6 februari 2018,jakarta timur,"jakarta timur, makasar",4,0,20 - 50 cm
+100,5 februari 2018,jakarta timur,"jakarta timur, cawang","01, 02, 03, 05, 08, 12",3584,20 - 270 cm
+101,6 februari 2018,jakarta timur,"jakarta timur, cawang","01, 02, 03, 05, 08, 12",3584,20 - 270 cm
+102,7 februari 2018,jakarta timur,"jakarta timur, cawang","01, 02, 03, 05, 08, 12",3584,20 - 270 cm
+103,26 februari 2018,jakarta timur,"jakarta timur, cawang","01, 02, 03, 05, 08, 12",3584,20 - 270 cm
+104,5 februari 2018,jakarta timur,"jakarta timur, cililitan","05, 06, 07, 15, 16",806,30 - 250 cm
+105,6 februari 2018,jakarta timur,"jakarta timur, cililitan","05, 06, 07, 15, 16",806,30 - 250 cm
+106,7 februari 2018,jakarta timur,"jakarta timur, cililitan","05, 06, 07, 15, 16",806,30 - 250 cm
+107,5 februari 2018,jakarta timur,"jakarta timur, bale kambang","01, 02, 05",54,60 - 300 cm
+108,6 februari 2018,jakarta timur,"jakarta timur, bale kambang","01, 02, 05",54,60 - 300 cm
+109,7 februari 2018,jakarta timur,"jakarta timur, bale kambang","01, 02, 05",54,60 - 300 cm
+110,8 februari 2018,jakarta timur,"jakarta timur, bale kambang","01, 02, 05",54,60 - 300 cm
+111,9 februari 2018,jakarta timur,"jakarta timur, bale kambang","01, 02, 05",54,60 - 300 cm
+112,10 februari 2018,jakarta timur,"jakarta timur, bale kambang","01, 02, 05",54,60 - 300 cm
+113,5 februari 2018,jakarta timur,"jakarta timur, gedong",3,0,50 - 150 cm
+114,6 februari 2018,jakarta timur,"jakarta timur, gedong",3,0,50 - 150 cm
+115,6 februari 2018,jakarta timur,"jakarta timur, kebon manggis","03, 04",414,20 - 80 cm
+116,7 februari 2018,jakarta timur,"jakarta timur, kebon manggis","03, 04",414,20 - 80 cm
+117,4 maret 2018,jakarta selatan,"jakarta selatan, rawajati",7,0,30 - 80 cm
+118,4 maret 2018,jakarta selatan,"jakarta selatan, pejaten timur","05, 06, 08",0,10 - 50 cm
+119,10 maret 2018,jakarta selatan,"jakarta selatan, pejaten timur","05, 06, 08",0,10 - 50 cm
+120,4 maret 2018,jakarta selatan,"jakarta selatan, kebon baru",10,0,30 cm
+121,4 maret 2018,jakarta timur,"jakarta timur, bidara cina","07, 11",0,10 - 50 cm
+122,10 maret 2018,jakarta timur,"jakarta timur, bidara cina","07, 11",0,10 - 50 cm
+123,4 maret 2018,jakarta timur,"jakarta timur, kampung melayu","04, 05, 06, 07, 08",1000,10 - 100 cm
+124,10 maret 2018,jakarta timur,"jakarta timur, kampung melayu","04, 05, 06, 07, 08",1000,10 - 100 cm
+125,13 maret 2018,jakarta timur,"jakarta timur, kampung melayu","04, 05, 06, 07, 08",1000,10 - 100 cm
+126,4 maret 2018,jakarta timur,"jakarta timur, cawang","01, 02, 03, 05, 08",0,10 - 50 cm
+127,10 maret 2018,jakarta timur,"jakarta timur, cawang","01, 02, 03, 05, 08",0,10 - 50 cm
+128,13 maret 2018,jakarta timur,"jakarta timur, cawang","01, 02, 03, 05, 08",0,10 - 50 cm
+129,4 maret 2018,jakarta timur,"jakarta timur, cililitan","06, 07",0,50 - 100 cm
+130,12 maret 2018,jakarta timur,"jakarta timur, cipinang melayu","03, 04",0,10 cm
+131,22 april 2018,jakarta selatan,"jakarta selatan, ulujami",1,0,20 - 30 CM
+132,4 april 2018,jakarta timur,"jakarta timur, jatinegara ",2,0,50 - 90 cm
+133,18 april 2018,jakarta timur,"jakarta timur,  penggilingan ",12,0,20 - 30 cm
+134,4 april 2018,jakarta timur,"jakarta timur, cipinang melayu","3 , 4",0,5 - 10 cm
+135,4 april 2018,jakarta timur,"jakarta timur, rawamangun",14,0,20 - 50 cm
+136,8 april 2018,jakarta timur,"jakarta timur, kampung melayu","04 , 05, 06, 07, 08 ",988,05 - 60 cm
+137,10 april 2018,jakarta timur,"jakarta timur, kampung melayu","04 , 05, 06, 07, 08 ",988,05 - 60 cm
+138,17 april 2018,jakarta timur,"jakarta timur, kampung melayu","04 , 05, 06, 07, 08 ",988,05 - 60 cm
+139,8 april 2018,jakarta timur,"jakarta timur, bidara cina","5, 7, 11 ",0,10 - 35 cm
+140,10 april 2018,jakarta timur,"jakarta timur, bidara cina","5, 7, 11 ",0,10 - 35 cm
+141,17 april 2018,jakarta timur,"jakarta timur, bidara cina","5, 7, 11 ",0,10 - 35 cm
+142,8 april 2018,jakarta timur,"jakarta timur, cawang ","01, 02, 03, 05, 08",0,10 - 60 cm
+143,10 april 2018,jakarta timur,"jakarta timur, cawang ","01, 02, 03, 05, 08",0,10 - 60 cm
+144,17 april 2018,jakarta timur,"jakarta timur, cawang ","01, 02, 03, 05, 08",0,10 - 60 cm
+145,17 mei 2018,jakarta barat,"jakarta barat, kel. kamal",1,0,20 cm
+146,3 mei 2018,jakarta selatan,"jakarta selatan, kel. jati padang","02, 04, 05, 06, 09",0,10 - 40 cm
+147,3 mei 2018,jakarta selatan,"jakarta selatan, kel. ragunan","07, 08",0,10 - 30 cm
+148,3 mei 2018,jakarta selatan,"jakarta selatan, kel. cilandak timur","01, 03, 04, 09, 13",20,10 - 120 cm
+149,20 mei 2018,jakarta selatan,"jakarta selatan, kel. cilandak timur","01, 03, 04, 09, 13",20,10 - 120 cm
+150,21 mei 2018,jakarta selatan,"jakarta selatan, kel. pejaten timur","05, 06, 07, 08",0,10 - 50 cm
+151,3 mei 2018,jakarta selatan,"jakarta selatan, kel. bangka","01, 02, 03, 04",60,100 - 150 cm
+152,3 mei 2018,jakarta selatan,"jakarta selatan, kel. duren tiga","01, 02, 05",0,10 - 60 cm
+153,21 mei 2018,jakarta selatan,"jakarta selatan, kel. rawajati",7,0,30 - 60 cm
+154,21 mei 2018,jakarta selatan,"jakarta selatan, kel. pengadegan",1,0,10 - 50 cm
+155,3 mei 2018,jakarta selatan,"jakarta selatan, kel. pondok labu","01, 02, 03, 07",0,10 - 80 cm
+156,3 mei 2018,jakarta selatan,"jakarta selatan, kel. cipete selatan","01, 07",0,20 - 40 cm
+157,3 mei 2018,jakarta selatan,"jakarta selatan, kel. petogogan",2,0,40 cm
+158,21 mei 2018,jakarta selatan,"jakarta selatan, kel. kebon baru",1,0,10 - 20 cm
+159,20 mei 2018,jakarta timur,"jakarta timur, kel. kampung melayu","04, 05, 07, 08",636,10 - 100 cm
+160,21 mei 2018,jakarta timur,"jakarta timur, kel. kampung melayu","04, 05, 07, 08",636,10 - 100 cm
+161,21 mei 2018,jakarta timur,"jakarta timur, kel. bidara cina","07, 11",0,70 - 110 cm
+162,20 mei 2018,jakarta timur,"jakarta timur, kel. cawang","01, 02, 03, 05, 08",0,10 - 70 cm
+163,21 mei 2018,jakarta timur,"jakarta timur, kel. cawang","01, 02, 03, 05, 08",0,10 - 70 cm
+164,21 mei 2018,jakarta timur,"jakarta timur, kel. cililitan","06, 07",0,10 - 30 cm
+165,25 juni 2018,jakarta selatan,"jakarta selatan, kel. pejaten timur","05, 06, 07, 08",0,10 - 30 cm
+166,25 juni 2018,jakarta selatan,"jakarta selatan, kel. pengadegan",1,0,10 - 15 cm
+167,25 juni 2018,jakarta selatan,"jakarta selatan, kel. pondok pinang",5,0,30 - 60 cm
+168,25 juni 2018,jakarta selatan,"jakarta selatan, kel. cipulir",10,0,10 - 30 cm
+169,24 juni 2018,jakarta timur,"jakarta timur, kel. kampung melayu","04, 05, 06, 07, 08",1065,10 - 100 cm
+170,25 juni 2018,jakarta timur,"jakarta timur, kel. kampung melayu","04, 05, 06, 07, 08",1065,10 - 100 cm
+171,25 juni 2018,jakarta timur,"jakarta timur, kel. bidara cina","07, 11",0,50 - 75 cm
+172,24 juni 2018,jakarta timur,"jakarta timur, kel. cawang","03, 05, 08",0,10 - 20 cm
+173,25 juni 2018,jakarta timur,"jakarta timur, kel. cawang","03, 05, 08",0,10 - 20 cm
+174,25 juni 2018,jakarta timur,"jakarta timur, kel. cililitan",7,3,10 - 30 cm
+175,29 oktober 2018,jakarta pusat,"jakarta pusat, kel. gunung sahari utara",1,0,10 - 40 cm
+176,29 oktober 2018,jakarta barat,"jakarta barat, kel. rawa buaya","03, 11",0,20 – 30 cm
+177,23 oktober 2018,jakarta timur,"jakarta timur, kel. kampung melayu","04, 05",711,30 - 80 cm
+178,29 oktober 2018,jakarta timur,"jakarta timur, kel. kampung melayu","04, 05",711,30 - 80 cm
+179,29 oktober 2018,jakarta timur,"jakarta timur, kel. bidara cina","07, 11",290,50 - 60 cm
+180,29 oktober 2018,jakarta timur,"jakarta timur, kel. cawang","01, 02, 03, 05",0,10 - 50 cm
+181,26 november 2018,jakarta utara,"jakarta utara, kel. pluit",22,0,2 - 15 cm
+182,29 november 2018,jakarta utara,"jakarta utara, kel. pluit",22,0,2 - 15 cm
+183,26 november 2018,jakarta utara,"jakarta utara, kel. kamal muara",4,0,5 - 10 cm
+184,27 november 2018,jakarta utara,"jakarta utara, kel. kamal muara",4,0,5 - 10 cm
+185,27 november 2018,jakarta barat,"jakarta barat, kel. kamal",1,0,5 - 30 cm
+186,28 november 2018,jakarta barat,"jakarta barat, kel. kamal",1,0,5 - 30 cm
+187,29 november 2018,jakarta barat,"jakarta barat, kel. kamal",1,0,5 - 30 cm
+188,9 november 2018,jakarta selatan,"jakarta selatan, kel. pondok pinang",5,0,10 - 20 cm
+189,12 november 2018,jakarta selatan,"jakarta selatan, kel. pejaten timur","05, 06, 08",0,10 - 30 cm
+190,28 november 2018,jakarta selatan,"jakarta selatan, kel. cilandak timur","03, 09",0,10 - 30 cm
+191,28 november 2018,jakarta selatan,"jakarta selatan, kel. gandaria selatan","05, 07",0,60 - 70 cm
+192,28 november 2018,jakarta selatan,"jakarta selatan, kel. ulujami",1,4000,40 - 70 cm
+193,11 november 2018,jakarta timur,"jakarta timur, kel. cipinang melayu","03, 04",1858,30 - 50 cm
+194,11 november 2018,jakarta timur,"jakarta timur, kel. cipinang muara",13,240,60 - 80 cm
+195,12 november 2018,jakarta timur,"jakarta timur, kel. kampung melayu","04, 05, 07, 08",789,10 - 100 cm
+196,12 november 2018,jakarta timur,"jakarta timur, kel. bidara cina","07, 11",710,20 - 60 cm
+197,11 november 2018,jakarta timur,"jakarta timur, kel. rambutan",5,0,10 - 30 cm
+198,12 november 2018,jakarta timur,"jakarta timur, kel. cawang","02, 03, 05, 08",0,10 - 50 cm
+199,29 november 2018,jakarta timur,"jakarta timur, kel. jatinegara",8,0,10 - 15 cm
+200,29 november 2018,jakarta timur,"jakarta timur, kel. rawa terate",5,0,5 - 20 cm
+201,4 desember 2018,jakarta utara,"jakarta utara, kel. pluit",22,0,5 - 10 cm
+202,5 desember 2018,jakarta utara,"jakarta utara, kel. pluit",22,0,5 - 10 cm
+203,7 desember 2018,jakarta utara,"jakarta utara, kel. pluit",22,0,5 - 10 cm
+204,4 desember 2018,jakarta utara,"jakarta utara, kel. kamal muara",4,0,3 - 10 cm
+205,5 desember 2018,jakarta utara,"jakarta utara, kel. kamal muara",4,0,3 - 10 cm
+206,6 desember 2018,jakarta utara,"jakarta utara, kel. kamal muara",4,0,3 - 10 cm
+207,7 desember 2018,jakarta utara,"jakarta utara, kel. kamal muara",4,0,3 - 10 cm
+208,8 desember 2018,jakarta utara,"jakarta utara, kel. kamal muara",4,0,3 - 10 cm
+209,11 desember 2018,jakarta utara,"jakarta utara, kel. kamal muara",4,0,3 - 10 cm
+210,13 desember 2018,jakarta utara,"jakarta utara, kel. kamal muara",4,0,3 - 10 cm
+211,7 desember 2018,jakarta utara,"jakarta utara, kel. penjaringan",17,0,5 - 10 cm
+212,4 desember 2018,jakarta barat,"jakarta barat, kel. kamal",1,0,6 - 10 cm
+213,5 desember 2018,jakarta barat,"jakarta barat, kel. kamal",1,0,6 - 10 cm
+214,6 desember 2018,jakarta barat,"jakarta barat, kel. kamal",1,0,6 - 10 cm
+215,11 desember 2018,jakarta barat,"jakarta barat, kel. kamal",1,0,6 - 10 cm
+216,12 desember 2018,jakarta barat,"jakarta barat, kel. kamal",1,0,6 - 10 cm
+217,12 desember 2018,jakarta barat,"jakarta barat, kel. rawa buaya","1, 2, 3, 4, 7, 8, 11",0,15 - 60 cm
+218,12 desember 2018,jakarta barat,"jakarta barat, kel. cengkareng timur",3,0,20 - 30 cm
+219,12 desember 2018,jakarta barat,"jakarta barat, kel. duri kosambi","4, 5, 6",77,10 - 40 cm
+220,12 desember 2018,jakarta barat,"jakarta barat, kel. kembangan utara",1,0,50 cm
+221,4 desember 2018,jakarta selatan,"jakarta selatan, kel. cilandak barat","02, 06",0,20 - 60 cm
+222,13 desember 2018,jakarta selatan,"jakarta selatan, kel. pondok labu",7,0,20 - 60 cm
+223,10 desember 2018,jakarta selatan,"jakarta selatan, kel. kalibata",9,0,30 cm
+224,10 desember 2018,jakarta selatan,"jakarta selatan, kel. duren tiga",5,0,70 cm
+225,10 desember 2018,jakarta selatan,"jakarta selatan, kel. bangka","02, 03, 04",0,50 - 80 cm
+226,13 desember 2018,jakarta selatan,"jakarta selatan, kel. bangka","02, 03, 04",0,50 - 80 cm
+227,10 desember 2018,jakarta selatan,"jakarta selatan, kel. petogogan","1, 2, 3, 5",0,10 - 40 cm
+228,12 desember 2018,jakarta selatan,"jakarta selatan, kel. petogogan","1, 2, 3, 5",0,10 - 40 cm
+229,13 desember 2018,jakarta selatan,"jakarta selatan, kel. petogogan","1, 2, 3, 5",0,10 - 40 cm
+230,13 desember 2018,jakarta selatan,"jakarta selatan, kel. cipete utara",6,0,20 - 40 cm
+231,13 desember 2018,jakarta selatan,"jakarta selatan, kel. cilandak timur","1, 3",0,10 - 100 cm
+232,13 desember 2018,jakarta selatan,"jakarta selatan, kel. cipulir",10,0,30 - 80 cm
+233,11 desember 2018,jakarta selatan,"jakarta selatan, kel. ulujami",1,0,20 - 40 cm
+234,3 desember 2018,jakarta timur,"jakarta timur, kel. rawa terate",5,0,10 - 100 cm
+235,3 desember 2018,jakarta timur,"jakarta timur, kel. cakung timur",9,800,20 cm
+236,6 desember 2018,jakarta timur,"jakarta timur, kel. cipinang melayu",4,0,10 - 30 cm
+237,11 desember 2018,jakarta timur,"jakarta timur, kel. rambutan","03, 05",0,10 - 50
+238,7 januari 2019,jakarta utara,"jakarta utara, kel. kamal muara","01, 02, 03, 04",0,3 - 20 cm
+239,9 januari 2019,jakarta utara,"jakarta utara, kel. kamal muara","01, 02, 03, 04",0,3 - 20 cm
+240,10 januari 2019,jakarta utara,"jakarta utara, kel. kamal muara","01, 02, 03, 04",0,3 - 20 cm
+241,18 januari 2019,jakarta utara,"jakarta utara, kel. kamal muara","01, 02, 03, 04",0,3 - 20 cm
+242,19 januari 2019,jakarta utara,"jakarta utara, kel. kamal muara","01, 02, 03, 04",0,3 - 20 cm
+243,20 januari 2019,jakarta utara,"jakarta utara, kel. kamal muara","01, 02, 03, 04",0,3 - 20 cm
+244,21 januari 2019,jakarta utara,"jakarta utara, kel. kamal muara","01, 02, 03, 04",0,3 - 20 cm
+245,22 januari 2019,jakarta utara,"jakarta utara, kel. kamal muara","01, 02, 03, 04",0,3 - 20 cm
+246,30 januari 2019,jakarta utara,"jakarta utara, kel. kamal muara","01, 02, 03, 04",0,3 - 20 cm
+247,20 januari 2019,jakarta utara,"jakarta utara, kel. pluit","01, 02, 07, 022",0,3 - 40 cm
+248,21 januari 2019,jakarta utara,"jakarta utara, kel. pluit","01, 02, 07, 022",0,3 - 40 cm
+249,25 januari 2019,jakarta utara,"jakarta utara, kel. pluit","01, 02, 07, 022",0,3 - 40 cm
+250,30 januari 2019,jakarta utara,"jakarta utara, kel. pluit","01, 02, 07, 022",0,3 - 40 cm
+251,30 januari 2019,jakarta utara,"jakarta utara, kel. pejagalan",15,0,10 - 15 cm
+252,30 januari 2019,jakarta utara,"jakarta utara, kel. penjaringan","010, 017",0,5 - 10 cm
+253,25 januari 2019,jakarta utara,"jakarta utara, kel. rorotan",5,0,10 - 20 cm
+254,30 januari 2019,jakarta utara,"jakarta utara, kel. sukapura",12,0,10 - 20 cm
+255,30 januari 2019,jakarta utara,"jakarta utara, kel. cilincing","06, 09",0,10 - 20 cm
+256,30 januari 2019,jakarta utara,"jakarta utara, kel. semper timur","02, 03, 10, 11",0,5 - 30 cm
+257,30 januari 2019,jakarta utara,"jakarta utara, kel. marunda","02, 07",0,10 - 20 cm
+258,30 januari 2019,jakarta utara,"jakarta utara, kel. pegangsaan dua",3,0,10 - 30 cm
+259,30 januari 2019,jakarta utara,"jakarta utara, kel. kelapa gading barat","015, 016, 20",0,10 - 20 cm
+260,30 januari 2019,jakarta utara,"jakarta utara, kel. kel. tugu selatan",4,0,10 - 30 cm
+261,30 januari 2019,jakarta utara,"jakarta utara, kel. tanjung priok","11, 016",0,10 - 25 cm
+262,4 januari 2019,jakarta barat,"jakarta barat, kel. kamal",1,0,3 - 10 cm
+263,9 januari 2019,jakarta barat,"jakarta barat, kel. kamal",1,0,3 - 10 cm
+264,10 januari 2019,jakarta barat,"jakarta barat, kel. kamal",1,0,3 - 10 cm
+265,11 januari 2019,jakarta barat,"jakarta barat, kel. kamal",1,0,3 - 10 cm
+266,18 januari 2019,jakarta barat,"jakarta barat, kel. kamal",1,0,3 - 10 cm
+267,19 januari 2019,jakarta barat,"jakarta barat, kel. kamal",1,0,3 - 10 cm
+268,25 januari 2019,jakarta barat,"jakarta barat, kel. tegal alur",3,0,40 - 50 cm
+269,25 januari 2019,jakarta barat,"jakarta barat, kel. pegadungan",7,0,40 - 60 cm
+270,18 januari 2019,jakarta barat,"jakarta barat, kel. duri kepa",2,0,25 cm
+271,25 januari 2019,jakarta barat,"jakarta barat, kel. kedoya selatan",5,0,30 - 40 cm
+272,25 januari 2019,jakarta barat,"jakarta barat, kel. kedoya utara",8,0,20 - 30 cm
+273,25 januari 2019,jakarta barat,"jakarta barat, kel. cengkareng timur",3,0,10 - 70 cm
+274,31 januari 2019,jakarta barat,"jakarta barat, kel. cengkareng timur",3,0,10 - 70 cm
+275,25 januari 2019,jakarta barat,"jakarta barat, kel. rawa buaya","01, 02, 04, 11",0,10 - 60 cm
+276,30 januari 2019,jakarta barat,"jakarta barat, kel. rawa buaya","01, 02, 04, 11",0,10 - 60 cm
+277,30 januari 2019,jakarta barat,"jakarta barat, kel. duri kosambi","04, 06",0,30 - 40 cm
+278,30 januari 2019,jakarta barat,"jakarta barat, kel. kedaung kali angke",5,0,15 - 20 cm
+279,25 januari 2019,jakarta barat,"jakarta barat, kel. wijaya kusuma ",5,0,10 - 20 cm
+280,25 januari 2019,jakarta barat,"jakarta barat, kel. jelambar baru","01, 05, 07, 09, 12",0,10 - 30 cm
+281,30 januari 2019,jakarta barat,"jakarta barat, kel. jelambar baru","01, 05, 07, 09, 12",0,10 - 30 cm
+282,25 januari 2019,jakarta barat,"jakarta barat, kel. kembangan utara","03, 05, 10",0,15 - 20 cm
+283,12 januari 2019,jakarta barat,"jakarta barat, kel. jati pulo",6,0,40 cm
+284,12 januari 2019,jakarta barat,"jakarta barat, kel. kota bambu utara",1,0,20 cm
+285,13 januari 2019,jakarta selatan,"jakarta selatan, kel. jatipadang",6,240,30 - 60 cm
+286,22 januari 2019,jakarta selatan,"jakarta selatan, kel. jatipadang",6,240,30 - 60 cm
+287,8 januari 2019,jakarta timur,"jakarta timur, kel. kampung melayu","04, 05",213,10 - 30 cm
+288,21 januari 2019,jakarta timur,"jakarta timur, kel. kampung melayu","04, 05",213,10 - 30 cm
+289,30 januari 2019,jakarta timur,"jakarta timur, kel. rawa terate","04, 05",0,15 - 30 cm
+290,1 februari 2019,jakarta utara,"jakarta utara, kel. kamal muara","01, 04",0,5 cm
+291,2 februari 2019,jakarta utara,"jakarta utara, kel. kamal muara","01, 04",0,5 cm
+292,1 februari 2019,jakarta barat,"jakarta barat, kel. kembangan utara",1,0,50 - 60 cm
+293,2 februari 2019,jakarta barat,"jakarta barat, kel. kembangan utara",1,0,50 - 60 cm
+294,1 februari 2019,jakarta barat,"jakarta barat, kel. kamal",1,0,5 cm
+295,3 februari 2019,jakarta barat,"jakarta barat, kel. kamal",1,0,5 cm
+296,11 februari 2019,jakarta selatan,"jakarta selatan, kel. grogol selatan",6,0,10 - 50 cm
+297,12 februari 2019,jakarta selatan,"jakarta selatan, kel. grogol selatan",6,0,10 - 50 cm
+298,16 februari 2019,jakarta selatan,"jakarta selatan, kel. cipulir","8,1",0,40 cm
+299,17 februari 2019,jakarta selatan,"jakarta selatan, kel. cipulir","8,1",0,40 cm
+300,16 februari 2019,jakarta selatan,"jakarta selatan, kel. pejaten timur","05, 06, 07, 08",171,40 - 80 cm
+301,26 februari 2019,jakarta selatan,"jakarta selatan, kel. pejaten timur","05, 06, 07, 08",171,40 - 80 cm
+302,19 februari 2019,jakarta selatan,"jakarta selatan, kel. cilandak timur",3,0,60 cm
+303,20 februari 2019,jakarta selatan,"jakarta selatan, kel. cilandak timur",3,0,60 cm
+304,16 februari 2019,jakarta selatan,"jakarta selatan, kel. pengedegan",1,12,80 cm
+305,26 februari 2019,jakarta selatan,"jakarta selatan, kel. pengedegan",1,12,80 cm
+306,16 februari 2019,jakarta selatan,"jakarta selatan, kel. rawajati","07, 04",0,20 - 70 cm
+307,26 februari 2019,jakarta selatan,"jakarta selatan, kel. rawajati","07, 04",0,20 - 70 cm
+308,16 februari 2019,jakarta selatan,"jakarta selatan, kel. duren tiga",5,0,40 - 70 cm
+309,17 februari 2019,jakarta selatan,"jakarta selatan, kel. duren tiga",5,0,40 - 70 cm
+310,16 februari 2019,jakarta selatan,"jakarta selatan, kel. kalibata",9,0,30 - 40 cm
+311,17 februari 2019,jakarta selatan,"jakarta selatan, kel. kalibata",9,0,30 - 40 cm
+312,16 februari 2019,jakarta selatan,"jakarta selatan, kel. kebon baru",10,0,5 - 10 cm
+313,26 februari 2019,jakarta selatan,"jakarta selatan, kel. manggarai",1,0,15 cm
+314,16 februari 2019,jakarta selatan,"jakarta selatan, kel petogogan","2,03",0,30 - 50 cm
+315,17 februari 2019,jakarta selatan,"jakarta selatan, kel petogogan","2,03",0,30 - 50 cm
+316,19 februari 2019,jakarta selatan,"jakarta selatan, kel petogogan","2,03",0,30 - 50 cm
+317,20 februari 2019,jakarta selatan,"jakarta selatan, kel petogogan","2,03",0,30 - 50 cm
+318,16 februari 2019,jakarta selatan,"jakarta selatan, kel. kuningan barat",3,0,20 - 40 cm
+319,17 februari 2019,jakarta selatan,"jakarta selatan, kel. kuningan barat",3,0,20 - 40 cm
+320,19 februari 2019,jakarta selatan,"jakarta selatan, kel. cipedak",4,0,50 - 70 cm
+321,19 februari 2019,jakarta selatan,"jakarta selatan, kel. cilandak barat",2,0,40 - 50 cm
+322,20 februari 2019,jakarta selatan,"jakarta selatan, kel. cilandak barat",2,0,40 - 50 cm
+323,11 februari 2019,jakarta timur,"jakarta timur, kel. cipinang melayu","03, 04",0,40 - 60 cm
+324,12 februari 2019,jakarta timur,"jakarta timur, kel. cipinang melayu","03, 04",0,40 - 60 cm
+325,11 februari 2019,jakarta timur,"jakarta timur, kel. pekayon","04, 07",0,20 - 60 cm
+326,12 februari 2019,jakarta timur,"jakarta timur, kel. pekayon","04, 07",0,20 - 60 cm
+327,11 februari 2019,jakarta timur,"jakarta timur, kel. cipinang muara",13,0,20 - 40 cm
+328,12 februari 2019,jakarta timur,"jakarta timur, kel. cipinang muara",13,0,20 - 40 cm
+329,16 februari 2019,jakarta timur,"jakarta timur, kel. kampung melayu","04, 05, 07, 08",1003,10 - 100 cm
+330,26 februari 2019,jakarta timur,"jakarta timur, kel. kampung melayu","04, 05, 07, 08",1003,10 - 100 cm
+331,16 februari 2019,jakarta timur,"jakarta timur, kel. bidara cina","07, 11",0,40 - 135
+332,17 februari 2019,jakarta timur,"jakarta timur, kel. bidara cina","07, 11",0,40 - 135
+333,16 februari 2019,jakarta timur,"jakarta timur, kel balekambang",5,0,15 - 120 cm
+334,16 februari 2019,jakarta timur,"jakarta timur, kel. cawang","01, 02, 03, 05, 08",0,20 - 80 cm
+335,26 februari 2019,jakarta timur,"jakarta timur, kel. cawang","01, 02, 03, 05, 08",0,20 - 80 cm
+336,16 februari 2019,jakarta timur,"jakarta timur, kel. cililitan","06, 07",0,20 - 90 cm
+337,26 februari 2019,jakarta timur,"jakarta timur, kel. cililitan","06, 07",0,20 - 90 cm
+338,26 maret 2019,jakarta pusat,"jakarta pusat, kel. kramat",1,0,20 cm
+339,5 maret 2019,jakarta utara,"jakarta utara, kel. semper timur","03, 09",0,10 cm - 50 cm
+340,5 maret 2019,jakarta utara,"jakarta utara, kel. kalibaru","07, 08, 012",0,30 cm 
+341,5 maret 2019,jakarta utara,"jakarta utara, kel. cilincing","06, 09",0,30 cm 
+342,5 maret 2019,jakarta utara,"jakarta utara, kel. rorotan",5,0,50 cm
+343,5 maret 2019,jakarta utara,"jakarta utara, kel. pegangsaan dua",3,0,30 cm 
+344,5 maret 2019,jakarta utara,"jakarta utara, kel. rawa badak selatan","01, 04, 011",0,10 cm - 20 cm
+345,5 maret 2019,jakarta utara,"jakarta utara, kel. ancol","05, 010, 012",0,25 cm - 30 cm
+346,6 maret 2019,jakarta utara,"jakarta utara, kel. ancol","05, 010, 012",0,25 cm - 30 cm
+347,5 maret 2019,jakarta utara,"jakarta utara, kel. pluit","01, 011, 022",0,40 cm 
+348,5 maret 2019,jakarta utara,"jakarta utara, kel. pejagalan","07, 015",0,15 cm - 30 cm
+349,5 maret 2019,jakarta utara,"jakarta utara, kel. penjaringan",8,0,30 cm 
+350,5 maret 2019,jakarta utara,"jakarta utara, kel. kamal muara",3,0,50 cm
+351,5 maret 2019,jakarta utara,"jakarta utara, kel. warakas",1,0,50 cm
+352,5 maret 2019,jakarta utara,"jakarta utara, kel. kebon bawang",2,0,10 cm
+353,5 maret 2019,jakarta utara,"jakarta utara, kel. sungai bambu",10,0,15 cm
+354,5 maret 2019,jakarta utara,"jakarta utara, kel. tanjung priok","01, 03, 06, 012, 013, 014, 015",0,20 cm - 30 cm
+355,5 maret 2019,jakarta barat,"jakarta barat, kel. kedoya utara","01,02,04,08",0,15 cm - 50 cm
+356,5 maret 2019,jakarta barat,"jakarta barat, kel. kedoya selatan",2,0,25 cm 
+357,5 maret 2019,jakarta barat,"jakarta barat, kel. duri kepa","02, 03, 04, 05, 08, 09, 013",0,20 cm - 40 cm
+358,5 maret 2019,jakarta barat,"jakarta barat, kel. kedaung kali angke","01, 02, 03, 04, 05, 06, 07, 08",85,40 cm - 75 cm
+359,5 maret 2019,jakarta barat,"jakarta barat, kel. rawa buaya","01, 02, 04, 011",0,20 cm - 70 cm
+360,5 maret 2019,jakarta barat,"jakarta barat, kel. cengkareng timur","03, 04, 05, 012, 013, 014, 016",0,10 cm - 50 cm
+361,6 maret 2019,jakarta barat,"jakarta barat, kel. cengkareng timur","03, 04, 05, 012, 013, 014, 016",0,10 cm - 50 cm
+362,5 maret 2019,jakarta barat,"jakarta barat, kel. cengkareng barat","06, 08, 09, 010, 014",0,50 cm 
+363,5 maret 2019,jakarta barat,"jakarta barat, kel. kapuk","01, 02, 3, 05, 06, 07, 09, 010, 012, 013, 015, 016",0,15 cm - 50 cm
+364,5 maret 2019,jakarta barat,"jakarta barat, kel. jelambar baru","01, 02, 03, 04, 05, 06, 010, 012",0,20 cm - 60 cm
+365,5 maret 2019,jakarta barat,"jakarta barat, kel. jelambar ","03, 04, 07",0,30 cm - 40 cm
+366,5 maret 2019,jakarta barat,"jakarta barat, kel. tegal alur","01, 03, 04",0,15 cm - 80  cm
+367,5 maret 2019,jakarta barat,"jakarta barat, kel. joglo",6,0,15 cm
+368,5 maret 2019,jakarta barat,"jakarta barat, kel. kembangan utara","04, 010",0,30 cm - 40 cm
+369,5 maret 2019,jakarta barat,"jakarta barat, kel. kembangan selatan",8,0,20 cm
+370,5 maret 2019,jakarta barat,"jakarta barat, kel. jembatan lima",2,0,40 cm 
+371,2 maret 2019,jakarta selatan,"jakarta selatan, kel. rawajati",7,0,10 - 30 cm
+372,31 maret 2019,jakarta selatan,"jakarta selatan, kel. cilandak timur",3,0,80 cm
+373,31 maret 2019,jakarta selatan,"jakarta selatan, kel. jati padang",8,0,10 - 60 cm
+374,31 maret 2019,jakarta selatan,"jakarta selatan, kel. petogogan",2,0,60 cm
+375,31 maret 2019,jakarta selatan,"jakarta selatan, kel. pondok labu",10,0,10 - 30 cm
+376,2 maret 2019,jakarta timur,"jakarta timur, kel. kampung melayu","04, 05, 07,08",925,10 - 100 cm
+377,2 maret 2019,jakarta timur,"jakarta timur, kel.cawang","01, 02, 03, 05, 08",0,10 - 80 cm
+378,3 maret 2019,jakarta timur,"jakarta timur, kel. cipinang melayu",3,0,5 - 10 cm
+379,6 maret 2019,jakarta timur,"jakarta timur, kel. rawa terate",5,0,10 cm - 20 cm 
+380,25 maret 2019,jakarta timur,"jakarta timur, kel. jatinegara",8,0,20 cm
+381,31 maret 2019,jakarta timur,"jakarta timur, kel. kalisari",9,0,50 cm
+382,31 maret 2019,jakarta timur,"jakarta timur, kel. ciracas",9,0,50 cm
+383,20 april 2019,jakarta utara,"jakarta utara, kel. kamal muara ",4,0,3 - 10 cm
+384,22 april 2019,jakarta utara,"jakarta utara, kel. kamal muara ",4,0,3 - 10 cm
+385,2 april 2019,jakarta barat,"jakarta barat, kel. cengkareng barat","09, 10, 14",0,30 - 50 cm
+386,28 april 2019,jakarta barat,"jakarta barat, kel. rawa buaya","02, 04",0,20 - 80 cm
+387,8 april 2019,jakarta barat,"jakarta barat, kel. kedoya selatan",5,0,10 - 30 cm
+388,27 april 2019,jakarta barat,"jakarta barat, kel. kedoya selatan",5,0,10 - 30 cm
+389,27 april 2019,jakarta barat,"jakarta barat, kel. kembangan utara","01, 04",138,40 - 110 cm
+390,27 april 2019,jakarta barat,"jakarta barat, kel. kembangan selatan",9,0,20 cm
+391,2 april 2019,jakarta selatan,"jakarta selatan, kel. petogogan","02, 03",0,10 - 40 cm
+392,27 april 2019,jakarta selatan,"jakarta selatan, kel. petogogan","02, 03",0,10 - 40 cm
+393,27 april 2019,jakarta selatan,"jakarta selatan, kel. cipete utara",6,0,30 - 90 cm
+394,2 april 2019,jakarta selatan,"jakarta selatan, kel. jati padang","02, 03, 04, 05, 06",0,20 - 50 cm
+395,16 april 2019,jakarta selatan,"jakarta selatan, kel. jati padang","02, 03, 04, 05, 06",0,20 - 50 cm
+396,30 april 2019,jakarta selatan,"jakarta selatan, kel. jati padang","02, 03, 04, 05, 06",0,20 - 50 cm
+397,24 april 2019,jakarta selatan,"jakarta selatan, kel. pejaten timur","05, 06, 07, 08",875,100 - 220 cm
+398,26 april 2019,jakarta selatan,"jakarta selatan, kel. pejaten timur","05, 06, 07, 08",875,100 - 220 cm
+399,27 april 2019,jakarta selatan,"jakarta selatan, kel. pejaten timur","05, 06, 07, 08",875,100 - 220 cm
+400,24 april 2019,jakarta selatan,"jakarta selatan, kel. pengadegan","01, 02, 11",639,10 - 250 cm
+401,26 april 2019,jakarta selatan,"jakarta selatan, kel. pengadegan","01, 02, 11",639,10 - 250 cm
+402,27 april 2019,jakarta selatan,"jakarta selatan, kel. pengadegan","01, 02, 11",639,10 - 250 cm
+403,26 april 2019,jakarta selatan,"jakarta selatan, kel. rawajati","01, 03, 07",0,30 - 100 cm 
+404,26 april 2019,jakarta selatan,"jakarta selatan, kel. cikoko",1,0,20 - 30 cm
+405,24 april 2019,jakarta selatan,"jakarta selatan, kel. kebon baru",10,7,10 - 50 cm
+406,26 april 2019,jakarta selatan,"jakarta selatan, kel. kebon baru",10,7,10 - 50 cm
+407,24 april 2019,jakarta selatan,"jakarta selatan, kel. manggarai",1,0,50 - 100
+408,26 april 2019,jakarta selatan,"jakarta selatan, kel. lenteng agung",7,0,30 - 50 cm
+409,26 april 2019,jakarta selatan,"jakarta selatan, kel. srengseng sawah",1,0,30 cm
+410,30 april 2019,jakarta selatan,"jakarta selatan, kel. jagakarsa",2,0,10 - 20 cm
+411,27 april 2019,jakarta selatan,"jakarta selatan, kel. bangka",2,0,35 - 70 cm
+412,27 april 2019,jakarta selatan,"jakarta selatan, kel. pondok pinang","05, 08",0,10 - 60 cm
+413,30 april 2019,jakarta selatan,"jakarta selatan, kel. pondok pinang","05, 08",0,10 - 60 cm
+414,30 april 2019,jakarta selatan,"jakarta selatan, kel. cipulir",10,0,10 - 20 cm
+415,27 april 2019,jakarta selatan,"jakarta selatan, kel. pondok labu",3,0,10 - 50 cm
+416,2 april 2019,jakarta timur,"jakarta timur, kel. cipinang melayu","02, 03, 04",0,20 - 60 cm
+417,13 april 2019,jakarta timur,"jakarta timur, kel. cipinang melayu","02, 03, 04",0,20 - 60 cm
+418,30 april 2019,jakarta timur,"jakarta timur, kel. cipinang melayu","02, 03, 04",0,20 - 60 cm
+419,2 april 2019,jakarta timur,"jakarta timur, kel. kebon pala","01, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",0,10 - 50 cm
+420,30 april 2019,jakarta timur,"jakarta timur, kel. kebon pala","01, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",0,10 - 50 cm
+421,30 april 2019,jakarta timur,"jakarta timur, kel. makasar","04, 05, 07",0,10 - 100 cm
+422,5 april 2019,jakarta timur,"jakarta timur, kel. kampung melayu","04, 05, 06, 07, 08",2312,10 - 250 cm
+423,24 april 2019,jakarta timur,"jakarta timur, kel. kampung melayu","04, 05, 06, 07, 08",2312,10 - 250 cm
+424,26 april 2019,jakarta timur,"jakarta timur, kel. kampung melayu","04, 05, 06, 07, 08",2312,10 - 250 cm
+425,30 april 2019,jakarta timur,"jakarta timur, kel. kampung melayu","04, 05, 06, 07, 08",2312,10 - 250 cm
+426,24 april 2019,jakarta timur,"jakarta timur, kel. bidara cina","04, 05, 06, 07, 11, 12, 14, 15, 16",3496,20 - 220 cm
+427,26 april 2019,jakarta timur,"jakarta timur, kel. bidara cina","04, 05, 06, 07, 11, 12, 14, 15, 16",3496,20 - 220 cm
+428,24 april 2019,jakarta timur,"jakarta timur, kel. cawang","01, 02, 03, 05, 06, 08, 12",1384,10 - 150 cm
+429,26 april 2019,jakarta timur,"jakarta timur, kel. cawang","01, 02, 03, 05, 06, 08, 12",1384,10 - 150 cm
+430,30 april 2019,jakarta timur,"jakarta timur, kel. cawang","01, 02, 03, 05, 06, 08, 12",1384,10 - 150 cm
+431,24 april 2019,jakarta timur,"jakarta timur, kel. balekambang","01, 02, 04, 05",0,30 - 70 cm
+432,26 april 2019,jakarta timur,"jakarta timur, kel. balekambang","01, 02, 04, 05",0,30 - 70 cm
+433,24 april 2019,jakarta timur,"jakarta timur, kel. cililitan","05, 06, 07, 15, 16",0,20 - 170 cm
+434,26 april 2019,jakarta timur,"jakarta timur, kel. cililitan","05, 06, 07, 15, 16",0,20 - 170 cm
+435,27 april 2019,jakarta timur,"jakarta timur, kel. kebon manggis",4,0,10 - 20 cm
+436,28 april 2019,jakarta timur,"jakarta timur, kel. cibubur","03, 10, 12",0,10 - 20 cm
+437,28 april 2019,jakarta timur,"jakarta timur, kel. kelapa dua wetan",2,0,10 - 30 cm
+438,30 april 2019,jakarta timur,"jakarta timur, kel. rambutan","02, 03, 05",0,20 - 40 cm
+439,30 april 2019,jakarta selatan,"jakarta selatan, kel. cipulir",10,0,10 - 20 cm
+440,30 april 2019,jakarta selatan,"jakarta selatan, kel. pondok pinang",5,0,10 - 30 cm
+441,30 april 2019,jakarta selatan,"jakarta selatan, kel. jagakarsa","03, 02",0,10 - 30 cm
+442,4 mei 2019,jakarta selatan,"jakarta selatan, kel. jagakarsa","03, 02",0,10 - 30 cm
+443,6 mei 2019,jakarta selatan,"jakarta selatan, kel. pejaten timur","05, 06, 07, 08",355,20 - 40 cm
+444,30 mei 2019,jakarta selatan,"jakarta selatan, kel. cipulir",10,0,10 - 20 cm
+445,30 mei 2019,jakarta selatan,"jakarta selatan, kel. pondok pinang",5,0,10 - 30 cm
+446,6 mei 2019,jakarta timur,"jakarta timur, kel. kampung melayu","04, 05, 07",0,5 - 20 cm
+447,16 mei 2019,jakarta timur,"jakarta timur, kel. kampung melayu","04, 05, 07",0,5 - 20 cm
+448,6 mei 2019,jakarta timur,"jakarta timur, kel. bidara cina","07, 11",0,20 - 30 cm
+449,16 mei 2019,jakarta timur,"jakarta timur, kel. bidara cina","07, 11",0,20 - 30 cm
+450,30 mei 2019,jakarta timur,"jakarta timur, kel. cipinang melayu","03, 04",0,20 - 100 cm
+451,9 oktober 2019,jakarta selatan,"jakarta selatan, kel. kebon baru",10,0,10 - 30 cm
+452,9 oktober 2019,jakarta selatan,"jakarta selatan, kel. pejaten timur","05, 06, 07, 08",0,60 - 100 cm
+453,9 oktober 2019,jakarta selatan,"jakarta selatan, kel. pengadegan",1,0,30 cm
+454,9 oktober 2019,jakarta timur,"jakarta timur, kel. kampung melayu","04, 05, 06, 07, 08",1034,10 - 60 cm
+455,9 oktober 2019,jakarta timur,"jakarta timur, kel. bidara cina","07, 11",169,20 - 40 cm
+456,9 oktober 2019,jakarta timur,"jakarta timur, kel. balekambang",5,0,10 - 40 cm
+457,9 oktober 2019,jakarta timur,"jakarta timur, kel. cawang","03, 05",0,30 - 100 cm
+458,17 desember 2019,jakarta barat,"jakarta barat, kel. rawa buaya",11,0,15  cm
+459,17 desember 2019,jakarta barat,"jakarta barat, kel. sukabumi selatan ","01, 02, 04, 05, 07, 08",0,20-100 cm
+460,17 desember 2019,jakarta barat,"jakarta barat, kel. kota bambu utara",6,0,20-30 cm 
+461,27 desember 2019,jakarta barat,"jakarta barat, kel. palmerah",5,0,40cm 
+462,25 desember 2019,jakarta barat,"jakarta barat, kel. tegal alur","01, 08, 03",1264,30-70 cm 
+463,25 desember 2019,jakarta barat,"jakarta barat, kel. kamal ",6,0,30 cm 
+464,23 desember 2019,jakarta selatan,"jakarta selatan, kel. jati padang","04, 06, 03, 02, 010",0,20 - 60  cm
+465,27 desember 2019,jakarta selatan,"jakarta selatan, kel. jati padang","04, 06, 03, 02, 010",0,20 - 60  cm
+466,26 desember 2019,jakarta selatan,"jakarta selatan, kel. pondok pinang","05, 08",0,25 - 75 cm 
+467,27 desember 2019,jakarta selatan,"jakarta selatan, kel. pondok pinang","05, 08",0,25 - 75 cm 
+468,26 desember 2019,jakarta selatan,"jakarta selatan, kel. cipulir",10,0,25 - 40 cm
+469,27 desember 2019,jakarta selatan,"jakarta selatan, kel. cipulir",10,0,25 - 40 cm
+470,27 desember 2019,jakarta selatan,"jakarta selatan, kel. kebayoran lama selatan ",4,0,50 cm 
+471,27 desember 2019,jakarta selatan,"jakarta selatan, kel cilandak barat",2,0,60 cm
+472,27 desember 2019,jakarta selatan,"jakarta selatan, kel pondok labu","01, 03, 07, 010",0,30 - 70 cm
+473,27 desember 2019,jakarta selatan,"jakarta selatan, kel. cipete utara","06, 010",0,20 - 75 cm 
+474,27 desember 2019,jakarta selatan,"jakarta selatan, kel. petogogan",3,0,45 cm 
+475,27 desember 2019,jakarta selatan,"jakarta selatan, kel. gunung",1,0,50 - 80 cm 
+476,23 desember 2019,jakarta timur,"jakarta timur, kel. kebon pala","06, 04, 05",0,30 - 50 cm 
+477,27 desember 2019,jakarta timur,"jakarta timur, kel. kebon pala","06, 04, 05",0,30 - 50 cm 
+478,27 desember 2019,jakarta timur,"jakarta timur, kel. batu ampar",4,0,40 cm 
+479,27 desember 2019,jakarta timur,"jakarta timur, kel. cawang",3,0,50 cm 
+480,27 desember 2019,jakarta timur,"jakarta timur, kel. kampung melayu","04, 05, 07, 08, ",337,20  - 40 cm 
+481,31 desember 2019,jakarta timur,"jakarta timur, kel. kampung melayu","04, 05, 07, 08, ",337,20  - 40 cm 
+482,27 desember 2019,jakarta timur,"jakarta timur, kel. bidara cina",7,0,20 - 50 cm
+483,1 januari 2020,jakarta pusat,"jakarta pusat, johar baru"," 01, 02, 06, 08",140,10 - 30 cm
+484,1 januari 2020,jakarta pusat,"jakarta pusat, gunung sahari selatan"," 01, 02, 07, 08",0,10 - 70 cm
+485,1 januari 2020,jakarta pusat,"jakarta pusat, serdang"," 01, 02, 06, 07",0,10 - 30 cm
+486,1 januari 2020,jakarta pusat,"jakarta pusat, pasar baru"," 02, 03, 04, 05, 06, 07, 08",625,10 - 70 cm
+487,1 januari 2020,jakarta pusat,"jakarta pusat, bendungan hilir"," 07, 09",195,31 - 70 cm
+488,1 januari 2020,jakarta pusat,"jakarta pusat, karet tengsin"," 02, 03, 04, 05, 06, 07, 09, 11",2078,71 - 150 cm
+489,18 januari 2020,jakarta pusat,"jakarta pusat, petamburan"," 02, 03",0,40 - 60 cm
+490,1 januari 2020,jakarta utara,"jakarta utara, cilincing"," 05, 06, 09",1121,10 - 35 cm
+491,1 januari 2020,jakarta utara,"jakarta utara, marunda", 04,0,10 - 30 cm
+492,1 januari 2020,jakarta utara,"jakarta utara, rorotan"," 01, 02, 03, 04, 05",150,10 - 150 cm
+493,24 januari 2020,jakarta utara,"jakarta utara, rorotan"," 01, 02, 03, 04, 05",150,10 - 150 cm
+494,1 januari 2020,jakarta utara,"jakarta utara, semper barat"," 01, 02, 04, 05, 16",574,10 - 70 cm
+495,1 januari 2020,jakarta utara,"jakarta utara, semper timur"," 02, 03, 10, 11",120,10 - 150 cm
+496,1 januari 2020,jakarta utara,"jakarta utara, suka pura"," 02, 03, 04, 05, 06, 07, 09, 10, 12",278,10 - 150 cm
+497,1 januari 2020,jakarta utara,"jakarta utara, kelapa gading barat"," 02, 03, 06, 11, 12",0,10 - 30 cm
+498,1 januari 2020,jakarta utara,"jakarta utara, kelapa gading timur"," 15, 16",100,10 - 30 cm
+499,1 januari 2020,jakarta utara,"jakarta utara, pegangsaan dua"," 02, 03, 04, 08, 09, 10, 11",210,10 - 70 cm
+500,1 januari 2020,jakarta utara,"jakarta utara, tugu selatan",. 04,0,20 - 50 cm
+501,1 januari 2020,jakarta utara,"jakarta utara, kapuk muara",". 01, 02, 03, 04, 05, 09",0,20 - 40 cm
+502,1 januari 2020,jakarta utara,"jakarta utara, pejagalan"," 08, 09, 10, 12, 13, 14, 15",1168,10 - 150 cm
+503,1 januari 2020,jakarta utara,"jakarta utara, penjaringan", 17,0,10 - 30 cm
+504,24 januari 2020,jakarta utara,"jakarta utara, pluit"," 01, 11, 22",0,15 - 70 cm
+505,27 januari 2020,jakarta utara,"jakarta utara, pluit"," 01, 11, 22",0,15 - 70 cm
+506,28 januari 2020,jakarta utara,"jakarta utara, pluit"," 01, 11, 22",0,15 - 70 cm
+507,30 januari 2020,jakarta utara,"jakarta utara, pluit"," 01, 11, 22",0,15 - 70 cm
+508,31 januari 2020,jakarta utara,"jakarta utara, pluit"," 01, 11, 22",0,15 - 70 cm
+509,24 januari 2020,jakarta utara,"jakarta utara, ancol"," 02, 05, 08, 10",0,10 - 30 cm
+510,1 januari 2020,jakarta barat,"jakarta barat, cengkareng barat"," 01, 03, 05, 06, 07, 09, 10, 11, 14",2220,31 - 70 cm
+511,24 januari 2020,jakarta barat,"jakarta barat, cengkareng barat"," 01, 03, 05, 06, 07, 09, 10, 11, 14",2220,31 - 70 cm
+512,1 januari 2020,jakarta barat,"jakarta barat, cengkareng timur"," 02, 03, 04, 05, 06, 12, 13, 14, 16",362,10 - 70 cm
+513,1 januari 2020,jakarta barat,"jakarta barat, duri kosambi"," 01, 02, 03, 04, 05, 06, 07,08, 09, 10, 11, 12, 13, 14, 15",1230,71 - 150 cm
+514,1 januari 2020,jakarta barat,"jakarta barat, kapuk"," 02, 03, 04, 05, 06, 07, 08, 09, 10, 12, 13, 15 ,16",4461,31 - 70 cm
+515,24 januari 2020,jakarta barat,"jakarta barat, kapuk"," 02, 03, 04, 05, 06, 07, 08, 09, 10, 12, 13, 15 ,16",4461,31 - 70 cm
+516,1 januari 2020,jakarta barat,"jakarta barat, kedaung kali angke"," 01, 02, 03, 04, 05, 06, 07, 08",2804,31 - 70 cm
+517,1 januari 2020,jakarta barat,"jakarta barat, rawa buaya"," 01, 02, 03, 04, 11, 12",2133,31 - 70 cm
+518,1 januari 2020,jakarta barat,"jakarta barat, jelambar baru"," 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13",60,31 - 70 cm
+519,1 januari 2020,jakarta barat,"jakarta barat, tanjung duren utara"," 01, 02, 04, 05, 07",85,10 - 150 cm
+520,1 januari 2020,jakarta barat,"jakarta barat, tomang", 14,24,31 - 70 cm
+521,1 januari 2020,jakarta barat,"jakarta barat, wijaya kusuma"," 01, 02, 03, 04, 05, 07, 08, 09",208,31 - 70 cm
+522,1 januari 2020,jakarta barat,"jakarta barat, kalideres"," 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 16, 17",147,31 - 70 cm
+523,1 januari 2020,jakarta barat,"jakarta barat, kamal"," 01, 02, 03, 04, 07, 08, 09",0,10 - 70 cm
+524,1 januari 2020,jakarta barat,"jakarta barat, pegadungan"," 01, 03, 04, 06, 11",0,10 - 70 cm
+525,1 januari 2020,jakarta barat,"jakarta barat, semanan"," 01, 03, 04, 07, 10",2112,31 - 200 cm
+526,1 januari 2020,jakarta barat,"jakarta barat, tegal alur"," 03, 04, 11, 12, 15",1208,31 - 150 cm
+527,1 januari 2020,jakarta barat,"jakarta barat, duri kepa","' 02, 03, 04, 05, 09, 13, 14",130,31 - 70 cm
+528,1 januari 2020,jakarta barat,"jakarta barat, kedoya selatan"," 01, 04, 05",36,10 - 150 cm
+529,27 januari 2020,jakarta barat,"jakarta barat, kedoya selatan"," 01, 04, 05",36,10 - 150 cm
+530,1 januari 2020,jakarta barat,"jakarta barat, kedoya utara"," 02, 04, 05",1238,31 - 100 cm
+531,1 januari 2020,jakarta barat,"jakarta barat, sukabumi utara"," 01, 03, 04, 07, 08, 10, 11",0,10 - 140 cm
+532,18 januari 2020,jakarta barat,"jakarta barat, sukabumi utara"," 01, 03, 04, 07, 08, 10, 11",0,10 - 140 cm
+533,18 januari 2020,jakarta barat,"jakarta barat, sukabumi selatan"," 01, 02, 04, 08",0,30 - 100 cm
+534,18 januari 2020,jakarta barat,"jakarta barat, kelapa dua ", 04,0,60 cm
+535,1 januari 2020,jakarta barat,"jakarta barat, joglo"," 02, 06",0,31 -  150 cm
+536,1 januari 2020,jakarta barat,"jakarta barat, kembangan selatan"," 01, 02, 03, 04, 05, 06, 08, 09",710,31 - 120 cm
+537,27 januari 2020,jakarta barat,"jakarta barat, kembangan selatan"," 01, 02, 03, 04, 05, 06, 08, 09",710,31 - 120 cm
+538,1 januari 2020,jakarta barat,"jakarta barat, kembangan utara"," 01, 02, 03, 04, 05, 06, 08, 10, 11",961,30 - 90 cm
+539,18 januari 2020,jakarta barat,"jakarta barat, kembangan utara"," 01, 02, 03, 04, 05, 06, 08, 10, 11",961,30 - 90 cm
+540,1 januari 2020,jakarta barat,"jakarta barat, meruya selatan", 07,0,80 cm
+541,1 januari 2020,jakarta barat,"jakarta barat, meruya utara"," 05, 06",0,31 - 70 cm
+542,1 januari 2020,jakarta barat,"jakarta barat, srengseng"," 05, 07",15,71 - 150 cm
+543,1 januari 2020,jakarta barat,"jakarta barat, jati pulo"," 01, 02, 03, 05, 09",0,10 - 30 cm
+544,18 januari 2020,jakarta barat,"jakarta barat, jati pulo"," 01, 02, 03, 05, 09",0,10 - 30 cm
+545,1 januari 2020,jakarta barat,"jakarta barat, kemanggisan","  02, 03, 04, 05, 06, 08",0,31 - 150 cm
+546,18 januari 2020,jakarta barat,"jakarta barat, kemanggisan","  02, 03, 04, 05, 06, 08",0,31 - 150 cm
+547,1 januari 2020,jakarta barat,"jakarta barat, kota bambu selatan", 01,0,31 - 150 cm
+548,1 januari 2020,jakarta barat,"jakarta barat, kota bambu utara"," 02, 03, 04, 08, 09",0,10 - 70 cm
+549,18 januari 2020,jakarta barat,"jakarta barat, kota bambu utara"," 02, 03, 04, 08, 09",0,10 - 70 cm
+550,1 januari 2020,jakarta barat,"jakarta barat, palmerah"," 03, 12, 13, 15",0,31 - 70 cm
+551,18 januari 2020,jakarta barat,"jakarta barat, palmerah"," 03, 12, 13, 15",0,31 - 70 cm
+552,1 januari 2020,jakarta barat,"jakarta barat, slipi"," 03, 04, 05",0,31 - 70 cm
+553,1 januari 2020,jakarta selatan,"jakarta selatan, cilandak barat"," 02, 12",300,71 -180 cm
+554,1 januari 2020,jakarta selatan,"jakarta selatan, cipete selatan", 07,65,10 - 30 cm
+555,1 januari 2020,jakarta selatan,"jakarta selatan, lebak bulus"," 04, 08",91,31 - 70 cm
+556,24 januari 2020,jakarta selatan,"jakarta selatan, lebak bulus"," 04, 08",91,31 - 70 cm
+557,26 januari 2020,jakarta selatan,"jakarta selatan, lebak bulus"," 04, 08",91,31 - 70 cm
+558,1 januari 2020,jakarta selatan,"jakarta selatan, pondok labu"," 01, 02, 03, 07, 09, 10",134,31 - 70 cm
+559,26 januari 2020,jakarta selatan,"jakarta selatan, pondok labu"," 01, 02, 03, 07, 09, 10",134,31 - 70 cm
+560,1 januari 2020,jakarta selatan,"jakarta selatan, jagakarsa"," 02, 04",235,31 - 70 cm
+561,1 januari 2020,jakarta selatan,"jakarta selatan, tanjung barat"," 01, 04, 05",0,31 - 70 cm
+562,1 januari 2020,jakarta selatan,"jakarta selatan, ciganjur",". 01,05,06",150,30 - 100 cm
+563,1 januari 2020,jakarta selatan,"jakarta selatan, srengseng sawah",.08 ,372,10 - 30 cm
+564,1 januari 2020,jakarta selatan,"jakarta selatan, lenteng agung",". 01,02,03,07",507,10 - 30 cm
+565,1 januari 2020,jakarta selatan,"jakarta selatan, cipedak",.01,175,10 - 30 cm
+566,1 januari 2020,jakarta selatan,"jakarta selatan, gunung"," 01, 06",40,71 - 150 cm
+567,1 januari 2020,jakarta selatan,"jakarta selatan, kramat pela"," 02, 09, 10",52,71 - 150 cm
+568,18 januari 2020,jakarta selatan,"jakarta selatan, kramat pela"," 02, 09, 10",52,71 - 150 cm
+569,1 januari 2020,jakarta selatan,"jakarta selatan, petogogan"," 01, 02, 03",0,71 - 150 cm
+570,18 januari 2020,jakarta selatan,"jakarta selatan, petogogan"," 01, 02, 03",0,71 - 150 cm
+571,1 januari 2020,jakarta selatan,"jakarta selatan, pulo"," 03, 07",16,30 - 150 cm
+572,1 januari 2020,jakarta selatan,"jakarta selatan, rawa barat", 05,99,71 - 150 cm
+573,1 januari 2020,jakarta selatan,"jakarta selatan, cipete utara",".01,02,03,04,06,07,09,13",231,10 - 70 cm
+574,1 januari 2020,jakarta selatan,"jakarta selatan, cipulir"," 05, 06, 07, 08, 09, 10",675,30 - 150 cm
+575,1 januari 2020,jakarta selatan,"jakarta selatan, grogol selatan"," 05, 06",250,31 - 70 cm
+576,18 januari 2020,jakarta selatan,"jakarta selatan, grogol selatan"," 05, 06",250,31 - 70 cm
+577,1 januari 2020,jakarta selatan,"jakarta selatan, grogol utara",". 04, 05, 14",0,20 - 60 cm
+578,18 januari 2020,jakarta selatan,"jakarta selatan, grogol utara",". 04, 05, 14",0,20 - 60 cm
+579,1 januari 2020,jakarta selatan,"jakarta selatan, kebayoran lama selatan", 10,55,71 - 150 cm
+580,1 januari 2020,jakarta selatan,"jakarta selatan, kebayoran lama utara", 11,700,31 - 70 cm
+581,1 januari 2020,jakarta selatan,"jakarta selatan, pondok pinang"," 05, 08",962,31 - 150 cm
+582,1 januari 2020,jakarta selatan,"jakarta selatan, bangka"," 01, 02, 03, 04",1041,31 - 150 cm
+583,1 januari 2020,jakarta selatan,"jakarta selatan, kuningan barat"," 01, 02, 03, 04, 05",816,71 - 150 cm
+584,1 januari 2020,jakarta selatan,"jakarta selatan, mampang prapatan"," 04, 06",797,31 - 150 cm
+585,1 januari 2020,jakarta selatan,"jakarta selatan, pela mampang"," 04, 06, 09, 11",1099,10 - 150 cm
+586,1 januari 2020,jakarta selatan,"jakarta selatan, tegal parang"," 03, 04, 05, 06, 07",1058,31 - 150 cm
+587,1 januari 2020,jakarta selatan,"jakarta selatan, cikoko", 01,147,71 - 150 cm
+588,1 januari 2020,jakarta selatan,"jakarta selatan, kalibata"," 01, 04, 05, 06, 08, 09, 10",3615,31 - 200 cm
+589,1 januari 2020,jakarta selatan,"jakarta selatan, pancoran"," 03, 04",335,10 - 30 cm
+590,1 januari 2020,jakarta selatan,"jakarta selatan, pengadegan"," 01, 02",1540,71 - 200 cm
+591,9 januari 2020,jakarta selatan,"jakarta selatan, pengadegan"," 01, 02",1540,71 - 200 cm
+592,1 januari 2020,jakarta selatan,"jakarta selatan, rawajati"," 03, 07",405,10 - 70 cm
+593,9 januari 2020,jakarta selatan,"jakarta selatan, rawajati"," 03, 07",405,10 - 70 cm
+594,18 januari 2020,jakarta selatan,"jakarta selatan, rawajati"," 03, 07",405,10 - 70 cm
+595,1 januari 2020,jakarta selatan,"jakarta selatan, duren tiga"," 01,02,05",345,10 - 30 cm
+596,18 januari 2020,jakarta selatan,"jakarta selatan, duren tiga"," 01,02,05",345,10 - 30 cm
+597,1 januari 2020,jakarta selatan,"jakarta selatan, cilandak timur"," 01, 03",440,71 - 175 cm
+598,1 januari 2020,jakarta selatan,"jakarta selatan, jati padang"," 01, 02, 03, 04, 05, 06, 07, 08, 09, 010",781,31 - 70 cm
+599,1 januari 2020,jakarta selatan,"jakarta selatan, kebagusan"," 01, 02, 03, 04, 05, 06, 07",185,120 cm
+600,1 januari 2020,jakarta selatan,"jakarta selatan, pejaten timur"," 05, 06, 07, 08",0,31 - 200 cm
+601,9 januari 2020,jakarta selatan,"jakarta selatan, pejaten timur"," 05, 06, 07, 08",0,31 - 200 cm
+602,24 januari 2020,jakarta selatan,"jakarta selatan, pejaten barat", 08,0,60 - 80 cm
+603,1 januari 2020,jakarta selatan,"jakarta selatan, bintaro"," 04, 05, 12",596,71 - 150 cm
+604,27 januari 2020,jakarta selatan,"jakarta selatan, bintaro"," 04, 05, 12",596,71 - 150 cm
+605,1 januari 2020,jakarta selatan,"jakarta selatan, petukangan utara", 04,150,71 - 150 cm
+606,27 januari 2020,jakarta selatan,"jakarta selatan, petukangan utara", 04,150,71 - 150 cm
+607,1 januari 2020,jakarta selatan,"jakarta selatan, ulujami"," 01, 02, 05, 07, 08",321,71 - 200 cm
+608,18 januari 2020,jakarta selatan,"jakarta selatan, ulujami"," 01, 02, 05, 07, 08",321,71 - 200 cm
+609,18 januari 2020,jakarta selatan,"jakarta selatan, petukangan selatan", 06,0,60 - 80 cm
+610,1 januari 2020,jakarta selatan,"jakarta selatan, guntur", 06,25,31 - 70 cm
+611,1 januari 2020,jakarta selatan,"jakarta selatan, karet semanggi"," 02, 03,04,08",325,71 - 150 cm
+612,1 januari 2020,jakarta selatan,"jakarta selatan, kuningan timur",.05,269,31 - 70 cm
+613,1 januari 2020,jakarta selatan,"jakarta selatan, manggarai"," 01, 02, 04, 05, 10, 11",256,31 - 150 cm
+614,1 januari 2020,jakarta selatan,"jakarta selatan, manggarai selatan", 02,0,71 - 150 cm
+615,1 januari 2020,jakarta selatan,"jakarta selatan, bukit duri"," 04, 10, 11, 12",228,71 - 200 cm
+616,24 januari 2020,jakarta selatan,"jakarta selatan, bukit duri"," 04, 10, 11, 12",228,71 - 200 cm
+617,1 januari 2020,jakarta selatan,"jakarta selatan, kebon baru"," 01, 02, 04, 08, 09, 10",1750,15 - 100 cm
+618,1 januari 2020,jakarta timur,"jakarta timur, cakung barat"," 01, 03, 06, 07, 08",850,31 - 150 cm
+619,2 januari 2020,jakarta timur,"jakarta timur, cakung timur"," 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",658,10 - 70 cm
+620,1 januari 2020,jakarta timur,"jakarta timur, penggilingan"," 04, 06, 07",0,10 - 30 cm
+621,1 januari 2020,jakarta timur,"jakarta timur, rawa terate"," 04, 05",195,10 - 200 cm
+622,23 januari 2020,jakarta timur,"jakarta timur, rawa terate"," 04, 05",195,10 - 200 cm
+623,24 januari 2020,jakarta timur,"jakarta timur, rawa terate"," 04, 05",195,10 - 200 cm
+624,1 januari 2020,jakarta timur,"jakarta timur, ujung menteng", 01,70,31 - 70 cm
+625,1 januari 2020,jakarta timur,"jakarta timur, jatinegara",". 02,03,05,06,07,09,010,12,13,14",150,10 - 30 cm
+626,1 januari 2020,jakarta timur,"jakarta timur, bambu apus"," 01, 02, 03, 05",48,31 - 150 cm
+627,1 januari 2020,jakarta timur,"jakarta timur, ceger"," 01,02,05",80,31 - 70 cm
+628,1 januari 2020,jakarta timur,"jakarta timur, cipayung"," 03, 04, 06, 07",190,31 - 150 cm
+629,1 januari 2020,jakarta timur,"jakarta timur, lubang buaya"," 03, 12",0,71 - 150 cm
+630,1 januari 2020,jakarta timur,"jakarta timur, setu"," 01, 02, 03, 04, 05",47,71 - 150 cm
+631,1 januari 2020,jakarta timur,"jakarta timur, cibubur"," 03, 12, 14",20,10 - 70 cm
+632,26 januari 2020,jakarta timur,"jakarta timur, cibubur"," 03, 12, 14",20,10 - 70 cm
+633,1 januari 2020,jakarta timur,"jakarta timur, kelapa dua wetan"," 01, 02, 08, 09, 10, 11",335,10 - 150 cm
+634,1 januari 2020,jakarta timur,"jakarta timur, rambutan"," 02, 03, 04, 05",65,31 - 200 cm
+635,1 januari 2020,jakarta timur,"jakarta timur, susukan",.05,1868,20 - 70 cm
+636,5 januari 2020,jakarta timur,"jakarta timur, susukan",.05,1868,20 - 70 cm
+637,1 januari 2020,jakarta timur,"jakarta timur, klender"," 01, 02, 03, 04, 07, 09, 10, 11, 15, 16",470,10 - 150 cm
+638,1 januari 2020,jakarta timur,"jakarta timur, malaka jaya", 01,220,71 - 150 cm
+639,1 januari 2020,jakarta timur,"jakarta timur, pondok bambu", 07,274,31 - 150 cm
+640,1 januari 2020,jakarta timur,"jakarta timur, pondok kelapa"," 05, 06, 08, 09, 10",465,71 - 170 cm
+641,1 januari 2020,jakarta timur,"jakarta timur, pondok kopi"," 03, 04",220,10 - 30 cm
+642,1 januari 2020,jakarta timur,"jakarta timur, bidara cina"," 03, 04, 05, 06, 07, 11, 12, 14, 15, 16",3577,31 - 200 cm
+643,9 januari 2020,jakarta timur,"jakarta timur, bidara cina"," 03, 04, 05, 06, 07, 11, 12, 14, 15, 16",3577,31 - 200 cm
+644,1 januari 2020,jakarta timur,"jakarta timur, cipinang besar selatan"," 01, 02",279,71 - 150 cm
+645,1 januari 2020,jakarta timur,"jakarta timur, cipinang muara"," 02, 04, 11, 12, 13, 15, 16",932,10 - 150 cm
+646,1 januari 2020,jakarta timur,"jakarta timur, kampung melayu"," 01, 02, 03, 04, 05, 06, 07, 08",2556,10 - 350 cm
+647,9 januari 2020,jakarta timur,"jakarta timur, kampung melayu"," 01, 02, 03, 04, 05, 06, 07, 08",2556,10 - 350 cm
+648,18 januari 2020,jakarta timur,"jakarta timur, kampung melayu"," 01, 02, 03, 04, 05, 06, 07, 08",2556,10 - 350 cm
+649,1 januari 2020,jakarta timur,"jakarta timur, rawa bunga"," 04, 05, 06",4560,31 - 70 cm
+650,1 januari 2020,jakarta timur,"jakarta timur, bale kambang"," 01, 04, 05",177,31 - 150 cm
+651,1 januari 2020,jakarta timur,"jakarta timur, batu ampar"," 01, 02, 04, 05, 06, 07",24,31 - 150 cm
+652,1 januari 2020,jakarta timur,"jakarta timur, cawang"," 01, 02, 03, 05, 08, 12",1500,71 - 200 cm
+653,18 januari 2020,jakarta timur,"jakarta timur, cawang"," 01, 02, 03, 05, 08, 12",1500,71 - 200 cm
+654,1 januari 2020,jakarta timur,"jakarta timur, cililitan"," 05, 06, 07, 15, 16",58,71 - 200 cm
+655,1 januari 2020,jakarta timur,"jakarta timur, dukuh"," 01, 02, 03, 04, 05, 06",1119,31 - 150 cm
+656,26 januari 2020,jakarta timur,"jakarta timur, dukuh"," 01, 02, 03, 04, 05, 06",1119,31 - 150 cm
+657,2 januari 2020,jakarta timur,"jakarta timur, tengah"," 01, 02, 03, 04, 05, 06, 07, 08, 09, 10",0,10 - 150 cm
+658,18 januari 2020,jakarta timur,"jakarta timur, tengah"," 01, 02, 03, 04, 05, 06, 07, 08, 09, 10",0,10 - 150 cm
+659,1 januari 2020,jakarta timur,"jakarta timur, kramat jati"," 02, 03, 05, 08, 11",346,31 - 150 cm
+660,9 januari 2020,jakarta timur,"jakarta timur, kramat jati"," 02, 03, 05, 08, 11",346,31 - 150 cm
+661,1 januari 2020,jakarta timur,"jakarta timur, cipinang melayu"," 02, 03, 04, 05, 06, 08, 10,11, 12,13",2806,10 - 220 cm
+662,18 januari 2020,jakarta timur,"jakarta timur, cipinang melayu"," 02, 03, 04, 05, 06, 08, 10,11, 12,13",2806,10 - 220 cm
+663,20 januari 2020,jakarta timur,"jakarta timur, cipinang melayu"," 02, 03, 04, 05, 06, 08, 10,11, 12,13",2806,10 - 220 cm
+664,24 januari 2020,jakarta timur,"jakarta timur, cipinang melayu"," 02, 03, 04, 05, 06, 08, 10,11, 12,13",2806,10 - 220 cm
+665,1 januari 2020,jakarta timur,"jakarta timur, halim perdana kusuma", 05,300,71 - 150 cm
+666,1 januari 2020,jakarta timur,"jakarta timur, kebon pala"," 01, 04, 06, 09, 10, 11",209,31 - 70 cm
+667,1 januari 2020,jakarta timur,"jakarta timur, makasar"," 03, 05, 06, 07",2220,31 - 150 cm
+668,18 januari 2020,jakarta timur,"jakarta timur, makasar"," 03, 05, 06, 07",2220,31 - 150 cm
+669,1 januari 2020,jakarta timur,"jakarta timur, pinang ranti"," 01, 04, 05",120,31 - 70 cm
+670,1 januari 2020,jakarta timur,"jakarta timur, kebon manggis"," 03, 04",949,71 - 150 cm
+671,1 januari 2020,jakarta timur,"jakarta timur, pisangan baru"," 12, 14",1200,31 - 70 cm
+672,1 januari 2020,jakarta timur,"jakarta timur, utan kayu selatan"," 01, 03, 05, 07, 12",0,31 - 70 cm
+673,1 januari 2020,jakarta timur,"jakarta timur, cijantung"," 01, 07, 19",207,31 - 70 cm
+674,1 januari 2020,jakarta timur,"jakarta timur, pekayon"," 02, 08  ",0,10 - 30 cm
+675,1 januari 2020,jakarta timur,"jakarta timur, gedong",". 01, 03, 11",100,100 - 150 cm
+676,1 januari 2020,jakarta timur,"jakarta timur, cipinang"," 01, 07, 12, 13, 14, 15, 16",2700,31 - 70 cm
+677,1 januari 2020,jakarta timur,"jakarta timur, jati", 08,84,31 - 70 cm
+678,1 januari 2020,jakarta timur,"jakarta timur, kayu putih"," 11, 12, 13, 14, 15, 16",2310,71 - 150 cm
+679,23 februari 2020,jakarta pusat,"jakarta pusat, johar baru"," 05, 09, ",0,30 - 50 cm
+680,25 februari 2020,jakarta pusat,"jakarta pusat, johar baru"," 05, 09, ",0,30 - 50 cm
+681,23 februari 2020,jakarta pusat,"jakarta pusat, kampung rawa", 06,0,20 cm
+682,23 februari 2020,jakarta pusat,"jakarta pusat, tanah tinggi", 05,0,30 cm
+683,2 februari 2020,jakarta pusat,"jakarta pusat, gunung sahari selatan"," 04, 09, ",0,20 - 100 cm
+684,8 februari 2020,jakarta pusat,"jakarta pusat, gunung sahari selatan"," 04, 09, ",0,20 - 100 cm
+685,23 februari 2020,jakarta pusat,"jakarta pusat, gunung sahari selatan"," 04, 09, ",0,20 - 100 cm
+686,23 februari 2020,jakarta pusat,"jakarta pusat, serdang"," 06, 01",0,30 cm
+687,23 februari 2020,jakarta pusat,"jakarta pusat, cempaka baru"," 05, 07",0,20 - 50 cm
+688,25 februari 2020,jakarta pusat,"jakarta pusat, cempaka baru"," 05, 07",0,20 - 50 cm
+689,23 februari 2020,jakarta pusat,"jakarta pusat, kemayoran", 08,0,20 cm
+690,25 februari 2020,jakarta pusat,"jakarta pusat, kebon kosong"," 01, 02, 03, 04, 05, 06, 07, 08, 09, 12",0,10 - 50 cm
+691,25 februari 2020,jakarta pusat,"jakarta pusat, sumur batu", 07,0,10 - 50 cm
+692,8 februari 2020,jakarta pusat,"jakarta pusat, pasar baru"," 03,  04, 05, 06",0,10 - 40
+693,21 februari 2020,jakarta pusat,"jakarta pusat, pasar baru"," 03,  04, 05, 06",0,10 - 40
+694,22 februari 2020,jakarta pusat,"jakarta pusat, pasar baru"," 03,  04, 05, 06",0,10 - 40
+695,23 februari 2020,jakarta pusat,"jakarta pusat, pasar baru"," 03,  04, 05, 06",0,10 - 40
+696,23 februari 2020,jakarta pusat,"jakarta pusat, karang anyar", 06,0,20 cm
+697,25 februari 2020,jakarta pusat,"jakarta pusat, mangga dua selatan", 11,0,30 cm
+698,25 februari 2020,jakarta pusat,"jakarta pusat, gunung sahari utara"," 03, 07",0,30 cm
+699,8 februari 2020,jakarta pusat,"jakarta pusat, bendungan hilir"," 01, 03, 04, 06, 07",0,10 - 60
+700,23 februari 2020,jakarta pusat,"jakarta pusat, bendungan hilir"," 01, 03, 04, 06, 07",0,10 - 60
+701,25 februari 2020,jakarta pusat,"jakarta pusat, bendungan hilir"," 01, 03, 04, 06, 07",0,10 - 60
+702,22 februari 2020,jakarta pusat,"jakarta pusat, karet tengsin"," 07, 09, ",0,40 - 80 cm
+703,23 februari 2020,jakarta pusat,"jakarta pusat, karet tengsin"," 07, 09, ",0,40 - 80 cm
+704,25 februari 2020,jakarta pusat,"jakarta pusat, karet tengsin"," 07, 09, ",0,40 - 80 cm
+705,22 februari 2020,jakarta pusat,"jakarta pusat, petamburan"," 03, 09",0,10 - 120
+706,23 februari 2020,jakarta pusat,"jakarta pusat, petamburan"," 03, 09",0,10 - 120
+707,25 februari 2020,jakarta pusat,"jakarta pusat, petamburan"," 03, 09",0,10 - 120
+708,23 februari 2020,jakarta pusat,"jakarta pusat, kebon melati"," 07, 16",0,35 - 50 cm
+709,25 februari 2020,jakarta pusat,"jakarta pusat, kebon melati"," 07, 16",0,35 - 50 cm
+710,20 februari 2020,jakarta pusat,"jakarta pusat, kramat"," 04, 06, 08",0,10 - 50 cm
+711,23 februari 2020,jakarta pusat,"jakarta pusat, kramat"," 04, 06, 08",0,10 - 50 cm
+712,25 februari 2020,jakarta pusat,"jakarta pusat, kramat"," 04, 06, 08",0,10 - 50 cm
+713,23 februari 2020,jakarta pusat,"jakarta pusat, kenari", 05,0,20 cm
+714,20 februari 2020,jakarta pusat,"jakarta pusat, kebon sirih"," 02, 04, 08",0,20 - 90 cm
+715,23 februari 2020,jakarta pusat,"jakarta pusat, kebon sirih"," 02, 04, 08",0,20 - 90 cm
+716,23 februari 2020,jakarta pusat,"jakarta pusat, menteng"," 05,  09, 11",0,10 - 60 cm
+717,25 februari 2020,jakarta pusat,"jakarta pusat, menteng"," 05,  09, 11",0,10 - 60 cm
+718,23 februari 2020,jakarta pusat,"jakarta pusat, rawasari", 09,0,20 - 30 cm
+719,25 februari 2020,jakarta pusat,"jakarta pusat, rawasari", 09,0,20 - 30 cm
+720,23 februari 2020,jakarta pusat,"jakarta pusat, cempaka putih timur"," 05, 06, 07, 08",0, 30 cm
+721,25 februari 2020,jakarta pusat,"jakarta pusat, cempaka putih timur"," 05, 06, 07, 08",0, 30 cm
+722,8 februari 2020,jakarta pusat,"jakarta pusat, cempaka putih barat"," 03, 08, 12",0,20 - 30 cm
+723,25 februari 2020,jakarta pusat,"jakarta pusat, cempaka putih barat"," 03, 08, 12",0,20 - 30 cm
+724,25 februari 2020,jakarta pusat,"jakarta pusat, kebon kelapa"," 02, ",0,20 cm
+725,8 februari 2020,jakarta utara,"jakarta utara, sunter jaya"," 02, 04, 12, ",0,10 - 30 cm
+726,25 februari 2020,jakarta utara,"jakarta utara, sunter jaya"," 02, 04, 12, ",0,10 - 30 cm
+727,8 februari 2020,jakarta utara,"jakarta utara, warakas"," 01, 12, 13",0,20 cm
+728,8 februari 2020,jakarta utara,"jakarta utara, tanjung priok"," 02, 07",0,10 - 30 cm
+729,8 februari 2020,jakarta utara,"jakarta utara, kebon bawang"," 02, 07",0,10 - 30 cm
+730,8 februari 2020,jakarta utara,"jakarta utara, kelapa gading barat"," 02, 03, 06, 11, 12",0,10 - 45 cm
+731,23 februari 2020,jakarta utara,"jakarta utara, kelapa gading barat"," 02, 03, 06, 11, 12",0,10 - 45 cm
+732,8 februari 2020,jakarta utara,"jakarta utara, kelapa gading timur"," 01, 04, 05, 06, 08,09, 10, 11, 13, 15, 16, 18, 19, ",271,30 - 40 cm
+733,23 februari 2020,jakarta utara,"jakarta utara, kelapa gading timur"," 01, 04, 05, 06, 08,09, 10, 11, 13, 15, 16, 18, 19, ",271,30 - 40 cm
+734,25 februari 2020,jakarta utara,"jakarta utara, kelapa gading timur"," 01, 04, 05, 06, 08,09, 10, 11, 13, 15, 16, 18, 19, ",271,30 - 40 cm
+735,23 februari 2020,jakarta utara,"jakarta utara, pegangsaan dua"," 02, 03, 04, 08, 09, 10, 11, 12, 19",182,20 - 70 cm
+736,25 februari 2020,jakarta utara,"jakarta utara, pegangsaan dua"," 02, 03, 04, 08, 09, 10, 11, 12, 19",182,20 - 70 cm
+737,8 februari 2020,jakarta utara,"jakarta utara, tugu selatan"," 01, 02, 03, 04, 05, 08, 10, 11, 18",192,10 - 80 cm
+738,23 februari 2020,jakarta utara,"jakarta utara, tugu selatan"," 01, 02, 03, 04, 05, 08, 10, 11, 18",192,10 - 80 cm
+739,8 februari 2020,jakarta utara,"jakarta utara, tugu utara"," 02, 03, 04, 10, 11",0,15 - 60 cm
+740,23 februari 2020,jakarta utara,"jakarta utara, tugu utara"," 02, 03, 04, 10, 11",0,15 - 60 cm
+741,8 februari 2020,jakarta utara,"jakarta utara, rawa badak selatan"," 04, 08, 09, 11",0,10 - 30 cm
+742,23 februari 2020,jakarta utara,"jakarta utara, rawa badak selatan"," 04, 08, 09, 11",0,10 - 30 cm
+743,20 februari 2020,jakarta utara,"jakarta utara, kapuk muara", 01,0,5 - 70cm
+744,23 februari 2020,jakarta utara,"jakarta utara, kapuk muara", 01,0,5 - 70cm
+745,8 februari 2020,jakarta utara,"jakarta utara, pejagalan"," 02, 12, 13, 14, 15",250,5 - 60 cm
+746,23 februari 2020,jakarta utara,"jakarta utara, pejagalan"," 02, 12, 13, 14, 15",250,5 - 60 cm
+747,25 februari 2020,jakarta utara,"jakarta utara, pejagalan"," 02, 12, 13, 14, 15",250,5 - 60 cm
+748,28 februari 2020,jakarta utara,"jakarta utara, pejagalan"," 02, 12, 13, 14, 15",250,5 - 60 cm
+749,23 februari 2020,jakarta utara,"jakarta utara, penjaringan", 17,0,20 - 60  cm
+750,25 februari 2020,jakarta utara,"jakarta utara, penjaringan", 17,0,20 - 60  cm
+751,1 februari 2020,jakarta utara,"jakarta utara, pluit"," 01, 11,",0,10 - 80 
+752,2 februari 2020,jakarta utara,"jakarta utara, pluit"," 01, 11,",0,10 - 80 
+753,3 februari 2020,jakarta utara,"jakarta utara, pluit"," 01, 11,",0,10 - 80 
+754,4 februari 2020,jakarta utara,"jakarta utara, pluit"," 01, 11,",0,10 - 80 
+755,2 februari 2020,jakarta utara,"jakarta utara, ancol"," 02, 08, ",0,15 - 20 cm
+756,25 februari 2020,jakarta utara,"jakarta utara, ancol"," 02, 08, ",0,15 - 20 cm
+757,8 februari 2020,jakarta utara,"jakarta utara, pademangan barat ", 10,0,10 - 30 cm
+758,8 februari 2020,jakarta utara,"jakarta utara, pademangan timur"," 01, 02, 10",0,15 - 20 cm
+759,25 februari 2020,jakarta utara,"jakarta utara, pademangan timur"," 01, 02, 10",0,15 - 20 cm
+760,8 februari 2020,jakarta utara,"jakarta utara, rorotan"," 01, 02, 03, 04, 05, 06, 07,08,  09, 12, 13 ",1150,5 - 110
+761,23 februari 2020,jakarta utara,"jakarta utara, rorotan"," 01, 02, 03, 04, 05, 06, 07,08,  09, 12, 13 ",1150,5 - 110
+762,25 februari 2020,jakarta utara,"jakarta utara, rorotan"," 01, 02, 03, 04, 05, 06, 07,08,  09, 12, 13 ",1150,5 - 110
+763,8 februari 2020,jakarta utara,"jakarta utara, semper barat"," 01,02,04, 05, 06, 17",648,10 - 40 cm
+764,23 februari 2020,jakarta utara,"jakarta utara, semper barat"," 01,02,04, 05, 06, 17",648,10 - 40 cm
+765,25 februari 2020,jakarta utara,"jakarta utara, semper barat"," 01,02,04, 05, 06, 17",648,10 - 40 cm
+766,8 februari 2020,jakarta utara,"jakarta utara, semper timur"," 03, 10, 11",200,10 - 35 cm
+767,25 februari 2020,jakarta utara,"jakarta utara, semper timur"," 03, 10, 11",200,10 - 35 cm
+768,8 februari 2020,jakarta utara,"jakarta utara, sukapura"," 01, 02, 03, 04, 06, 07,08, 09, 10,12",566,10 cm - 100 cm
+769,23 februari 2020,jakarta utara,"jakarta utara, sukapura"," 01, 02, 03, 04, 06, 07,08, 09, 10,12",566,10 cm - 100 cm
+770,25 februari 2020,jakarta utara,"jakarta utara, sukapura"," 01, 02, 03, 04, 06, 07,08, 09, 10,12",566,10 cm - 100 cm
+771,8 februari 2020,jakarta utara,"jakarta utara, cilincing"," 03, 06, 09",0,10 - 40 cm
+772,23 februari 2020,jakarta utara,"jakarta utara, cilincing"," 03, 06, 09",0,10 - 40 cm
+773,25 februari 2020,jakarta utara,"jakarta utara, cilincing"," 03, 06, 09",0,10 - 40 cm
+774,9 februari 2020,jakarta utara,"jakarta utara, marunda"," 02, 04, 05, 07",417,5 - 60 cm
+775,23 februari 2020,jakarta utara,"jakarta utara, marunda"," 02, 04, 05, 07",417,5 - 60 cm
+776,25 februari 2020,jakarta utara,"jakarta utara, marunda"," 02, 04, 05, 07",417,5 - 60 cm
+777,28 februari 2020,jakarta utara,"jakarta utara, marunda"," 02, 04, 05, 07",417,5 - 60 cm
+778,8 februari 2020,jakarta barat,"jakarta barat, cengkareng barat"," 06, 09, 10, 11",0,10 - 50 cm
+779,16 februari 2020,jakarta barat,"jakarta barat, cengkareng barat"," 06, 09, 10, 11",0,10 - 50 cm
+780,20 februari 2020,jakarta barat,"jakarta barat, cengkareng barat"," 06, 09, 10, 11",0,10 - 50 cm
+781,25 februari 2020,jakarta barat,"jakarta barat, cengkareng barat"," 06, 09, 10, 11",0,10 - 50 cm
+782,1 februari 2020,jakarta barat,"jakarta barat, cengkareng timur"," 03, 16, 12",0,40 - 70 cm
+783,8 februari 2020,jakarta barat,"jakarta barat, cengkareng timur"," 03, 16, 12",0,40 - 70 cm
+784,16 februari 2020,jakarta barat,"jakarta barat, cengkareng timur"," 03, 16, 12",0,40 - 70 cm
+785,1 februari 2020,jakarta barat,"jakarta barat, duri kosambi"," 04, 06, 08, 11",0,10 - 40 cm
+786,8 februari 2020,jakarta barat,"jakarta barat, duri kosambi"," 04, 06, 08, 11",0,10 - 40 cm
+787,16 februari 2020,jakarta barat,"jakarta barat, duri kosambi"," 04, 06, 08, 11",0,10 - 40 cm
+788,20 februari 2020,jakarta barat,"jakarta barat, duri kosambi"," 04, 06, 08, 11",0,10 - 40 cm
+789,25 februari 2020,jakarta barat,"jakarta barat, duri kosambi"," 04, 06, 08, 11",0,10 - 40 cm
+790,1 februari 2020,jakarta barat,"jakarta barat, kapuk"," 01, 02, 03, 05, 06, 07, 12, 13, 15, 16",0,10 - 30 cm
+791,23 februari 2020,jakarta barat,"jakarta barat, kapuk"," 01, 02, 03, 05, 06, 07, 12, 13, 15, 16",0,10 - 30 cm
+792,4 februari 2020,jakarta barat,"jakarta barat, kapuk"," 01, 02, 03, 05, 06, 07, 12, 13, 15, 16",0,10 - 30 cm
+793,8 februari 2020,jakarta barat,"jakarta barat, kapuk"," 01, 02, 03, 05, 06, 07, 12, 13, 15, 16",0,10 - 30 cm
+794,16 februari 2020,jakarta barat,"jakarta barat, kapuk"," 01, 02, 03, 05, 06, 07, 12, 13, 15, 16",0,10 - 30 cm
+795,20 februari 2020,jakarta barat,"jakarta barat, kapuk"," 01, 02, 03, 05, 06, 07, 12, 13, 15, 16",0,10 - 30 cm
+796,22 februari 2020,jakarta barat,"jakarta barat, kapuk"," 01, 02, 03, 05, 06, 07, 12, 13, 15, 16",0,10 - 30 cm
+797,23 februari 2020,jakarta barat,"jakarta barat, kapuk"," 01, 02, 03, 05, 06, 07, 12, 13, 15, 16",0,10 - 30 cm
+798,25 februari 2020,jakarta barat,"jakarta barat, kapuk"," 01, 02, 03, 05, 06, 07, 12, 13, 15, 16",0,10 - 30 cm
+799,1 februari 2020,jakarta barat,"jakarta barat, kedaung kali angke"," 01, 02,03,  04, 05, 08, 09",0,10 - 50 cm
+800,16 februari 2020,jakarta barat,"jakarta barat, kedaung kali angke"," 01, 02,03,  04, 05, 08, 09",0,10 - 50 cm
+801,20 februari 2020,jakarta barat,"jakarta barat, kedaung kali angke"," 01, 02,03,  04, 05, 08, 09",0,10 - 50 cm
+802,22 februari 2020,jakarta barat,"jakarta barat, kedaung kali angke"," 01, 02,03,  04, 05, 08, 09",0,10 - 50 cm
+803,25 februari 2020,jakarta barat,"jakarta barat, kedaung kali angke"," 01, 02,03,  04, 05, 08, 09",0,10 - 50 cm
+804,1 februari 2020,jakarta barat,"jakarta barat, rawa buaya"," 01, 02,03,  04, 06, 08,10,11, 12",0,10 - 50 cm
+805,8 februari 2020,jakarta barat,"jakarta barat, rawa buaya"," 01, 02,03,  04, 06, 08,10,11, 12",0,10 - 50 cm
+806,16 februari 2020,jakarta barat,"jakarta barat, rawa buaya"," 01, 02,03,  04, 06, 08,10,11, 12",0,10 - 50 cm
+807,20 februari 2020,jakarta barat,"jakarta barat, rawa buaya"," 01, 02,03,  04, 06, 08,10,11, 12",0,10 - 50 cm
+808,25 februari 2020,jakarta barat,"jakarta barat, rawa buaya"," 01, 02,03,  04, 06, 08,10,11, 12",0,10 - 50 cm
+809,2 februari 2020,jakarta barat,"jakarta barat, jelambar"," 04, 05, 07, ",0,5 - 20 cm
+810,25 februari 2020,jakarta barat,"jakarta barat, tanjung duren utara", 02,0,30 - 50 cm
+811,16 februari 2020,jakarta barat,"jakarta barat, tanjung duren selatan"," 01, 02",0,15 - 25 cm
+812,25 februari 2020,jakarta barat,"jakarta barat, tomang", 15,0,30 - 50 cm
+813,4 februari 2020,jakarta barat,"jakarta barat, kalideres"," 08, 06, ",0,5 - 15 cm
+814,20 februari 2020,jakarta barat,"jakarta barat, kamal"," 01,  03",0,5 - 15 cm
+815,27 februari 2020,jakarta barat,"jakarta barat, kamal"," 01,  03",0,5 - 15 cm
+816,4 februari 2020,jakarta barat,"jakarta barat, pegadungan"," 01, 03, 04, 05. 07",0,5 - 60 cm
+817,20 februari 2020,jakarta barat,"jakarta barat, pegadungan"," 01, 03, 04, 05. 07",0,5 - 60 cm
+818,25 februari 2020,jakarta barat,"jakarta barat, pegadungan"," 01, 03, 04, 05. 07",0,5 - 60 cm
+819,1 februari 2020,jakarta barat,"jakarta barat, semanan"," 03,04,  07, 10",0,10 - 60 cm
+820,8 februari 2020,jakarta barat,"jakarta barat, semanan"," 03,04,  07, 10",0,10 - 60 cm
+821,20 februari 2020,jakarta barat,"jakarta barat, semanan"," 03,04,  07, 10",0,10 - 60 cm
+822,25 februari 2020,jakarta barat,"jakarta barat, semanan"," 03,04,  07, 10",0,10 - 60 cm
+823,27 februari 2020,jakarta barat,"jakarta barat, semanan"," 03,04,  07, 10",0,10 - 60 cm
+824,1 februari 2020,jakarta barat,"jakarta barat, tegal alur"," 01, 02, 03, 04, 05, 09, 11, 12, 13, 15",0,15 - 35 cm
+825,2 februari 2020,jakarta barat,"jakarta barat, tegal alur"," 01, 02, 03, 04, 05, 09, 11, 12, 13, 15",0,15 - 35 cm
+826,34 februari 2020,jakarta barat,"jakarta barat, tegal alur"," 01, 02, 03, 04, 05, 09, 11, 12, 13, 15",0,15 - 35 cm
+827,8 februari 2020,jakarta barat,"jakarta barat, tegal alur"," 01, 02, 03, 04, 05, 09, 11, 12, 13, 15",0,15 - 35 cm
+828,16 februari 2020,jakarta barat,"jakarta barat, tegal alur"," 01, 02, 03, 04, 05, 09, 11, 12, 13, 15",0,15 - 35 cm
+829,22 februari 2020,jakarta barat,"jakarta barat, tegal alur"," 01, 02, 03, 04, 05, 09, 11, 12, 13, 15",0,15 - 35 cm
+830,25 februari 2020,jakarta barat,"jakarta barat, tegal alur"," 01, 02, 03, 04, 05, 09, 11, 12, 13, 15",0,15 - 35 cm
+831,27 februari 2020,jakarta barat,"jakarta barat, tegal alur"," 01, 02, 03, 04, 05, 09, 11, 12, 13, 15",0,15 - 35 cm
+832,25 februari 2020,jakarta barat,"jakarta barat, duri kepa", 14,0,10 - 30 cm
+833,20 februari 2020,jakarta barat,"jakarta barat, kedoya selatan"," 01,03,  05",0,15 - 50 cm
+834,23 februari 2020,jakarta barat,"jakarta barat, kedoya selatan"," 01,03,  05",0,15 - 50 cm
+835,25 februari 2020,jakarta barat,"jakarta barat, kedoya selatan"," 01,03,  05",0,15 - 50 cm
+836,2 februari 2020,jakarta barat,"jakarta barat, kedoya utara"," 08, ",0,20 - 50 cm
+837,23 februari 2020,jakarta barat,"jakarta barat, kedoya utara"," 08, ",0,20 - 50 cm
+838,16 februari 2020,jakarta barat,"jakarta barat, sukabumi selatan"," 01, 02, ",0,10 - 80 cm
+839,25 februari 2020,jakarta barat,"jakarta barat, sukabumi selatan"," 01, 02, ",0,10 - 80 cm
+840,25 februari 2020,jakarta barat,"jakarta barat, kebon jeruk", 01,0,10 - 30 cm
+841,1 februari 2020,jakarta barat,"jakarta barat, kembangan selatan"," 01, 09",0,20 - 60 cm
+842,2 februari 2020,jakarta barat,"jakarta barat, kembangan selatan"," 01, 09",0,20 - 60 cm
+843,1 februari 2020,jakarta barat,"jakarta barat, kembangan utara"," 01, 03, 04, 05,08,  10",0,30 - 80 cm
+844,8 februari 2020,jakarta barat,"jakarta barat, kembangan utara"," 01, 03, 04, 05,08,  10",0,30 - 80 cm
+845,23 februari 2020,jakarta barat,"jakarta barat, kembangan utara"," 01, 03, 04, 05,08,  10",0,30 - 80 cm
+846,25 februari 2020,jakarta barat,"jakarta barat, kembangan utara"," 01, 03, 04, 05,08,  10",0,30 - 80 cm
+847,25 februari 2020,jakarta barat,"jakarta barat, srengseng"," 02, 08",0,15 - 20 cm
+848,23 februari 2020,jakarta barat,"jakarta barat, jati pulo"," 05,  09",0,10 - 40 cm
+849,25 februari 2020,jakarta barat,"jakarta barat, jati pulo"," 05,  09",0,10 - 40 cm
+850,25 februari 2020,jakarta barat,"jakarta barat, kemanggisan", 09,0,10 - 40 cm
+851,23 februari 2020,jakarta barat,"jakarta barat, kota bambu selatan"," 01, 02, 05",85,10 - 50 cm
+852,25 februari 2020,jakarta barat,"jakarta barat, kota bambu selatan"," 01, 02, 05",85,10 - 50 cm
+853,25 februari 2020,jakarta barat,"jakarta barat, kota bambu utara", 02,0,10 - 40 cm
+854,25 februari 2020,jakarta barat,"jakarta barat, tangki"," 02, 07",0,30 - 40 cm
+855,25 februari 2020,jakarta barat,"jakarta barat, mangga besar", 01,0,30 - 40 cm
+856,25 februari 2020,jakarta barat,"jakarta barat, pekojan", 12,0,30 - 50 cm
+857,25 februari 2020,jakarta selatan,"jakarta selatan, cilandak barat", 02,0,50 - 80 cm
+858,22 februari 2020,jakarta selatan,"jakarta selatan, cipete selatan"," 01, 07",0,20 - 40 cm
+859,23 februari 2020,jakarta selatan,"jakarta selatan, cipete selatan"," 01, 07",0,20 - 40 cm
+860,22 februari 2020,jakarta selatan,"jakarta selatan, pondok labu", 03,0,20 cm
+861,8 februari 2020,jakarta selatan,"jakarta selatan, tanjung barat"," 05, ",0,10 - 100 cm
+862,20 februari 2020,jakarta selatan,"jakarta selatan, tanjung barat"," 05, ",0,10 - 100 cm
+863,25 februari 2020,jakarta selatan,"jakarta selatan, tanjung barat"," 05, ",0,10 - 100 cm
+864,25 februari 2020,jakarta selatan,"jakarta selatan, cipedak", 06,0,10 - 20 cm
+865,25 februari 2020,jakarta selatan,"jakarta selatan, kramat pela"," 08, 09",0,10 - 20 cm
+866,2 februari 2020,jakarta selatan,"jakarta selatan, petogogan"," 01, 02, 03, 07",0,10 - 35 cm
+867,8 februari 2020,jakarta selatan,"jakarta selatan, petogogan"," 01, 02, 03, 07",0,10 - 35 cm
+868,25 februari 2020,jakarta selatan,"jakarta selatan, petogogan"," 01, 02, 03, 07",0,10 - 35 cm
+869,25 februari 2020,jakarta selatan,"jakarta selatan, pulo", 03,0,10 - 20 cm
+870,25 februari 2020,jakarta selatan,"jakarta selatan, cipete utara"," 06, 10",0,10 - 20 cm
+871,25 februari 2020,jakarta selatan,"jakarta selatan, cipulir"," 07, 10",0,100 cm
+872,20 februari 2020,jakarta selatan,"jakarta selatan, kebayoran lama selatan", 04,0,10 - 30 cm
+873,25 februari 2020,jakarta selatan,"jakarta selatan, kebayoran lama selatan", 04,0,10 - 30 cm
+874,20 februari 2020,jakarta selatan,"jakarta selatan, pondok pinang"," 01,  05, ",0,10 - 60 cm
+875,25 februari 2020,jakarta selatan,"jakarta selatan, pondok pinang"," 01,  05, ",0,10 - 60 cm
+876,23 februari 2020,jakarta selatan,"jakarta selatan, bangka"," 01, 06",0,10 - 30 cm
+877,25 februari 2020,jakarta selatan,"jakarta selatan, bangka"," 01, 06",0,10 - 30 cm
+878,25 februari 2020,jakarta selatan,"jakarta selatan, kuningan barat"," 04, 05",0,10 - 30 cm
+879,23 februari 2020,jakarta selatan,"jakarta selatan, mampang prapatan"," 05, ",0,120 cm
+880,22 februari 2020,jakarta selatan,"jakarta selatan, pela mampang"," 04, 06",0,10 - 30 cm
+881,25 februari 2020,jakarta selatan,"jakarta selatan, pela mampang"," 04, 06",0,10 - 30 cm
+882,8 februari 2020,jakarta selatan,"jakarta selatan, cikoko"," 01, 04",0,10 - 25 cm
+883,23 februari 2020,jakarta selatan,"jakarta selatan, cikoko"," 01, 04",0,10 - 25 cm
+884,8 februari 2020,jakarta selatan,"jakarta selatan, pengadegan"," 01, 02, 07",121,50 - 150 cm
+885,20 februari 2020,jakarta selatan,"jakarta selatan, pengadegan"," 01, 02, 07",121,50 - 150 cm
+886,22 februari 2020,jakarta selatan,"jakarta selatan, pengadegan"," 01, 02, 07",121,50 - 150 cm
+887,23 februari 2020,jakarta selatan,"jakarta selatan, pengadegan"," 01, 02, 07",121,50 - 150 cm
+888,24 februari 2020,jakarta selatan,"jakarta selatan, pengadegan"," 01, 02, 07",121,50 - 150 cm
+889,8 februari 2020,jakarta selatan,"jakarta selatan, rawajati"," 01, 03, 06, 07",282,200 cm
+890,20 februari 2020,jakarta selatan,"jakarta selatan, rawajati"," 01, 03, 06, 07",282,200 cm
+891,22 februari 2020,jakarta selatan,"jakarta selatan, rawajati"," 01, 03, 06, 07",282,200 cm
+892,24 februari 2020,jakarta selatan,"jakarta selatan, rawajati"," 01, 03, 06, 07",282,200 cm
+893,22 februari 2020,jakarta selatan,"jakarta selatan, duren tiga"," 05, ",0,10 - 50 cm
+894,23 februari 2020,jakarta selatan,"jakarta selatan, duren tiga"," 05, ",0,10 - 50 cm
+895,25 februari 2020,jakarta selatan,"jakarta selatan, duren tiga"," 05, ",0,10 - 50 cm
+896,25 februari 2020,jakarta selatan,"jakarta selatan, jati padang", 06,0,30 - 40 cm
+897,25 februari 2020,jakarta selatan,"jakarta selatan, kebagusan"," 06, 07",0,5 - 40 cm
+898,8 februari 2020,jakarta selatan,"jakarta selatan, pejaten timur"," 03, 04, 05, 06, 07, 08, 09, 10, 11, 12 ",329,30 - 120 cm
+899,16 februari 2020,jakarta selatan,"jakarta selatan, pejaten timur"," 03, 04, 05, 06, 07, 08, 09, 10, 11, 12 ",329,30 - 120 cm
+900,20 februari 2020,jakarta selatan,"jakarta selatan, pejaten timur"," 03, 04, 05, 06, 07, 08, 09, 10, 11, 12 ",329,30 - 120 cm
+901,24 februari 2020,jakarta selatan,"jakarta selatan, pejaten timur"," 03, 04, 05, 06, 07, 08, 09, 10, 11, 12 ",329,30 - 120 cm
+902,23 februari 2020,jakarta selatan,"jakarta selatan, ragunan"," 04, 09",0,25 - 50 cm
+903,25 februari 2020,jakarta selatan,"jakarta selatan, ragunan"," 04, 09",0,25 - 50 cm
+904,25 februari 2020,jakarta selatan,"jakarta selatan, pasar minggu", 05,0,15 cm
+905,20 februari 2020,jakarta selatan,"jakarta selatan, bintaro"," 05, ",0,10 - 30 cm
+906,25 februari 2020,jakarta selatan,"jakarta selatan, bintaro"," 05, ",0,10 - 30 cm
+907,25 februari 2020,jakarta selatan,"jakarta selatan, petukangan selatan"," 01, 06",0,10 - 30 cm
+908,23 februari 2020,jakarta selatan,"jakarta selatan, guntur", 06,0,40 cm
+909,22 februari 2020,jakarta selatan,"jakarta selatan, karet semanggi", 04,0,10 - 80 cm
+910,23 februari 2020,jakarta selatan,"jakarta selatan, karet semanggi", 04,0,10 - 80 cm
+911,25 februari 2020,jakarta selatan,"jakarta selatan, karet semanggi", 04,0,10 - 80 cm
+912,23 februari 2020,jakarta selatan,"jakarta selatan, pasar manggis", 05,0,40 cm
+913,23 februari 2020,jakarta selatan,"jakarta selatan, karet"," 02, 07",0,20 - 30 cm
+914,23 februari 2020,jakarta selatan,"jakarta selatan, menteng atas", 07,0,20 cm
+915,8 februari 2020,jakarta selatan,"jakarta selatan, manggarai"," 01, 04, 05, 09, 10, 11",15,10 - 80 cm
+916,20 februari 2020,jakarta selatan,"jakarta selatan, manggarai"," 01, 04, 05, 09, 10, 11",15,10 - 80 cm
+917,23 februari 2020,jakarta selatan,"jakarta selatan, manggarai"," 01, 04, 05, 09, 10, 11",15,10 - 80 cm
+918,24 februari 2020,jakarta selatan,"jakarta selatan, manggarai"," 01, 04, 05, 09, 10, 11",15,10 - 80 cm
+919,23 februari 2020,jakarta selatan,"jakarta selatan, manggarai selatan"," 02, 05",0,20 - 30 cm
+920,8 februari 2020,jakarta selatan,"jakarta selatan, bukit duri"," 06, 08, 11, 12",0,10 - 100 cm
+921,25 februari 2020,jakarta selatan,"jakarta selatan, bukit duri"," 06, 08, 11, 12",0,10 - 100 cm
+922,8 februari 2020,jakarta selatan,"jakarta selatan, kebon baru"," 01, 02, 04, 05, 06, 08, 10, 12 ",420,10 - 60 cm
+923,20 februari 2020,jakarta selatan,"jakarta selatan, kebon baru"," 01, 02, 04, 05, 06, 08, 10, 12 ",420,10 - 60 cm
+924,23 februari 2020,jakarta selatan,"jakarta selatan, kebon baru"," 01, 02, 04, 05, 06, 08, 10, 12 ",420,10 - 60 cm
+925,24 februari 2020,jakarta selatan,"jakarta selatan, kebon baru"," 01, 02, 04, 05, 06, 08, 10, 12 ",420,10 - 60 cm
+926,25 februari 2020,jakarta selatan,"jakarta selatan, kebon baru"," 01, 02, 04, 05, 06, 08, 10, 12 ",420,10 - 60 cm
+927,23 februari 2020,jakarta selatan,"jakarta selatan, menteng dalam"," 01, 08, 10, 11, ",0,10 - 130 cm
+928,8 februari 2020,jakarta timur,"jakarta timur, cakung barat"," 03, 06,07,  08, 09",98,10 - 100 cm
+929,23 februari 2020,jakarta timur,"jakarta timur, cakung barat"," 03, 06,07,  08, 09",98,10 - 100 cm
+930,22 februari 2020,jakarta timur,"jakarta timur, cakung timur"," 05,06, 07, 08, 09, 10, 12",630,5 - 100 cm
+931,23 februari 2020,jakarta timur,"jakarta timur, cakung timur"," 05,06, 07, 08, 09, 10, 12",630,5 - 100 cm
+932,24 februari 2020,jakarta timur,"jakarta timur, cakung timur"," 05,06, 07, 08, 09, 10, 12",630,5 - 100 cm
+933,27 februari 2020,jakarta timur,"jakarta timur, cakung timur"," 05,06, 07, 08, 09, 10, 12",630,5 - 100 cm
+934,8 februari 2020,jakarta timur,"jakarta timur, penggilingan"," 03, 05, 08",0,10 - 50 cm
+935,16 februari 2020,jakarta timur,"jakarta timur, penggilingan"," 03, 05, 08",0,10 - 50 cm
+936,23 februari 2020,jakarta timur,"jakarta timur, penggilingan"," 03, 05, 08",0,10 - 50 cm
+937,25 februari 2020,jakarta timur,"jakarta timur, penggilingan"," 03, 05, 08",0,10 - 50 cm
+938,1 februari 2020,jakarta timur,"jakarta timur, rawa terate"," 04, 05, 06",2564,30 - 250 cm
+939,2 februari 2020,jakarta timur,"jakarta timur, rawa terate"," 04, 05, 06",2564,30 - 250 cm
+940,3 februari 2020,jakarta timur,"jakarta timur, rawa terate"," 04, 05, 06",2564,30 - 250 cm
+941,8 februari 2020,jakarta timur,"jakarta timur, rawa terate"," 04, 05, 06",2564,30 - 250 cm
+942,20 februari 2020,jakarta timur,"jakarta timur, rawa terate"," 04, 05, 06",2564,30 - 250 cm
+943,22 februari 2020,jakarta timur,"jakarta timur, rawa terate"," 04, 05, 06",2564,30 - 250 cm
+944,23 februari 2020,jakarta timur,"jakarta timur, rawa terate"," 04, 05, 06",2564,30 - 250 cm
+945,25 februari 2020,jakarta timur,"jakarta timur, rawa terate"," 04, 05, 06",2564,30 - 250 cm
+946,16 februari 2020,jakarta timur,"jakarta timur, jatinegara"," 02, 06, 08, 09, 11",0,10 - 60 cm
+947,23 februari 2020,jakarta timur,"jakarta timur, jatinegara"," 02, 06, 08, 09, 11",0,10 - 60 cm
+948,25 februari 2020,jakarta timur,"jakarta timur, jatinegara"," 02, 06, 08, 09, 11",0,10 - 60 cm
+949,16 februari 2020,jakarta timur,"jakarta timur, pulo gebang"," 05, 08, 10, 14, 15 16",0,10 - 90 cm
+950,23 februari 2020,jakarta timur,"jakarta timur, pulo gebang"," 05, 08, 10, 14, 15 16",0,10 - 90 cm
+951,25 februari 2020,jakarta timur,"jakarta timur, pulo gebang"," 05, 08, 10, 14, 15 16",0,10 - 90 cm
+952,8 februari 2020,jakarta timur,"jakarta timur, bambu apus"," 02,  03, 05",0,20 - 50 cm
+953,25 februari 2020,jakarta timur,"jakarta timur, bambu apus"," 02,  03, 05",0,20 - 50 cm
+954,16 februari 2020,jakarta timur,"jakarta timur, cipayung"," 02, 04",0,10 - 35 cm
+955,25 februari 2020,jakarta timur,"jakarta timur, cipayung"," 02, 04",0,10 - 35 cm
+956,8 februari 2020,jakarta timur,"jakarta timur, lubang buaya"," 03, 04,09, 12",0,10 - 60 cm
+957,16 februari 2020,jakarta timur,"jakarta timur, lubang buaya"," 03, 04,09, 12",0,10 - 60 cm
+958,23 februari 2020,jakarta timur,"jakarta timur, lubang buaya"," 03, 04,09, 12",0,10 - 60 cm
+959,25 februari 2020,jakarta timur,"jakarta timur, lubang buaya"," 03, 04,09, 12",0,10 - 60 cm
+960,28 februari 2020,jakarta timur,"jakarta timur, lubang buaya"," 03, 04,09, 12",0,10 - 60 cm
+961,28 februari 2020,jakarta timur,"jakarta timur, setu", 01,0,30 cm
+962,25 februari 2020,jakarta timur,"jakarta timur, cilangkap"," 03, 04, 06",0,15 - 40 cm
+963,28 februari 2020,jakarta timur,"jakarta timur, cilangkap"," 03, 04, 06",0,15 - 40 cm
+964,15 februari 2020,jakarta timur,"jakarta timur, cibubur"," 02, 03, 05, 10, 12",0,10 - 100 cm
+965,25 februari 2020,jakarta timur,"jakarta timur, cibubur"," 02, 03, 05, 10, 12",0,10 - 100 cm
+966,25 februari 2020,jakarta timur,"jakarta timur, kelapa dua wetan"," 02, 08, 09, 011",0,5 - 40 cm
+967,16 februari 2020,jakarta timur,"jakarta timur, rambutan"," 01, 02, 03, 05, 06",2286,10 - 60 cm
+968,23 februari 2020,jakarta timur,"jakarta timur, rambutan"," 01, 02, 03, 05, 06",2286,10 - 60 cm
+969,25 februari 2020,jakarta timur,"jakarta timur, rambutan"," 01, 02, 03, 05, 06",2286,10 - 60 cm
+970,23 februari 2020,jakarta timur,"jakarta timur, susukan", 05,0,30 - 40 cm
+971,16 februari 2020,jakarta timur,"jakarta timur, klender","  07, 09, 11, 13, 16, 17, 18",0,10 - 80 cm
+972,23 februari 2020,jakarta timur,"jakarta timur, klender","  07, 09, 11, 13, 16, 17, 18",0,10 - 80 cm
+973,25 februari 2020,jakarta timur,"jakarta timur, klender","  07, 09, 11, 13, 16, 17, 18",0,10 - 80 cm
+974,23 februari 2020,jakarta timur,"jakarta timur, malaka jaya"," 01, 03, 04, 10, 12, 13",0,20 - 100  cm
+975,25 februari 2020,jakarta timur,"jakarta timur, malaka jaya"," 01, 03, 04, 10, 12, 13",0,20 - 100  cm
+976,23 februari 2020,jakarta timur,"jakarta timur, pondok bambu"," 06, 01, 07, 05",130,20 - 70 cm
+977,8 februari 2020,jakarta timur,"jakarta timur, pondok kelapa"," 04, 06,08,  09, 10, 12, 13",2132,10 - 100 cm
+978,16 februari 2020,jakarta timur,"jakarta timur, pondok kelapa"," 04, 06,08,  09, 10, 12, 13",2132,10 - 100 cm
+979,25 februari 2020,jakarta timur,"jakarta timur, pondok kelapa"," 04, 06,08,  09, 10, 12, 13",2132,10 - 100 cm
+980,8 februari 2020,jakarta timur,"jakarta timur, pondok kopi"," 03, 04, 05, 06, 07, 10",0,10 - 60 cm
+981,25 februari 2020,jakarta timur,"jakarta timur, pondok kopi"," 03, 04, 05, 06, 07, 10",0,10 - 60 cm
+982,8 februari 2020,jakarta timur,"jakarta timur, duren sawit"," 01, 05, 09, 10,13, 15,16,  17",0,10 - 50 cm
+983,16 februari 2020,jakarta timur,"jakarta timur, duren sawit"," 01, 05, 09, 10,13, 15,16,  17",0,10 - 50 cm
+984,23 februari 2020,jakarta timur,"jakarta timur, duren sawit"," 01, 05, 09, 10,13, 15,16,  17",0,10 - 50 cm
+985,25 februari 2020,jakarta timur,"jakarta timur, malaka sari", 09,0,30 - 70 cm
+986,8 februari 2020,jakarta timur,"jakarta timur, bidara cina"," 01, 02., 03, 05, 06,  07,08, 09,  10, 11, 12, 14, 15",3904,10 - 100 cm
+987,15 februari 2020,jakarta timur,"jakarta timur, bidara cina"," 01, 02., 03, 05, 06,  07,08, 09,  10, 11, 12, 14, 15",3904,10 - 100 cm
+988,16 februari 2020,jakarta timur,"jakarta timur, bidara cina"," 01, 02., 03, 05, 06,  07,08, 09,  10, 11, 12, 14, 15",3904,10 - 100 cm
+989,20 februari 2020,jakarta timur,"jakarta timur, bidara cina"," 01, 02., 03, 05, 06,  07,08, 09,  10, 11, 12, 14, 15",3904,10 - 100 cm
+990,22 februari 2020,jakarta timur,"jakarta timur, bidara cina"," 01, 02., 03, 05, 06,  07,08, 09,  10, 11, 12, 14, 15",3904,10 - 100 cm
+991,23 februari 2020,jakarta timur,"jakarta timur, bidara cina"," 01, 02., 03, 05, 06,  07,08, 09,  10, 11, 12, 14, 15",3904,10 - 100 cm
+992,24 februari 2020,jakarta timur,"jakarta timur, bidara cina"," 01, 02., 03, 05, 06,  07,08, 09,  10, 11, 12, 14, 15",3904,10 - 100 cm
+993,25 februari 2020,jakarta timur,"jakarta timur, bidara cina"," 01, 02., 03, 05, 06,  07,08, 09,  10, 11, 12, 14, 15",3904,10 - 100 cm
+994,25 februari 2020,jakarta timur,"jakarta timur, cipinang besar utara", 13,0,10 - 20 cm
+995,8 februari 2020,jakarta timur,"jakarta timur, cipinang muara","  11, 13, 16",708,10 - 80 cm
+996,16 februari 2020,jakarta timur,"jakarta timur, cipinang muara","  11, 13, 16",708,10 - 80 cm
+997,23 februari 2020,jakarta timur,"jakarta timur, cipinang muara","  11, 13, 16",708,10 - 80 cm
+998,25 februari 2020,jakarta timur,"jakarta timur, cipinang muara","  11, 13, 16",708,10 - 80 cm
+999,28 februari 2020,jakarta timur,"jakarta timur, cipinang muara","  11, 13, 16",708,10 - 80 cm
+1000,6 februari 2020,jakarta timur,"jakarta timur, kampung melayu"," 03,04, 05,06, 07, 08",2185,10 - 150 cm
+1001,8 februari 2020,jakarta timur,"jakarta timur, kampung melayu"," 03,04, 05,06, 07, 08",2185,10 - 150 cm
+1002,16 februari 2020,jakarta timur,"jakarta timur, kampung melayu"," 03,04, 05,06, 07, 08",2185,10 - 150 cm
+1003,20 februari 2020,jakarta timur,"jakarta timur, kampung melayu"," 03,04, 05,06, 07, 08",2185,10 - 150 cm
+1004,23 februari 2020,jakarta timur,"jakarta timur, kampung melayu"," 03,04, 05,06, 07, 08",2185,10 - 150 cm
+1005,24 februari 2020,jakarta timur,"jakarta timur, kampung melayu"," 03,04, 05,06, 07, 08",2185,10 - 150 cm
+1006,8 februari 2020,jakarta timur,"jakarta timur, rawa bunga"," 02, 03, 04, 05, 06, ",0,10 - 70 cm
+1007,23 februari 2020,jakarta timur,"jakarta timur, rawa bunga"," 02, 03, 04, 05, 06, ",0,10 - 70 cm
+1008,25 februari 2020,jakarta timur,"jakarta timur, rawa bunga"," 02, 03, 04, 05, 06, ",0,10 - 70 cm
+1009,23 februari 2020,jakarta timur,"jakarta timur, cipinang cempedak", 03,0,50 cm
+1010,8 februari 2020,jakarta timur,"jakarta timur, bale kambang"," 01, 02, 05, ",244,20 - 100 cm
+1011,20 februari 2020,jakarta timur,"jakarta timur, bale kambang"," 01, 02, 05, ",244,20 - 100 cm
+1012,25 februari 2020,jakarta timur,"jakarta timur, bale kambang"," 01, 02, 05, ",244,20 - 100 cm
+1013,23 februari 2020,jakarta timur,"jakarta timur, batu ampar"," 01,  03, 04, 05, 06",0,10 - 60 cm
+1014,25 februari 2020,jakarta timur,"jakarta timur, batu ampar"," 01,  03, 04, 05, 06",0,10 - 60 cm
+1015,8 februari 2020,jakarta timur,"jakarta timur, cawang"," 01, 02, 03, 04, 05, 07, 08, 09, 10, 11, 12, ",0,10 - 150 cm
+1016,15 februari 2020,jakarta timur,"jakarta timur, cawang"," 01, 02, 03, 04, 05, 07, 08, 09, 10, 11, 12, ",0,10 - 150 cm
+1017,16 februari 2020,jakarta timur,"jakarta timur, cawang"," 01, 02, 03, 04, 05, 07, 08, 09, 10, 11, 12, ",0,10 - 150 cm
+1018,20 februari 2020,jakarta timur,"jakarta timur, cawang"," 01, 02, 03, 04, 05, 07, 08, 09, 10, 11, 12, ",0,10 - 150 cm
+1019,22 februari 2020,jakarta timur,"jakarta timur, cawang"," 01, 02, 03, 04, 05, 07, 08, 09, 10, 11, 12, ",0,10 - 150 cm
+1020,23 februari 2020,jakarta timur,"jakarta timur, cawang"," 01, 02, 03, 04, 05, 07, 08, 09, 10, 11, 12, ",0,10 - 150 cm
+1021,24 februari 2020,jakarta timur,"jakarta timur, cawang"," 01, 02, 03, 04, 05, 07, 08, 09, 10, 11, 12, ",0,10 - 150 cm
+1022,25 februari 2020,jakarta timur,"jakarta timur, cawang"," 01, 02, 03, 04, 05, 07, 08, 09, 10, 11, 12, ",0,10 - 150 cm
+1023,8 februari 2020,jakarta timur,"jakarta timur, cililitan"," 01, 05, 06, 07, 16",0,10 - 100 cm
+1024,20 februari 2020,jakarta timur,"jakarta timur, cililitan"," 01, 05, 06, 07, 16",0,10 - 100 cm
+1025,23 februari 2020,jakarta timur,"jakarta timur, cililitan"," 01, 05, 06, 07, 16",0,10 - 100 cm
+1026,24 februari 2020,jakarta timur,"jakarta timur, cililitan"," 01, 05, 06, 07, 16",0,10 - 100 cm
+1027,25 februari 2020,jakarta timur,"jakarta timur, cililitan"," 01, 05, 06, 07, 16",0,10 - 100 cm
+1028,23 februari 2020,jakarta timur,"jakarta timur, dukuh"," 01,03,04,06",0,5 - 30 cm
+1029,25 februari 2020,jakarta timur,"jakarta timur, dukuh"," 01,03,04,06",0,5 - 30 cm
+1030,25 februari 2020,jakarta timur,"jakarta timur, tengah"," 01, 02, 03, 06, 07, 09",0,10 - 30 cm
+1031,3 februari 2020,jakarta timur,"jakarta timur, cipinang melayu"," 02, 03, 04, 05, 06, 08, 10, 11,  12, 13",13450,15 - 100 cm
+1032,8 februari 2020,jakarta timur,"jakarta timur, cipinang melayu"," 02, 03, 04, 05, 06, 08, 10, 11,  12, 13",13450,15 - 100 cm
+1033,16 februari 2020,jakarta timur,"jakarta timur, cipinang melayu"," 02, 03, 04, 05, 06, 08, 10, 11,  12, 13",13450,15 - 100 cm
+1034,23 februari 2020,jakarta timur,"jakarta timur, cipinang melayu"," 02, 03, 04, 05, 06, 08, 10, 11,  12, 13",13450,15 - 100 cm
+1035,25 februari 2020,jakarta timur,"jakarta timur, cipinang melayu"," 02, 03, 04, 05, 06, 08, 10, 11,  12, 13",13450,15 - 100 cm
+1036,28 februari 2020,jakarta timur,"jakarta timur, cipinang melayu"," 02, 03, 04, 05, 06, 08, 10, 11,  12, 13",13450,15 - 100 cm
+1037,23 februari 2020,jakarta timur,"jakarta timur, halim perdana kusuma"," 05, 07, 08, 10",0,20 - 50 sm
+1038,25 februari 2020,jakarta timur,"jakarta timur, halim perdana kusuma"," 05, 07, 08, 10",0,20 - 50 sm
+1039,8 februari 2020,jakarta timur,"jakarta timur, kebon pala"," 01, 02, 03, 04, 05, 06, 07, 08, 09, 11",0,50 - 120 cm
+1040,16 februari 2020,jakarta timur,"jakarta timur, kebon pala"," 01, 02, 03, 04, 05, 06, 07, 08, 09, 11",0,50 - 120 cm
+1041,23 februari 2020,jakarta timur,"jakarta timur, kebon pala"," 01, 02, 03, 04, 05, 06, 07, 08, 09, 11",0,50 - 120 cm
+1042,25 februari 2020,jakarta timur,"jakarta timur, kebon pala"," 01, 02, 03, 04, 05, 06, 07, 08, 09, 11",0,50 - 120 cm
+1043,23 februari 2020,jakarta timur,"jakarta timur, makasar"," 04, 05, 06, 07",745,30 - 150  cm
+1044,25 februari 2020,jakarta timur,"jakarta timur, makasar"," 04, 05, 06, 07",745,30 - 150  cm
+1045,23 februari 2020,jakarta timur,"jakarta timur, pinang ranti"," 04, 05",0,20 - 100 cm
+1046,8 februari 2020,jakarta timur,"jakarta timur, kebon manggis"," 03,  04",1157,20 - 60 cm
+1047,25 februari 2020,jakarta timur,"jakarta timur, kebon manggis"," 03,  04",1157,20 - 60 cm
+1048,23 februari 2020,jakarta timur,"jakarta timur, pisangan baru"," 02, 03, 04, 08, 12, 13, 14",0,10 - 60 cm
+1049,25 februari 2020,jakarta timur,"jakarta timur, pisangan baru"," 02, 03, 04, 08, 12, 13, 14",0,10 - 60 cm
+1050,23 februari 2020,jakarta timur,"jakarta timur, utan kayu selatan"," 03,  12",0,10 - 60 cm
+1051,25 februari 2020,jakarta timur,"jakarta timur, utan kayu selatan"," 03,  12",0,10 - 60 cm
+1052,23 februari 2020,jakarta timur,"jakarta timur, utan kayu utara"," 05, 08",0,10 - 60 cm
+1053,25 februari 2020,jakarta timur,"jakarta timur, utan kayu utara"," 05, 08",0,10 - 60 cm
+1054,23 februari 2020,jakarta timur,"jakarta timur, pal meriam"," 01,  03",0,10 - 60 cm
+1055,25 februari 2020,jakarta timur,"jakarta timur, pal meriam"," 01,  03",0,10 - 60 cm
+1056,16 februari 2020,jakarta timur,"jakarta timur, pekayon", 07,0,10 - 25 cm
+1057,23 februari 2020,jakarta timur,"jakarta timur, cipinang", 12,0,40 cm
+1058,8 februari 2020,jakarta timur,"jakarta timur, jati"," 01, 11",0,10 - 60 cm
+1059,25 februari 2020,jakarta timur,"jakarta timur, jati"," 01, 11",0,10 - 60 cm
+1060,8 februari 2020,jakarta timur,"jakarta timur, kayu putih"," 08, 09, 10, 11, 12, 13, 14, 15, 16",8103,10 - 100 cm
+1061,23 februari 2020,jakarta timur,"jakarta timur, kayu putih"," 08, 09, 10, 11, 12, 13, 14, 15, 16",8103,10 - 100 cm
+1062,23 februari 2020,jakarta timur,"jakarta timur, kayu putih"," 08, 09, 10, 11, 12, 13, 14, 15, 16",8103,10 - 100 cm
+1063,8 februari 2020,jakarta timur,"jakarta timur, pisangan timur"," 04, 06, 12, 15",0,50 - 100 cm
+1064,23 februari 2020,jakarta timur,"jakarta timur, pisangan timur"," 04, 06, 12, 15",0,50 - 100 cm
+1065,8 februari 2020,jakarta timur,"jakarta timur, pulogadung"," 01, 02, 03,04, 05, 06, 08, 09",0,10 - 100 cm
+1066,16 februari 2020,jakarta timur,"jakarta timur, pulogadung"," 01, 02, 03,04, 05, 06, 08, 09",0,10 - 100 cm
+1067,23 februari 2020,jakarta timur,"jakarta timur, pulogadung"," 01, 02, 03,04, 05, 06, 08, 09",0,10 - 100 cm
+1068,23 februari 2020,jakarta timur,"jakarta timur, rawamangun"," 01, 02",0,30 cm
+1069,25 februari 2020,jakarta timur,"jakarta timur, rawamangun"," 01, 02",0,30 cm
+1070,23 februari 2020,jakarta timur,"jakarta timur, jatinegara kaum", 05,0,40 cm
+1071,25 februari 2020,jakarta timur,"jakarta timur, jatinegara kaum", 05,0,40 cm
+1072,1 maret 2020,jakarta utara,"jakarta utara, rorotan", 04,0,30 cm
+1073,2 maret 2020,jakarta utara,"jakarta utara, kapuk muara", 01,0,10 cm
+1074,18 maret 2020,jakarta utara,"jakarta utara, kapuk muara", 01,0,10 cm
+1075,1 maret 2020,jakarta barat,"jakarta barat, kembangan selatan"," 01, 04, 09",0,20 - 40 cm
+1076,2 maret 2020,jakarta barat,"jakarta barat, kembangan selatan"," 01, 04, 09",0,20 - 40 cm
+1077,20 maret 2020,jakarta barat,"jakarta barat, kembangan selatan"," 01, 04, 09",0,20 - 40 cm
+1078,1 maret 2020,jakarta barat,"jakarta barat, kembangan utara", 01,0,15 - 25 cm
+1079,2 maret 2020,jakarta barat,"jakarta barat, kedoya selatan"," 03, 05",0,10 - 30 cm
+1080,20 maret 2020,jakarta barat,"jakarta barat, kedoya selatan"," 03, 05",0,10 - 30 cm
+1081,22 maret 2020,jakarta barat,"jakarta barat, rawa buaya"," 01, 02, 03, 08, 10",0,10 - 50 cm
+1082,22 maret 2020,jakarta barat,"jakarta barat, cengkareng barat"," 03, 04, 06, 08, 10",0,5 - 30 cm
+1083,22 maret 2020,jakarta barat,"jakarta barat, kalideres", 03,0,15 cm
+1084,22 maret 2020,jakarta barat,"jakarta barat, semanan"," 01, 03, 04, 10",0,5 - 30 cm
+1085,22 maret 2020,jakarta barat,"jakarta barat, kota bambu utara", 04,0,10 cm
+1086,22 maret 2020,jakarta barat,"jakarta barat, palmerah", 14,0,20 cm
+1087,1 maret 2020,jakarta selatan,"jakarta selatan, pejaten timur"," 05, 06, 07, 08, 10",517,10 - 160 cm
+1088,2 maret 2020,jakarta selatan,"jakarta selatan, pejaten timur"," 05, 06, 07, 08, 10",517,10 - 160 cm
+1089,16 maret 2020,jakarta selatan,"jakarta selatan, pejaten timur"," 05, 06, 07, 08, 10",517,10 - 160 cm
+1090,25 maret 2020,jakarta selatan,"jakarta selatan, pejaten timur"," 05, 06, 07, 08, 10",517,10 - 160 cm
+1091,26 maret 2020,jakarta selatan,"jakarta selatan, pejaten timur"," 05, 06, 07, 08, 10",517,10 - 160 cm
+1092,27 maret 2020,jakarta selatan,"jakarta selatan, pejaten timur"," 05, 06, 07, 08, 10",517,10 - 160 cm
+1093,16 maret 2020,jakarta selatan,"jakarta selatan, cilandak timur"," 03, 13",0,55 - 100 cm
+1094,1 maret 2020,jakarta selatan,"jakarta selatan, pengadegan", 01,0,90 cm
+1095,28 maret 2020,jakarta selatan,"jakarta selatan, pengadegan", 01,0,90 cm
+1096,1 maret 2020,jakarta selatan,"jakarta selatan, rawajati", 07,0,10 - 40 cm
+1097,27 maret 2020,jakarta selatan,"jakarta selatan, rawajati", 07,0,10 - 40 cm
+1098,20 maret 2020,jakarta selatan,"jakarta selatan, duren tiga", 05,0,60 cm
+1099,1 maret 2020,jakarta selatan,"jakarta selatan, kebon baru"," 05, 06, 10",0,5 - 60 cm
+1100,16 maret 2020,jakarta selatan,"jakarta selatan, kebon baru"," 05, 06, 10",0,5 - 60 cm
+1101,20 maret 2020,jakarta selatan,"jakarta selatan, kebon baru"," 05, 06, 10",0,5 - 60 cm
+1102,1 maret 2020,jakarta selatan,"jakarta selatan, bukit duri", 12,0,80 cm
+1103,2 maret 2020,jakarta selatan,"jakarta selatan, cipulir", 10,0,20 - 100 cm
+1104,16 maret 2020,jakarta selatan,"jakarta selatan, cipulir", 10,0,20 - 100 cm
+1105,18 maret 2020,jakarta selatan,"jakarta selatan, cipulir", 10,0,20 - 100 cm
+1106,20 maret 2020,jakarta selatan,"jakarta selatan, cipulir", 10,0,20 - 100 cm
+1107,2 maret 2020,jakarta selatan,"jakarta selatan, pondok pinang"," 01, 05, 08",0,10 - 115 cm
+1108,16 maret 2020,jakarta selatan,"jakarta selatan, pondok pinang"," 01, 05, 08",0,10 - 115 cm
+1109,17 maret 2020,jakarta selatan,"jakarta selatan, pondok pinang"," 01, 05, 08",0,10 - 115 cm
+1110,20 maret 2020,jakarta selatan,"jakarta selatan, pondok pinang"," 01, 05, 08",0,10 - 115 cm
+1111,28 maret 2020,jakarta selatan,"jakarta selatan, pondok pinang"," 01, 05, 08",0,10 - 115 cm
+1112,2 maret 2020,jakarta selatan,"jakarta selatan, bintaro"," 05, 11, 10, 14",0,10 - 60 cm
+1113,16 maret 2020,jakarta selatan,"jakarta selatan, bintaro"," 05, 11, 10, 14",0,10 - 60 cm
+1114,20 maret 2020,jakarta selatan,"jakarta selatan, bintaro"," 05, 11, 10, 14",0,10 - 60 cm
+1115,16 maret 2020,jakarta selatan,"jakarta selatan, lebak bulus", 08,0,70 cm
+1116,16 maret 2020,jakarta selatan,"jakarta selatan, cipete selatan", 07,0,15 cm
+1117,16 maret 2020,jakarta selatan,"jakarta selatan, pondok labu"," 01, 03, 07, 10",0,10 - 50 cm
+1118,16 maret 2020,jakarta selatan,"jakarta selatan, bangka"," 02, 03, 04",0,20 - 40 cm
+1119,16 maret 2020,jakarta selatan,"jakarta selatan, kuningan barat", 05,0,40 cm
+1120,16 maret 2020,jakarta selatan,"jakarta selatan, cipedak", 04,0,70 cm
+1121,20 maret 2020,jakarta selatan,"jakarta selatan, menteng atas"," 07, 08, 09, 14, 15",0,10 - 60 cm
+1122,1 maret 2020,jakarta timur,"jakarta timur, cipinang muara", 13,456,5 - 50 cm
+1123,2 maret 2020,jakarta timur,"jakarta timur, cipinang muara", 13,456,5 - 50 cm
+1124,16 maret 2020,jakarta timur,"jakarta timur, cipinang muara", 13,456,5 - 50 cm
+1125,1 maret 2020,jakarta timur,"jakarta timur, kampung melayu"," 04, 05, 07, 08",1068,25 - 110 cm
+1126,2 maret 2020,jakarta timur,"jakarta timur, kampung melayu"," 04, 05, 07, 08",1068,25 - 110 cm
+1127,16 maret 2020,jakarta timur,"jakarta timur, kampung melayu"," 04, 05, 07, 08",1068,25 - 110 cm
+1128,18 maret 2020,jakarta timur,"jakarta timur, kampung melayu"," 04, 05, 07, 08",1068,25 - 110 cm
+1129,23 maret 2020,jakarta timur,"jakarta timur, kampung melayu"," 04, 05, 07, 08",1068,25 - 110 cm
+1130,25 maret 2020,jakarta timur,"jakarta timur, kampung melayu"," 04, 05, 07, 08",1068,25 - 110 cm
+1131,26 maret 2020,jakarta timur,"jakarta timur, kampung melayu"," 04, 05, 07, 08",1068,25 - 110 cm
+1132,27 maret 2020,jakarta timur,"jakarta timur, kampung melayu"," 04, 05, 07, 08",1068,25 - 110 cm
+1133,28 maret 2020,jakarta timur,"jakarta timur, kampung melayu"," 04, 05, 07, 08",1068,25 - 110 cm
+1134,30 maret 2020,jakarta timur,"jakarta timur, kampung melayu"," 04, 05, 07, 08",1068,25 - 110 cm
+1135,1 maret 2020,jakarta timur,"jakarta timur, bidara cina"," 05, 06, 07, 10, 11",4838,20 - 140 cm
+1136,2 maret 2020,jakarta timur,"jakarta timur, bidara cina"," 05, 06, 07, 10, 11",4838,20 - 140 cm
+1137,16 maret 2020,jakarta timur,"jakarta timur, bidara cina"," 05, 06, 07, 10, 11",4838,20 - 140 cm
+1138,18 maret 2020,jakarta timur,"jakarta timur, bidara cina"," 05, 06, 07, 10, 11",4838,20 - 140 cm
+1139,25 maret 2020,jakarta timur,"jakarta timur, bidara cina"," 05, 06, 07, 10, 11",4838,20 - 140 cm
+1140,26 maret 2020,jakarta timur,"jakarta timur, bidara cina"," 05, 06, 07, 10, 11",4838,20 - 140 cm
+1141,27 maret 2020,jakarta timur,"jakarta timur, bidara cina"," 05, 06, 07, 10, 11",4838,20 - 140 cm
+1142,30 maret 2020,jakarta timur,"jakarta timur, bidara cina"," 05, 06, 07, 10, 11",4838,20 - 140 cm
+1143,1 maret 2020,jakarta timur,"jakarta timur, cawang"," 01, 02, 03, 05, 08, 12",0,10 - 115 cm
+1144,2 maret 2020,jakarta timur,"jakarta timur, cawang"," 01, 02, 03, 05, 08, 12",0,10 - 115 cm
+1145,16 maret 2020,jakarta timur,"jakarta timur, cawang"," 01, 02, 03, 05, 08, 12",0,10 - 115 cm
+1146,23 maret 2020,jakarta timur,"jakarta timur, cawang"," 01, 02, 03, 05, 08, 12",0,10 - 115 cm
+1147,25 maret 2020,jakarta timur,"jakarta timur, cawang"," 01, 02, 03, 05, 08, 12",0,10 - 115 cm
+1148,26 maret 2020,jakarta timur,"jakarta timur, cawang"," 01, 02, 03, 05, 08, 12",0,10 - 115 cm
+1149,27 maret 2020,jakarta timur,"jakarta timur, cawang"," 01, 02, 03, 05, 08, 12",0,10 - 115 cm
+1150,28 maret 2020,jakarta timur,"jakarta timur, cawang"," 01, 02, 03, 05, 08, 12",0,10 - 115 cm
+1151,30 maret 2020,jakarta timur,"jakarta timur, cawang"," 01, 02, 03, 05, 08, 12",0,10 - 115 cm
+1152,1 maret 2020,jakarta timur,"jakarta timur, cililitan"," 06, 07",43,5 - 100 cm
+1153,16 maret 2020,jakarta timur,"jakarta timur, cililitan"," 06, 07",43,5 - 100 cm
+1154,25 maret 2020,jakarta timur,"jakarta timur, cililitan"," 06, 07",43,5 - 100 cm
+1155,28 maret 2020,jakarta timur,"jakarta timur, cililitan"," 06, 07",43,5 - 100 cm
+1156,16 maret 2020,jakarta timur,"jakarta timur, tengah", 05,0,70 cm
+1157,1 maret 2020,jakarta timur,"jakarta timur, lubang buaya", 12,0,20 cm
+1158,1 maret 2020,jakarta timur,"jakarta timur, pondok ranggon", 01,10,20 - 80 cm
+1159,16 maret 2020,jakarta timur,"jakarta timur, cilangkap"," 03, 04, 05, 06",0,10 - 40 cm
+1160,1 maret 2020,jakarta timur,"jakarta timur, cakung timur"," 01, 05, 06, 09, 10, 12",207,10 - 60 cm
+1161,2 maret 2020,jakarta timur,"jakarta timur, cakung timur"," 01, 05, 06, 09, 10, 12",207,10 - 60 cm
+1162,1 maret 2020,jakarta timur,"jakarta timur, cibubur", 03,100,20 - 100 cm
+1163,2 maret 2020,jakarta timur,"jakarta timur, ciracas", 03,0,30 - 40 cm
+1164,1 maret 2020,jakarta timur,"jakarta timur, pekayon", 07,0,20 - 100 cm
+1165,16 maret 2020,jakarta timur,"jakarta timur, kalisari", 10,0,70 cm
+1166,1 maret 2020,jakarta timur,"jakarta timur, cipinang melayu"," 03, 04",1598,10 - 100 cm
+1167,16 maret 2020,jakarta timur,"jakarta timur, cipinang melayu"," 03, 04",1598,10 - 100 cm
+1168,16 maret 2020,jakarta timur,"jakarta timur, pinang ranti", 04,0,10 - 15 cm
+1169,16 maret 2020,jakarta timur,"jakarta timur, makasar"," 05, 07",850,10 - 20 cm
+1170,2 maret 2020,jakarta timur,"jakarta timur, pondok bambu", 04,0,20 - 30 cm
+1171,15 april 2020,jakarta utara,"jakarta utara, pluit", 01,0,10 s.d. 30 cm
+1172,6 april 2020,jakarta barat,"jakarta barat, sukabumi selatan"," 01, 02, 04, 05, 07, 08",0,10 s.d. 90 cm
+1173,30 april 2020,jakarta barat,"jakarta barat, sukabumi selatan"," 01, 02, 04, 05, 07, 08",0,10 s.d. 90 cm
+1174,27 april 2020,jakarta barat,"jakarta barat, kedoya selatan"," 03, 05",0,20 s.d. 30 cm
+1175,6 april 2020,jakarta barat,"jakarta barat, cengkareng barat", 010,0,15 cm
+1176,6 april 2020,jakarta barat,"jakarta barat, rawa buaya"," 02, 04, 08",0,20 cm
+1177,27 april 2020,jakarta barat,"jakarta barat, rawa buaya"," 02, 04, 08",0,20 cm
+1178,6 april 2020,jakarta barat,"jakarta barat, kembangan utara"," 01, 04, 05, 010",65,10 s.d. 60 cm
+1179,27 april 2020,jakarta barat,"jakarta barat, kembangan utara"," 01, 04, 05, 010",65,10 s.d. 60 cm
+1180,6 april 2020,jakarta barat,"jakarta barat, srengseng"," 05, 08",0,15 s.d. 20 cm
+1181,6 april 2020,jakarta barat,"jakarta barat, kembangan selatan"," 01, 05",0,50 cm
+1182,27 april 2020,jakarta barat,"jakarta barat, kembangan selatan"," 01, 05",0,50 cm
+1183,5 april 2020,jakarta selatan,"jakarta selatan, cipedak"," 04, 05",0,50 cm
+1184,10 april 2020,jakarta selatan,"jakarta selatan, jagakarsa", 03,0,40 cm
+1185,5 april 2020,jakarta selatan,"jakarta selatan, cilandak timur"," 01, 03",0,10 s.d. 80 cm
+1186,10 april 2020,jakarta selatan,"jakarta selatan, cilandak timur"," 01, 03",0,10 s.d. 80 cm
+1187,13 april 2020,jakarta selatan,"jakarta selatan, cilandak timur"," 01, 03",0,10 s.d. 80 cm
+1188,26 april 2020,jakarta selatan,"jakarta selatan, cilandak timur"," 01, 03",0,10 s.d. 80 cm
+1189,27 april 2020,jakarta selatan,"jakarta selatan, cilandak timur"," 01, 03",0,10 s.d. 80 cm
+1190,13 april 2020,jakarta selatan,"jakarta selatan, ragunan", 09,0,30 cm
+1191,18 april 2020,jakarta selatan,"jakarta selatan, pejaten timur"," 05, 08",0,10 s.d. 30 cm
+1192,19 april 2020,jakarta selatan,"jakarta selatan, pejaten timur"," 05, 08",0,10 s.d. 30 cm
+1193,29 april 2020,jakarta selatan,"jakarta selatan, pejaten timur"," 05, 08",0,10 s.d. 30 cm
+1194,27 april 2020,jakarta selatan,"jakarta selatan, jati padang"," 02, 03, 05, 06",0,15 s.d. 70 cm
+1195,29 april 2020,jakarta selatan,"jakarta selatan, jati padang"," 02, 03, 05, 06",0,15 s.d. 70 cm
+1196,30 april 2020,jakarta selatan,"jakarta selatan, pejaten barat"," 04, 07, 08",0,10 s.d. 30 cm
+1197,6 april 2020,jakarta selatan,"jakarta selatan, pondok pinang"," 05, 08",0,30 s.d. 40 cm
+1198,26 april 2020,jakarta selatan,"jakarta selatan, pondok pinang"," 05, 08",0,30 s.d. 40 cm
+1199,29 april 2020,jakarta selatan,"jakarta selatan, pondok pinang"," 05, 08",0,30 s.d. 40 cm
+1200,30 april 2020,jakarta selatan,"jakarta selatan, kebayoran lama selatan"," 03, 04",0,30 cm
+1201,6 april 2020,jakarta selatan,"jakarta selatan, kebon baru"," 05, 06, 010, 012",0,15 s.d. 30 cm
+1202,15 april 2020,jakarta selatan,"jakarta selatan, kebon baru"," 05, 06, 010, 012",0,15 s.d. 30 cm
+1203,29 april 2020,jakarta selatan,"jakarta selatan, kebon baru"," 05, 06, 010, 012",0,15 s.d. 30 cm
+1204,29 april 2020,jakarta selatan,"jakarta selatan, tebet barat", 07,0,40 cm
+1205,6 april 2020,jakarta selatan,"jakarta selatan, kuningan barat"," 04, 05",0,10 s.d. 30 cm
+1206,29 april 2020,jakarta selatan,"jakarta selatan, bangka"," 01, 02, 03, 04",0,10 s.d. 90 cm
+1207,30 april 2020,jakarta selatan,"jakarta selatan, bangka"," 01, 02, 03, 04",0,10 s.d. 90 cm
+1208,29 april 2020,jakarta selatan,"jakarta selatan, pela mampang"," 01, 03",0,20 s.d. 50 cm
+1209,26 april 2020,jakarta selatan,"jakarta selatan, lebak bulus"," 04, 08",10,50 s.d. 70 cm
+1210,27 april 2020,jakarta selatan,"jakarta selatan, cipete selatan", 07,0,50 cm
+1211,27 april 2020,jakarta selatan,"jakarta selatan, gandaria selatan", 07,0,30 s.d. 80 cm
+1212,29 april 2020,jakarta selatan,"jakarta selatan, duren tiga", 05,0,20 s.d. 50 cm
+1213,30 april 2020,jakarta selatan,"jakarta selatan, duren tiga", 05,0,20 s.d. 50 cm
+1214,29 april 2020,jakarta selatan,"jakarta selatan, rawajati", 04,0,15 cm
+1215,29 april 2020,jakarta selatan,"jakarta selatan, kalibata"," 04, 08",0,10 s.d. 20 cm
+1216,30 april 2020,jakarta selatan,"jakarta selatan, kalibata"," 04, 08",0,10 s.d. 20 cm
+1217,29 april 2020,jakarta selatan,"jakarta selatan, bintaro"," 01, 04, 09, 011",0,10 s.d. 20 cm
+1218,30 april 2020,jakarta selatan,"jakarta selatan, gandaria utara", 02,0,30 cm
+1219,30 april 2020,jakarta selatan,"jakarta selatan, petogogan", 03,0,50 cm
+1220,1 april 2020,jakarta timur,"jakarta timur, kampung melayu"," 04, 05, 07, 08",817,10 s.d. 70 cm
+1221,18 april 2020,jakarta timur,"jakarta timur, kampung melayu"," 04, 05, 07, 08",817,10 s.d. 70 cm
+1222,19 april 2020,jakarta timur,"jakarta timur, kampung melayu"," 04, 05, 07, 08",817,10 s.d. 70 cm
+1223,6 april 2020,jakarta timur,"jakarta timur, cipinang muara", 013,0,10 s.d. 35 cm
+1224,18 april 2020,jakarta timur,"jakarta timur, bidara cina"," 07, 011",153,20 s.d. 130 cm
+1225,19 april 2020,jakarta timur,"jakarta timur, bidara cina"," 07, 011",153,20 s.d. 130 cm
+1226,29 april 2020,jakarta timur,"jakarta timur, cipinang cempedak", 08,0,15 cm
+1227,5 april 2020,jakarta timur,"jakarta timur, pekayon", 07,0,30 cm
+1228,13 april 2020,jakarta timur,"jakarta timur, kalisari", 02,0,15 cm
+1229,6 april 2020,jakarta timur,"jakarta timur, rawa terate", 05,0,10 s.d. 20 cm
+1230,6 april 2020,jakarta timur,"jakarta timur, cipinang melayu"," 03, 04",476,10 s.d. 50 cm
+1231,12 april 2020,jakarta timur,"jakarta timur, cipinang melayu"," 03, 04",476,10 s.d. 50 cm
+1232,30 april 2020,jakarta timur,"jakarta timur, cipinang melayu"," 03, 04",476,10 s.d. 50 cm
+1233,30 april 2020,jakarta timur,"jakarta timur, makasar"," 02, 03, 04, 05, 06, 07",1380,10 cm
+1234,30 april 2020,jakarta timur,"jakarta timur, pinang ranti", 04,0,20 s.d. 40 cm
+1235,6 april 2020,jakarta timur,"jakarta timur, duren sawit", 010,0,10 s.d. 30 cm
+1236,12 april 2020,jakarta timur,"jakarta timur, lubang buaya", 012,0,15 s.d. 20 cm
+1237,30 april 2020,jakarta timur,"jakarta timur, lubang buaya", 012,0,15 s.d. 20 cm
+1238,30 april 2020,jakarta timur,"jakarta timur, bambu apus", 03,0,20 cm
+1239,18 april 2020,jakarta timur,"jakarta timur, cawang"," 01, 02, 03, 05, 08",0,20 s.d. 110 cm
+1240,19 april 2020,jakarta timur,"jakarta timur, cawang"," 01, 02, 03, 05, 08",0,20 s.d. 110 cm
+1241,19 april 2020,jakarta timur,"jakarta timur, cililitan"," 07, 016",65,10 s.d. 100 cm
+1242,29 april 2020,jakarta timur,"jakarta timur, cililitan"," 07, 016",65,10 s.d. 100 cm
+1243,29 april 2020,jakarta timur,"jakarta timur, batu ampar"," 01, 02, 03, 05",0,15 s.d. 45 cm
+1244,30 april 2020,jakarta timur,"jakarta timur, batu ampar"," 01, 02, 03, 05",0,15 s.d. 45 cm
+1245,30 april 2020,jakarta timur,"jakarta timur, balekambang", 02,0,20 cm
+1246,30 april 2020,jakarta timur,"jakarta timur, ciracas"," 02, 010",0,20 cm
+1247,30 april 2020,jakarta timur,"jakarta timur, rambutan"," 02, 03",0,20 s.d. 50 cm
+1248,21 mei 2020,jakarta barat,"jakarta barat, kembangan selatan", 09,0,20 - 30 cm
+1249,8 mei 2020,jakarta barat,"jakarta barat, meruya utara", 06,0,10 cm
+1250,6 mei 2020,jakarta selatan,"jakarta selatan, ciganjur"," 05, 06",0,30 - 40 cm
+1251,19 mei 2020,jakarta selatan,"jakarta selatan, pondok pinang"," 05, 08",77,20 - 100 cm
+1252,21 mei 2020,jakarta selatan,"jakarta selatan, pondok pinang"," 05, 08",77,20 - 100 cm
+1253,19 mei 2020,jakarta selatan,"jakarta selatan, pengadegan", 01,0,10 - 100 cm
+1254,21 mei 2020,jakarta selatan,"jakarta selatan, pengadegan", 01,0,10 - 100 cm
+1255,18 mei 2020,jakarta selatan,"jakarta selatan, rawajati", 07,0,20 - 60 cm
+1256,19 mei 2020,jakarta selatan,"jakarta selatan, rawajati", 07,0,20 - 60 cm
+1257,21 mei 2020,jakarta selatan,"jakarta selatan, rawajati", 07,0,20 - 60 cm
+1258,6 mei 2020,jakarta selatan,"jakarta selatan, jati padang", 06,0,20 - 50 cm
+1259,10 mei 2020,jakarta selatan,"jakarta selatan, jati padang", 06,0,20 - 50 cm
+1260,10 mei 2020,jakarta selatan,"jakarta selatan, pejaten timur"," 03, 05, 06, 07, 08, 09",456,50 cm - 150 cm
+1261,18 mei 2020,jakarta selatan,"jakarta selatan, pejaten timur"," 03, 05, 06, 07, 08, 09",456,50 cm - 150 cm
+1262,19 mei 2020,jakarta selatan,"jakarta selatan, pejaten timur"," 03, 05, 06, 07, 08, 09",456,50 cm - 150 cm
+1263,21 mei 2020,jakarta selatan,"jakarta selatan, pejaten timur"," 03, 05, 06, 07, 08, 09",456,50 cm - 150 cm
+1264,18 mei 2020,jakarta selatan,"jakarta selatan, kebon baru", 10,0,15 cm - 65 cm
+1265,19 mei 2020,jakarta selatan,"jakarta selatan, kebon baru", 10,0,15 cm - 65 cm
+1266,21 mei 2020,jakarta selatan,"jakarta selatan, kebon baru", 10,0,15 cm - 65 cm
+1267,19 mei 2020,jakarta selatan,"jakarta selatan, manggarai", 01,0,50 cm
+1268,29 mei 2020,jakarta timur,"jakarta timur, cilangkap"," 02, 06",0,50 cm
+1269,6 mei 2020,jakarta timur,"jakarta timur, cibubur"," 03, 10",0,50 cm
+1270,6 mei 2020,jakarta timur,"jakarta timur, ciracas"," 04, 05",0,50 cm
+1271,10 mei 2020,jakarta timur,"jakarta timur, rambutan"," 02, 03",0,30 - 50 cm
+1272,18 mei 2020,jakarta timur,"jakarta timur, rambutan"," 02, 03",0,30 - 50 cm
+1273,19 mei 2020,jakarta timur,"jakarta timur, bidara cina"," 07, 11",1370,30 - 180 cm
+1274,21 mei 2020,jakarta timur,"jakarta timur, bidara cina"," 07, 11",1370,30 - 180 cm
+1275,18 mei 2020,jakarta timur,"jakarta timur, kampung melayu"," 04, 05, 06, 07, 08",1214,10 - 180 cm
+1276,19 mei 2020,jakarta timur,"jakarta timur, kampung melayu"," 04, 05, 06, 07, 08",1214,10 - 180 cm
+1277,21 mei 2020,jakarta timur,"jakarta timur, kampung melayu"," 04, 05, 06, 07, 08",1214,10 - 180 cm
+1278,18 mei 2020,jakarta timur,"jakarta timur, balekambang", 05,0,40 - 100 cm
+1279,19 mei 2020,jakarta timur,"jakarta timur, balekambang", 05,0,40 - 100 cm
+1280,10 mei 2020,jakarta timur,"jakarta timur, batu ampar", 02,0,10 cm
+1281,19 mei 2020,jakarta timur,"jakarta timur, cawang"," 01, 02, 03, 05, 08, 12",0,20 - 200 cm
+1282,21 mei 2020,jakarta timur,"jakarta timur, cawang"," 01, 02, 03, 05, 08, 12",0,20 - 200 cm
+1283,19 mei 2020,jakarta timur,"jakarta timur, cililitan"," 06, 07, 16",0,20 - 200 cm
+1284,21 mei 2020,jakarta timur,"jakarta timur, cililitan"," 06, 07, 16",0,20 - 200 cm
+1285,10 mei 2020,jakarta timur,"jakarta timur, tengah", 09,0,20 cm
+1286,19 mei 2020,jakarta timur,"jakarta timur, kebon manggis", 04,0,20 cm
+1287,6 mei 2020,jakarta timur,"jakarta timur, pekayon"," 02, 07",0,10 - 100 cm
+1288,3 juni 2020,jakarta utara,"jakarta utara, pluit"," 01, 02, 011, 016, 021, 022",120,10 - 120 cm
+1289,4 juni 2020,jakarta utara,"jakarta utara, pluit"," 01, 02, 011, 016, 021, 022",120,10 - 120 cm
+1290,5 juni 2020,jakarta utara,"jakarta utara, pluit"," 01, 02, 011, 016, 021, 022",120,10 - 120 cm
+1291,6 juni 2020,jakarta utara,"jakarta utara, pluit"," 01, 02, 011, 016, 021, 022",120,10 - 120 cm
+1292,7 juni 2020,jakarta utara,"jakarta utara, pluit"," 01, 02, 011, 016, 021, 022",120,10 - 120 cm
+1293,9 juni 2020,jakarta utara,"jakarta utara, pluit"," 01, 02, 011, 016, 021, 022",120,10 - 120 cm
+1294,16 juni 2020,jakarta utara,"jakarta utara, pluit"," 01, 02, 011, 016, 021, 022",120,10 - 120 cm
+1295,4 juni 2020,jakarta utara,"jakarta utara, penjaringan", 017,0,10 - 60 cm
+1296,6 juni 2020,jakarta utara,"jakarta utara, penjaringan", 017,0,10 - 60 cm
+1297,4 juni 2020,jakarta utara,"jakarta utara, pejagalan"," 07, 015, 016",0,5 - 60 cm
+1298,5 juni 2020,jakarta utara,"jakarta utara, pejagalan"," 07, 015, 016",0,5 - 60 cm
+1299,7 juni 2020,jakarta utara,"jakarta utara, pejagalan"," 07, 015, 016",0,5 - 60 cm
+1300,4 juni 2020,jakarta utara,"jakarta utara, kapuk muara", 01,0,5 - 10 cm
+1301,7 juni 2020,jakarta utara,"jakarta utara, kapuk muara", 01,0,5 - 10 cm
+1302,3 juni 2020,jakarta utara,"jakarta utara, marunda"," 01, 02, 07",0,10 - 40 cm
+1303,4 juni 2020,jakarta utara,"jakarta utara, marunda"," 01, 02, 07",0,10 - 40 cm
+1304,5 juni 2020,jakarta utara,"jakarta utara, marunda"," 01, 02, 07",0,10 - 40 cm
+1305,4 juni 2020,jakarta utara,"jakarta utara, ancol", 08,200,30 - 50 cm
+1306,5 juni 2020,jakarta utara,"jakarta utara, ancol", 08,200,30 - 50 cm
+1307,3 juni 2020,jakarta barat,"jakarta barat, kapuk"," 05, 07, 08, 010, 012, 016",0,5 - 30 cm
+1308,4 juni 2020,jakarta barat,"jakarta barat, kapuk"," 05, 07, 08, 010, 012, 016",0,5 - 30 cm
+1309,5 juni 2020,jakarta barat,"jakarta barat, kapuk"," 05, 07, 08, 010, 012, 016",0,5 - 30 cm
+1310,3 juni 2020,jakarta barat,"jakarta barat, tegal alur"," 01, 09",0,10 - 50 cm
+1311,5 juni 2020,jakarta barat,"jakarta barat, tegal alur"," 01, 09",0,10 - 50 cm
+1312,4 juni 2020,jakarta barat,"jakarta barat, jelambar baru", 06,0,5 - 10 cm
+1313,4 juni 2020,jakarta barat,"jakarta barat, kedoya utara", 02,0,40 cm
+1314,3 juni 2020,kepulauan seribu,"kepulauan seribu, pulau pari"," 01, 02, 03, 04",0,10 - 50 cm
+1315,4 juni 2020,kepulauan seribu,"kepulauan seribu, pulau pari"," 01, 02, 03, 04",0,10 - 50 cm
+1316,5 juni 2020,kepulauan seribu,"kepulauan seribu, pulau pari"," 01, 02, 03, 04",0,10 - 50 cm
+1317,3 juni 2020,kepulauan seribu,"kepulauan seribu, pulau untung jawa"," 01, 02, 03",0,10 - 45 cm
+1318,4 juni 2020,kepulauan seribu,"kepulauan seribu, pulau untung jawa"," 01, 02, 03",0,10 - 45 cm
+1319,4 juni 2020,kepulauan seribu,"kepulauan seribu, pulau tidung"," 02, 03",0,30 - 50 cm
+1320,3 juni 2020,kepulauan seribu,"kepulauan seribu, pulau panggang"," 01, 02, 03, 04, 05",0,10 - 40 cm
+1321,4 juni 2020,kepulauan seribu,"kepulauan seribu, pulau panggang"," 01, 02, 03, 04, 05",0,10 - 40 cm
+1322,5 juni 2020,kepulauan seribu,"kepulauan seribu, pulau panggang"," 01, 02, 03, 04, 05",0,10 - 40 cm
+1323,6 juni 2020,kepulauan seribu,"kepulauan seribu, pulau panggang"," 01, 02, 03, 04, 05",0,10 - 40 cm
+1324,3 juni 2020,kepulauan seribu,"kepulauan seribu, pulau kelapa"," 01, 02, 03, 05",0,10 - 45 cm
+1325,6 juni 2020,kepulauan seribu,"kepulauan seribu, pulau kelapa"," 01, 02, 03, 05",0,10 - 45 cm
+1326,3 juni 2020,kepulauan seribu,"kepulauan seribu, pulau harapan "," 01, 02, 03",0,5 - 20 cm
+1327,4 juni 2020,kepulauan seribu,"kepulauan seribu, pulau harapan "," 01, 02, 03",0,5 - 20 cm
+1328,5 juni 2020,kepulauan seribu,"kepulauan seribu, pulau harapan "," 01, 02, 03",0,5 - 20 cm
+1329,6 juni 2020,kepulauan seribu,"kepulauan seribu, pulau harapan "," 01, 02, 03",0,5 - 20 cm
+1330,2 juli 2020,jakarta barat,"jakarta barat, pinangsia",  07,0,20 cm
+1331,14 juli 2020,jakarta barat,"jakarta barat, srengseng"," 01, 05, 08",0,30 - 50 cm
+1332,13 agustus 2020,jakarta utara,"jakarta utara, cilincing", 09,0,10 cm
+1333,25 agustus 2020,jakarta utara,"jakarta utara, marunda", 07,0,10 - 30 cm
+1334,13 agustus 2020,jakarta barat,"jakarta barat, tegal alur", 12,0,15 cm
+1335,13 agustus 2020,jakarta barat,"jakarta barat, kapuk"," 02, 03, 05, 10, 12, 15, 16",0,15 - 20 cm
+1336,18 agustus 2020,jakarta barat,"jakarta barat, kota bambu utara"," 06, 07",0,10 - 30 cm
+1337,13 agustus 2020,jakarta selatan,"jakarta selatan, kebon baru", 06,0,20 - 30 cm
+1338,13 agustus 2020,jakarta selatan,"jakarta selatan, bukit duri", 04,0,30 cm
+1339,13 agustus 2020,jakarta selatan,"jakarta selatan, bintaro", 01,0,20 cm
+1340,13 agustus 2020,jakarta selatan,"jakarta selatan, bangka"," 03, 04",0,20 - 80 cm
+1341,13 agustus 2020,jakarta selatan,"jakarta selatan, cilandak timur", 03,0,20 - 60 cm
+1342,13 agustus 2020,jakarta pusat,"jakarta pusat, paseban", 07,0,20 cm
+1343,18 agustus 2020,jakarta pusat,"jakarta pusat, petamburan", 03,0,10 - 15 cm
+1344,21 september 2020,jakarta pusat,"jakarta pusat, petamburan", 08,0,20 cm
+1345,22 september 2020,jakarta pusat,"jakarta pusat, petamburan", 08,0,20 cm
+1346,22 september 2020,jakarta utara,"jakarta utara, pluit"," 01, 02",0,20 s.d. 50 cm
+1347,15 september 2020,jakarta barat,"jakarta barat, kalideres", 07,0,10 cm
+1348,15 september 2020,jakarta barat,"jakarta barat, kapuk"," 02, 03, 05, 06, 010, 012, 015, 016",0,5 s.d. 25 cm
+1349,22 september 2020,jakarta barat,"jakarta barat, kapuk"," 02, 03, 05, 06, 010, 012, 015, 016",0,5 s.d. 25 cm
+1350,23 september 2020,jakarta barat,"jakarta barat, kapuk"," 02, 03, 05, 06, 010, 012, 015, 016",0,5 s.d. 25 cm
+1351,21 september 2020,jakarta barat,"jakarta barat, rawa buaya"," 01, 02, 04",0,20 s.d. 30 cm
+1352,22 september 2020,jakarta barat,"jakarta barat, rawa buaya"," 01, 02, 04",0,20 s.d. 30 cm
+1353,23 september 2020,jakarta barat,"jakarta barat, rawa buaya"," 01, 02, 04",0,20 s.d. 30 cm
+1354,22 september 2020,jakarta barat,"jakarta barat, cengkareng barat"," 06, 07, 09, 010, 014",0,15 s.d. 30 cm
+1355,16 september 2020,jakarta barat,"jakarta barat, kedoya selatan", 05,0,35 cm
+1356,21 september 2020,jakarta barat,"jakarta barat, sukabumi utara"," 01, 02, 03, 05, 07, 08, 011",0,30 s.d. 80 cm
+1357,22 september 2020,jakarta barat,"jakarta barat, sukabumi utara"," 01, 02, 03, 05, 07, 08, 011",0,30 s.d. 80 cm
+1358,21 september 2020,jakarta barat,"jakarta barat, duri kepa"," 04, 05, 09, 014",0,15 s.d. 20 cm
+1359,22 september 2020,jakarta barat,"jakarta barat, duri kepa"," 04, 05, 09, 014",0,15 s.d. 20 cm
+1360,22 september 2020,jakarta barat,"jakarta barat, sukabumi selatan"," 01, 02",0,120 s.d. 130 cm
+1361,21 september 2020,jakarta barat,"jakarta barat, palmerah", 03,0,30 cm
+1362,22 september 2020,jakarta barat,"jakarta barat, palmerah", 03,0,30 cm
+1363,21 september 2020,jakarta barat,"jakarta barat, kembangan utara", 04,15,60 cm
+1364,22 september 2020,jakarta barat,"jakarta barat, kembangan utara", 04,15,60 cm
+1365,21 september 2020,jakarta barat,"jakarta barat, kembangan selatan", 01,0,45 cm
+1366,22 september 2020,jakarta barat,"jakarta barat, kembangan selatan", 01,0,45 cm
+1367,21 september 2020,jakarta barat,"jakarta barat, tanjung duren utara", 04,0,20 cm
+1368,22 september 2020,jakarta barat,"jakarta barat, tanjung duren utara", 04,0,20 cm
+1369,22 september 2020,jakarta barat,"jakarta barat, jelambar", 04,0,25 cm
+1370,22 september 2020,jakarta barat,"jakarta barat, krendang", 02,0,30 cm
+1371,15 september 2020,jakarta selatan,"jakarta selatan, cilandak timur", 03,0,100 cm
+1372,22 september 2020,jakarta selatan,"jakarta selatan, pejaten timur"," 05, 07, 08",0,30 cm
+1373,15 september 2020,jakarta selatan,"jakarta selatan, pondok labu", 01,0,10 s.d. 20 cm
+1374,16 september 2020,jakarta selatan,"jakarta selatan, pondok labu", 01,0,10 s.d. 20 cm
+1375,15 september 2020,jakarta selatan,"jakarta selatan, petogogan", 03,0,25 s.d. 50 cm
+1376,22 september 2020,jakarta selatan,"jakarta selatan, pengadegan", 01,23,40 cm
+1377,22 september 2020,jakarta selatan,"jakarta selatan, rawajati"," 03, 07",66,20 s.d. 40 cm
+1378,22 september 2020,jakarta selatan,"jakarta selatan, kebon baru", 010,0,30 cm
+1379,22 september 2020,jakarta timur,"jakarta timur, cawang"," 01, 02, 03, 05, 08",110,10 s.d. 100 cm
+1380,22 september 2020,jakarta timur,"jakarta timur, cililitan"," 06, 07",158,10 s.d. 50 cm
+1381,22 september 2020,jakarta timur,"jakarta timur, balekambang"," 02, 05",0,10 s.d. 30 cm
+1382,22 september 2020,jakarta timur,"jakarta timur, bidara cina"," 07, 011",121,10 s.d. 70 cm
+1383,28 september 2020,jakarta timur,"jakarta timur, bidara cina"," 07, 011",121,10 s.d. 70 cm
+1384,22 september 2020,jakarta timur,"jakarta timur, kampung melayu"," 04, 05, 07, 08",807,10 s.d. 75 cm
+1385,16 oktober 2020,jakarta pusat,"jakarta pusat, cempaka putih barat", 08,0,15 cm
+1386,16 oktober 2020,jakarta pusat,"jakarta pusat, johar baru", 06,0,20 cm
+1387,16 oktober 2020,jakarta utara,"jakarta utara, kebon bawang", 13,0,30 cm
+1388,16 oktober 2020,jakarta utara,"jakarta utara, kebon bawang",0,0,30 cm
+1389,20 oktober 2020,jakarta utara,"jakarta utara, rorotan", 10,0,15 cm
+1390,26 oktober 2020,jakarta utara,"jakarta utara, rawa badak selatan", 04,0,10 - 60 cm
+1391,26 oktober 2020,jakarta utara,"jakarta utara, rawa badak selatan", 08,0,10 - 80 cm
+1392,26 oktober 2020,jakarta utara,"jakarta utara, rawa badak selatan", 09,0,10 - 80 cm
+1393,26 oktober 2020,jakarta utara,"jakarta utara, rawa badak selatan", 10,0,10 - 80 cm
+1394,26 oktober 2020,jakarta utara,"jakarta utara, rawa badak selatan", 11,0,10 - 80 cm
+1395,16 oktober 2020,jakarta barat,"jakarta barat, kedoya selatan", 03,0,20 cm
+1396,16 oktober 2020,jakarta barat,"jakarta barat, kedoya selatan",0,0,20 cm
+1397,11 oktober 2020,jakarta barat,"jakarta barat, kedoya selatan",0,0,15 cm
+1398,16 oktober 2020,jakarta barat,"jakarta barat, kedoya selatan", 04,0,25 cm
+1399,5 oktober 2020,jakarta barat,"jakarta barat, kedoya selatan", 05,0,10 - 30 cm
+1400,9 oktober 2020,jakarta barat,"jakarta barat, kedoya selatan", 05,0,10 - 30 cm
+1401,11 oktober 2020,jakarta barat,"jakarta barat, kedoya selatan", 05,0,10 - 30 cm
+1402,5 oktober 2020,jakarta barat,"jakarta barat, kedoya selatan",0,0,20 - 70 cm
+1403,11 oktober 2020,jakarta barat,"jakarta barat, kedoya selatan",0,0,20 - 70 cm
+1404,11 oktober 2020,jakarta barat,"jakarta barat, kedoya selatan",0,0,60 cm
+1405,5 oktober 2020,jakarta barat,"jakarta barat, kedoya selatan",0,0,10 - 100 cm
+1406,9 oktober 2020,jakarta barat,"jakarta barat, kedoya selatan",0,0,10 - 100 cm
+1407,11 oktober 2020,jakarta barat,"jakarta barat, kedoya selatan",0,0,10 - 100 cm
+1408,25 oktober 2020,jakarta barat,"jakarta barat, kedoya selatan",0,0,10 - 100 cm
+1409,5 oktober 2020,jakarta barat,"jakarta barat, kedoya selatan",0,0,10 - 60 cm
+1410,9 oktober 2020,jakarta barat,"jakarta barat, kedoya selatan",0,0,10 - 60 cm
+1411,11 oktober 2020,jakarta barat,"jakarta barat, kedoya selatan",0,0,10 - 60 cm
+1412,16 oktober 2020,jakarta barat,"jakarta barat, kedoya selatan",0,0,10 - 60 cm
+1413,25 oktober 2020,jakarta barat,"jakarta barat, kedoya selatan",0,0,10 - 60 cm
+1414,11 oktober 2020,jakarta barat,"jakarta barat, kedoya selatan",0,0,60 cm
+1415,11 oktober 2020,jakarta barat,"jakarta barat, kedoya selatan",0,0,100 cm
+1416,11 oktober 2020,jakarta barat,"jakarta barat, kedoya selatan",0,0,70 cm
+1417,11 oktober 2020,jakarta barat,"jakarta barat, kedoya selatan", 10,0,10 cm
+1418,11 oktober 2020,jakarta barat,"jakarta barat, kedoya selatan", 11,0,50 cm
+1419,10 oktober 2020,jakarta barat,"jakarta barat, kedoya utara",  02,0,20 cm - 60 cm
+1420,11 oktober 2020,jakarta barat,"jakarta barat, kedoya utara",  02,0,20 cm - 60 cm
+1421,10 oktober 2020,jakarta barat,"jakarta barat, kedoya utara",0,0,20 cm - 60 cm
+1422,11 oktober 2020,jakarta barat,"jakarta barat, kedoya utara",0,0,20 cm - 60 cm
+1423,9 oktober 2020,jakarta barat,"jakarta barat, kedoya utara",0,0,10 - 60 cm
+1424,10 oktober 2020,jakarta barat,"jakarta barat, kedoya utara",0,0,10 - 60 cm
+1425,11 oktober 2020,jakarta barat,"jakarta barat, kedoya utara",0,0,10 - 60 cm
+1426,9 oktober 2020,jakarta barat,"jakarta barat, kedoya utara",0,0,10 - 60 cm
+1427,10 oktober 2020,jakarta barat,"jakarta barat, kedoya utara",0,0,10 - 60 cm
+1428,11 oktober 2020,jakarta barat,"jakarta barat, kedoya utara",0,0,10 - 60 cm
+1429,10 oktober 2020,jakarta barat,"jakarta barat, sukabumi selatan", 08,0,30 cm
+1430,11 oktober 2020,jakarta barat,"jakarta barat, sukabumi selatan", 08,0,30 cm
+1431,16 oktober 2020,jakarta barat,"jakarta barat, sukabumi selatan", 08,0,30 cm
+1432,16 oktober 2020,jakarta barat,"jakarta barat, sukabumi utara", 02,0,20 cm
+1433,16 oktober 2020,jakarta barat,"jakarta barat, sukabumi utara", 05,0,50 cm
+1434,16 oktober 2020,jakarta barat,"jakarta barat, sukabumi utara",0,0,40 - 100 cm
+1435,18 oktober 2020,jakarta barat,"jakarta barat, sukabumi utara",0,0,40 - 100 cm
+1436,16 oktober 2020,jakarta barat,"jakarta barat, kebon jeruk", 04,0,30 cm
+1437,16 oktober 2020,jakarta barat,"jakarta barat, kebon jeruk", 06,0,30 cm
+1438,16 oktober 2020,jakarta barat,"jakarta barat, kebon jeruk", 10,0,50 cm
+1439,16 oktober 2020,jakarta barat,"jakarta barat, duri kepa", 02,0,40 cm
+1440,16 oktober 2020,jakarta barat,"jakarta barat, duri kepa", 13,0,30 cm
+1441,16 oktober 2020,jakarta barat,"jakarta barat, duri kepa",0,0,30 cm
+1442,16 oktober 2020,jakarta barat,"jakarta barat, duri kepa",0,0,30 cm
+1443,16 oktober 2020,jakarta barat,"jakarta barat, duri kepa", 08,0,80 - 100 cm
+1444,16 oktober 2020,jakarta barat,"jakarta barat, palmerah", 02,0,20 cm
+1445,16 oktober 2020,jakarta barat,"jakarta barat, palmerah", 15,0,40 cm
+1446,16 oktober 2020,jakarta barat,"jakarta barat, jelambar", 04,0,10 - 15 cm
+1447,16 oktober 2020,jakarta barat,"jakarta barat, tanjung duren utara", 02,0,10 cm
+1448,16 oktober 2020,jakarta barat,"jakarta barat, tanjung duren utara", 04,0,20 - 30 cm
+1449,9 oktober 2020,jakarta barat,"jakarta barat, kembangan utara", 04,0,10 - 30 cm
+1450,11 oktober 2020,jakarta barat,"jakarta barat, kembangan selatan", 01,0,50 cm
+1451,11 oktober 2020,jakarta barat,"jakarta barat, kembangan selatan", 06,0,15 cm
+1452,25 oktober 2020,jakarta barat,"jakarta barat, kembangan selatan",0,0,15 cm
+1453,11 oktober 2020,jakarta barat,"jakarta barat, kembangan selatan", 08,0,50 cm
+1454,11 oktober 2020,jakarta barat,"jakarta barat, kembangan selatan", 09,0,90 cm
+1455,11 oktober 2020,jakarta barat,"jakarta barat, kembangan selatan",0,0,90 cm
+1456,11 oktober 2020,jakarta barat,"jakarta barat, kembangan selatan",0,0,90 cm
+1457,16 oktober 2020,jakarta barat,"jakarta barat, srengseng", 02,0,50 cm
+1458,16 oktober 2020,jakarta barat,"jakarta barat, srengseng", 03,0,20 cm
+1459,16 oktober 2020,jakarta barat,"jakarta barat, srengseng", 05,0,40 cm
+1460,16 oktober 2020,jakarta barat,"jakarta barat, srengseng", 06,0,50 cm
+1461,11 oktober 2020,jakarta barat,"jakarta barat, srengseng", 07,0,20 cm
+1462,10 oktober 2020,jakarta barat,"jakarta barat, kedaung kali angke", 08,0,20 cm - 50 cm
+1463,11 oktober 2020,jakarta barat,"jakarta barat, kedaung kali angke", 08,0,20 cm - 50 cm
+1464,10 oktober 2020,jakarta barat,"jakarta barat, kedaung kali angke",0,0,20 cm - 50 cm
+1465,11 oktober 2020,jakarta barat,"jakarta barat, kedaung kali angke",0,0,20 cm - 50 cm
+1466,10 oktober 2020,jakarta barat,"jakarta barat, kedaung kali angke",0,0,20 cm - 50 cm
+1467,11 oktober 2020,jakarta barat,"jakarta barat, kedaung kali angke",0,0,20 cm - 50 cm
+1468,10 oktober 2020,jakarta barat,"jakarta barat, duri kosambi", 04,0,30 cm
+1469,11 oktober 2020,jakarta barat,"jakarta barat, duri kosambi", 04,0,30 cm
+1470,10 oktober 2020,jakarta barat,"jakarta barat, duri kosambi",0,0,30 cm
+1471,11 oktober 2020,jakarta barat,"jakarta barat, duri kosambi",0,0,30 cm
+1472,10 oktober 2020,jakarta barat,"jakarta barat, duri kosambi",0,0,25 cm
+1473,11 oktober 2020,jakarta barat,"jakarta barat, duri kosambi",0,0,25 cm
+1474,10 oktober 2020,jakarta barat,"jakarta barat, duri kosambi", 06,0,15 cm
+1475,11 oktober 2020,jakarta barat,"jakarta barat, duri kosambi", 06,0,15 cm
+1476,10 oktober 2020,jakarta barat,"jakarta barat, duri kosambi",0,0,25 cm
+1477,11 oktober 2020,jakarta barat,"jakarta barat, duri kosambi",0,0,25 cm
+1478,10 oktober 2020,jakarta barat,"jakarta barat, rawa buaya", 01,0,20 cm
+1479,11 oktober 2020,jakarta barat,"jakarta barat, rawa buaya", 01,0,20 cm
+1480,10 oktober 2020,jakarta barat,"jakarta barat, rawa buaya",0,0,20 cm
+1481,11 oktober 2020,jakarta barat,"jakarta barat, rawa buaya",0,0,20 cm
+1482,10 oktober 2020,jakarta barat,"jakarta barat, rawa buaya",0,0,20 cm
+1483,11 oktober 2020,jakarta barat,"jakarta barat, rawa buaya",0,0,20 cm
+1484,10 oktober 2020,jakarta barat,"jakarta barat, rawa buaya", 02,0,25 cm
+1485,11 oktober 2020,jakarta barat,"jakarta barat, rawa buaya", 02,0,25 cm
+1486,10 oktober 2020,jakarta barat,"jakarta barat, rawa buaya", 11,0,20 cm
+1487,11 oktober 2020,jakarta barat,"jakarta barat, rawa buaya", 11,0,20 cm
+1488,10 oktober 2020,jakarta barat,"jakarta barat, rawa buaya",0,0,10 cm
+1489,11 oktober 2020,jakarta barat,"jakarta barat, rawa buaya",0,0,10 cm
+1490,10 oktober 2020,jakarta barat,"jakarta barat, rawa buaya", 12,0,15 cm
+1491,11 oktober 2020,jakarta barat,"jakarta barat, rawa buaya", 12,0,15 cm
+1492,10 oktober 2020,jakarta barat,"jakarta barat, pegadungan", 03,0,10 cm - 30 cm
+1493,11 oktober 2020,jakarta barat,"jakarta barat, pegadungan", 03,0,10 cm - 30 cm
+1494,10 oktober 2020,jakarta barat,"jakarta barat, pegadungan",0,0,10 cm - 30 cm
+1495,11 oktober 2020,jakarta barat,"jakarta barat, pegadungan",0,0,10 cm - 30 cm
+1496,10 oktober 2020,jakarta barat,"jakarta barat, pegadungan", 05,0,10 cm - 30 cm
+1497,11 oktober 2020,jakarta barat,"jakarta barat, pegadungan", 05,0,10 cm - 30 cm
+1498,10 oktober 2020,jakarta barat,"jakarta barat, pegadungan",0,0,10 cm - 30 cm
+1499,11 oktober 2020,jakarta barat,"jakarta barat, pegadungan",0,0,10 cm - 30 cm
+1500,10 oktober 2020,jakarta barat,"jakarta barat, pegadungan", 04,0,5 cm - 10 cm
+1501,11 oktober 2020,jakarta barat,"jakarta barat, pegadungan", 04,0,5 cm - 10 cm
+1502,10 oktober 2020,jakarta barat,"jakarta barat, pegadungan",0,0,5 cm - 10 cm
+1503,11 oktober 2020,jakarta barat,"jakarta barat, pegadungan",0,0,5 cm - 10 cm
+1504,4 oktober 2020,jakarta selatan,"jakarta selatan, bangka", 02,0,10 cm - 100 cm
+1505,5 oktober 2020,jakarta selatan,"jakarta selatan, bangka", 02,0,10 cm - 100 cm
+1506,10 oktober 2020,jakarta selatan,"jakarta selatan, bangka", 02,0,10 cm - 100 cm
+1507,11 oktober 2020,jakarta selatan,"jakarta selatan, bangka", 02,0,10 cm - 100 cm
+1508,27 oktober 2020,jakarta selatan,"jakarta selatan, bangka", 02,0,10 cm - 100 cm
+1509,16 oktober 2020,jakarta selatan,"jakarta selatan, bangka",0,0,20 cm
+1510,27 oktober 2020,jakarta selatan,"jakarta selatan, bangka", 03,0,50 cm
+1511,4 oktober 2020,jakarta selatan,"jakarta selatan, bangka",0,0,25 cm
+1512,5 oktober 2020,jakarta selatan,"jakarta selatan, bangka",0,0,25 cm
+1513,4 oktober 2020,jakarta selatan,"jakarta selatan, bangka", 04,0,50 cm
+1514,5 oktober 2020,jakarta selatan,"jakarta selatan, bangka", 04,0,50 cm
+1515,2 oktober 2020,jakarta selatan,"jakarta selatan, bangka",0,0,10 - 35 cm
+1516,16 oktober 2020,jakarta selatan,"jakarta selatan, bangka",0,0,10 - 35 cm
+1517,27 oktober 2020,jakarta selatan,"jakarta selatan, bangka",0,0,10 - 35 cm
+1518,4 oktober 2020,jakarta selatan,"jakarta selatan, tegal parang", 07,0,10 cm - 30 cm
+1519,5 oktober 2020,jakarta selatan,"jakarta selatan, tegal parang", 07,0,10 cm - 30 cm
+1520,4 oktober 2020,jakarta selatan,"jakarta selatan, tegal parang",0,0,10 cm - 30 cm
+1521,5 oktober 2020,jakarta selatan,"jakarta selatan, tegal parang",0,0,10 cm - 30 cm
+1522,5 oktober 2020,jakarta selatan,"jakarta selatan, pela mampang", 05,0,50 cm - 100 cm
+1523,5 oktober 2020,jakarta selatan,"jakarta selatan, pela mampang", 07,0,30 cm - 60 cm
+1524,5 oktober 2020,jakarta selatan,"jakarta selatan, pela mampang", 11,0,30 cm - 80 cm
+1525,2 oktober 2020,jakarta selatan,"jakarta selatan, kalibata", 09,0,30 cm
+1526,25 oktober 2020,jakarta selatan,"jakarta selatan, rawajati", 03,0,10 cm - 30 cm
+1527,25 oktober 2020,jakarta selatan,"jakarta selatan, rawajati",0,0,10 cm - 30 cm
+1528,25 oktober 2020,jakarta selatan,"jakarta selatan, rawajati", 07,0,10 cm - 40 cm
+1529,25 oktober 2020,jakarta selatan,"jakarta selatan, rawajati",0,0,10 cm - 40 cm
+1530,25 oktober 2020,jakarta selatan,"jakarta selatan, rawajati",0,0,10 cm - 40 cm
+1531,25 oktober 2020,jakarta selatan,"jakarta selatan, pengadegan", 01,0,10 cm - 120 cm
+1532,2 oktober 2020,jakarta selatan,"jakarta selatan, pejaten barat", 08,0,20 cm
+1533,2 oktober 2020,jakarta selatan,"jakarta selatan, ragunan", 09,0,20 cm
+1534,4 oktober 2020,jakarta selatan,"jakarta selatan, cilandak timur", 01,0,10 cm - 100 cm
+1535,5 oktober 2020,jakarta selatan,"jakarta selatan, cilandak timur", 01,0,10 cm - 100 cm
+1536,10 oktober 2020,jakarta selatan,"jakarta selatan, cilandak timur", 01,0,10 cm - 100 cm
+1537,11 oktober 2020,jakarta selatan,"jakarta selatan, cilandak timur", 01,0,10 cm - 100 cm
+1538,4 oktober 2020,jakarta selatan,"jakarta selatan, cilandak timur", 03,0,20 cm - 180 cm
+1539,5 oktober 2020,jakarta selatan,"jakarta selatan, cilandak timur", 03,0,20 cm - 180 cm
+1540,10 oktober 2020,jakarta selatan,"jakarta selatan, cilandak timur", 03,0,20 cm - 180 cm
+1541,11 oktober 2020,jakarta selatan,"jakarta selatan, cilandak timur", 03,0,20 cm - 180 cm
+1542,4 oktober 2020,jakarta selatan,"jakarta selatan, cilandak timur",0,0,20 cm - 180 cm
+1543,5 oktober 2020,jakarta selatan,"jakarta selatan, cilandak timur",0,0,20 cm - 180 cm
+1544,10 oktober 2020,jakarta selatan,"jakarta selatan, cilandak timur",0,0,20 cm - 180 cm
+1545,11 oktober 2020,jakarta selatan,"jakarta selatan, cilandak timur",0,0,20 cm - 180 cm
+1546,5 oktober 2020,jakarta selatan,"jakarta selatan, pejaten timur", 05,0,10 cm - 130 cm
+1547,5 oktober 2020,jakarta selatan,"jakarta selatan, pejaten timur", 06,0,10 cm - 130 cm
+1548,25 oktober 2020,jakarta selatan,"jakarta selatan, pejaten timur", 06,0,10 cm - 130 cm
+1549,5 oktober 2020,jakarta selatan,"jakarta selatan, pejaten timur",0,0,10 cm - 130 cm
+1550,25 oktober 2020,jakarta selatan,"jakarta selatan, pejaten timur",0,0,10 cm - 130 cm
+1551,25 oktober 2020,jakarta selatan,"jakarta selatan, pejaten timur", 07,0,10 cm - 100 cm
+1552,25 oktober 2020,jakarta selatan,"jakarta selatan, pejaten timur", 08,0,10 cm - 85 cm
+1553,5 oktober 2020,jakarta selatan,"jakarta selatan, pejaten timur",0,0,20 cm - 150 cm
+1554,5 oktober 2020,jakarta selatan,"jakarta selatan, pejaten timur",0,0,20 cm - 150 cm
+1555,10 oktober 2020,jakarta selatan,"jakarta selatan, kebagusan",  01,0,20 cm - 40 cm
+1556,11 oktober 2020,jakarta selatan,"jakarta selatan, kebagusan",  01,0,20 cm - 40 cm
+1557,10 oktober 2020,jakarta selatan,"jakarta selatan, jati padang", 05,0,20 cm - 40 cm
+1558,11 oktober 2020,jakarta selatan,"jakarta selatan, jati padang", 05,0,20 cm - 40 cm
+1559,10 oktober 2020,jakarta selatan,"jakarta selatan, jati padang", 06,0,20 cm
+1560,11 oktober 2020,jakarta selatan,"jakarta selatan, jati padang", 06,0,20 cm
+1561,10 oktober 2020,jakarta selatan,"jakarta selatan, jati padang",0,0,10 cm - 20 cm
+1562,11 oktober 2020,jakarta selatan,"jakarta selatan, jati padang",0,0,10 cm - 20 cm
+1563,26 oktober 2020,jakarta selatan,"jakarta selatan, jati padang",0,0,10 cm - 20 cm
+1564,10 oktober 2020,jakarta selatan,"jakarta selatan, jati padang",0,0,10 cm - 20 cm
+1565,11 oktober 2020,jakarta selatan,"jakarta selatan, jati padang",0,0,10 cm - 20 cm
+1566,10 oktober 2020,jakarta selatan,"jakarta selatan, jati padang",0,0,20 cm
+1567,11 oktober 2020,jakarta selatan,"jakarta selatan, jati padang",0,0,20 cm
+1568,10 oktober 2020,jakarta selatan,"jakarta selatan, ciganjur", 2,1200,120 cm
+1569,11 oktober 2020,jakarta selatan,"jakarta selatan, ciganjur", 2,1200,120 cm
+1570,10 oktober 2020,jakarta selatan,"jakarta selatan, ciganjur",0,0,120 cm
+1571,11 oktober 2020,jakarta selatan,"jakarta selatan, ciganjur",0,0,120 cm
+1572,4 oktober 2020,jakarta selatan,"jakarta selatan, ciganjur", 05,0,10 cm - 40 cm
+1573,5 oktober 2020,jakarta selatan,"jakarta selatan, ciganjur", 05,0,10 cm - 40 cm
+1574,4 oktober 2020,jakarta selatan,"jakarta selatan, cipedak", 04,0,50 cm - 70 cm
+1575,5 oktober 2020,jakarta selatan,"jakarta selatan, cipedak", 04,0,50 cm - 70 cm
+1576,4 oktober 2020,jakarta selatan,"jakarta selatan, cipedak",0,0,40 cm
+1577,5 oktober 2020,jakarta selatan,"jakarta selatan, cipedak",0,0,40 cm
+1578,4 oktober 2020,jakarta selatan,"jakarta selatan, cipedak", 05,0,30 cm
+1579,5 oktober 2020,jakarta selatan,"jakarta selatan, cipedak", 05,0,30 cm
+1580,4 oktober 2020,jakarta selatan,"jakarta selatan, cipedak",0,0,40 cm
+1581,5 oktober 2020,jakarta selatan,"jakarta selatan, cipedak",0,0,40 cm
+1582,5 oktober 2020,jakarta selatan,"jakarta selatan, petogogan", 02,0,30 cm - 60 cm
+1583,16 oktober 2020,jakarta selatan,"jakarta selatan, petogogan", 02,0,30 cm - 60 cm
+1584,27 oktober 2020,jakarta selatan,"jakarta selatan, petogogan", 02,0,30 cm - 60 cm
+1585,16 oktober 2020,jakarta selatan,"jakarta selatan, petogogan",0,0,30 cm
+1586,5 oktober 2020,jakarta selatan,"jakarta selatan, petogogan", 03,0,50 cm - 60 cm
+1587,25 oktober 2020,jakarta selatan,"jakarta selatan, kebon baru", 10,0,10 cm - 30 cm
+1588,5 oktober 2020,jakarta selatan,"jakarta selatan, kebon baru",0,0,30 cm - 50 cm
+1589,25 oktober 2020,jakarta selatan,"jakarta selatan, kebon baru",0,0,30 cm - 50 cm
+1590,5 oktober 2020,jakarta selatan,"jakarta selatan, manggarai", 01,0,10 cm - 50 cm
+1591,25 oktober 2020,jakarta selatan,"jakarta selatan, manggarai", 01,0,10 cm - 50 cm
+1592,5 oktober 2020,jakarta selatan,"jakarta selatan, manggarai",0,0,10 cm - 50 cm
+1593,25 oktober 2020,jakarta selatan,"jakarta selatan, manggarai",0,0,10 cm - 50 cm
+1594,5 oktober 2020,jakarta selatan,"jakarta selatan, manggarai",0,0,10 cm - 50 cm
+1595,25 oktober 2020,jakarta selatan,"jakarta selatan, manggarai",0,0,10 cm - 50 cm
+1596,5 oktober 2020,jakarta selatan,"jakarta selatan, manggarai",0,0,30 cm - 50 cm
+1597,25 oktober 2020,jakarta selatan,"jakarta selatan, manggarai", 10,0,10 cm - 30 cm
+1598,10 oktober 2020,jakarta selatan,"jakarta selatan, bintaro", 01,0,50 cm
+1599,11 oktober 2020,jakarta selatan,"jakarta selatan, bintaro", 01,0,50 cm
+1600,4 oktober 2020,jakarta selatan,"jakarta selatan, bintaro",0,0,30 - 50 cm
+1601,5 oktober 2020,jakarta selatan,"jakarta selatan, bintaro",0,0,30 - 50 cm
+1602,9 oktober 2020,jakarta selatan,"jakarta selatan, bintaro",0,0,30 - 50 cm
+1603,10 oktober 2020,jakarta selatan,"jakarta selatan, bintaro",0,0,30 - 50 cm
+1604,11 oktober 2020,jakarta selatan,"jakarta selatan, bintaro",0,0,30 - 50 cm
+1605,25 oktober 2020,jakarta selatan,"jakarta selatan, bintaro", 03,0,10 - 30 cm
+1606,9 oktober 2020,jakarta selatan,"jakarta selatan, bintaro", 04,0,20 cm
+1607,10 oktober 2020,jakarta selatan,"jakarta selatan, bintaro", 05,0,10 - 50 cm
+1608,11 oktober 2020,jakarta selatan,"jakarta selatan, bintaro", 05,0,10 - 50 cm
+1609,25 oktober 2020,jakarta selatan,"jakarta selatan, bintaro", 05,0,10 - 50 cm
+1610,5 oktober 2020,jakarta selatan,"jakarta selatan, bintaro",0,0,10 - 50 cm
+1611,9 oktober 2020,jakarta selatan,"jakarta selatan, bintaro",0,0,10 - 50 cm
+1612,10 oktober 2020,jakarta selatan,"jakarta selatan, bintaro",0,0,10 - 50 cm
+1613,11 oktober 2020,jakarta selatan,"jakarta selatan, bintaro",0,0,10 - 50 cm
+1614,25 oktober 2020,jakarta selatan,"jakarta selatan, bintaro",0,0,10 - 50 cm
+1615,10 oktober 2020,jakarta selatan,"jakarta selatan, bintaro",  09,0,50 - 60 cm
+1616,11 oktober 2020,jakarta selatan,"jakarta selatan, bintaro",  09,0,50 - 60 cm
+1617,10 oktober 2020,jakarta selatan,"jakarta selatan, bintaro",0,0,50 - 60 cm
+1618,11 oktober 2020,jakarta selatan,"jakarta selatan, bintaro",0,0,50 - 60 cm
+1619,10 oktober 2020,jakarta selatan,"jakarta selatan, bintaro",0,0,50 - 60 cm
+1620,11 oktober 2020,jakarta selatan,"jakarta selatan, bintaro",0,0,50 - 60 cm
+1621,10 oktober 2020,jakarta selatan,"jakarta selatan, bintaro", 10,0,30 - 50 cm
+1622,11 oktober 2020,jakarta selatan,"jakarta selatan, bintaro", 10,0,30 - 50 cm
+1623,10 oktober 2020,jakarta selatan,"jakarta selatan, bintaro",0,0,30 - 50 cm
+1624,11 oktober 2020,jakarta selatan,"jakarta selatan, bintaro",0,0,30 - 50 cm
+1625,10 oktober 2020,jakarta selatan,"jakarta selatan, bintaro",0,0,30 - 50 cm
+1626,11 oktober 2020,jakarta selatan,"jakarta selatan, bintaro",0,0,30 - 50 cm
+1627,10 oktober 2020,jakarta selatan,"jakarta selatan, bintaro", 11,0,50 - 60 cm
+1628,11 oktober 2020,jakarta selatan,"jakarta selatan, bintaro", 11,0,50 - 60 cm
+1629,5 oktober 2020,jakarta selatan,"jakarta selatan, bintaro", 12,0,40 cm
+1630,10 oktober 2020,jakarta selatan,"jakarta selatan, bintaro", 12,0,40 cm
+1631,11 oktober 2020,jakarta selatan,"jakarta selatan, bintaro", 12,0,40 cm
+1632,5 oktober 2020,jakarta selatan,"jakarta selatan, bintaro",0,0,10 cm - 70 cm
+1633,5 oktober 2020,jakarta selatan,"jakarta selatan, bintaro",0,0,10 cm - 30 cm
+1634,10 oktober 2020,jakarta selatan,"jakarta selatan, bintaro",0,0,10 cm - 30 cm
+1635,11 oktober 2020,jakarta selatan,"jakarta selatan, bintaro",0,0,10 cm - 30 cm
+1636,11 oktober 2020,jakarta selatan,"jakarta selatan, bintaro", 14,0,10 cm - 30 cm
+1637,11 oktober 2020,jakarta selatan,"jakarta selatan, ulujami", 01,0,10 cm - 50 cm
+1638,11 oktober 2020,jakarta selatan,"jakarta selatan, ulujami",0,0,10 cm - 50 cm
+1639,11 oktober 2020,jakarta selatan,"jakarta selatan, ulujami",0,0,10 cm - 50 cm
+1640,11 oktober 2020,jakarta selatan,"jakarta selatan, ulujami",0,0,10 cm - 50 cm
+1641,11 oktober 2020,jakarta selatan,"jakarta selatan, ulujami",0,0,10 cm - 50 cm
+1642,11 oktober 2020,jakarta selatan,"jakarta selatan, ulujami",0,0,10 cm - 50 cm
+1643,11 oktober 2020,jakarta selatan,"jakarta selatan, ulujami",0,0,10 cm - 50 cm
+1644,11 oktober 2020,jakarta selatan,"jakarta selatan, ulujami",0,0,10 cm - 50 cm
+1645,11 oktober 2020,jakarta selatan,"jakarta selatan, ulujami", 03,0,20 cm - 30 cm
+1646,11 oktober 2020,jakarta selatan,"jakarta selatan, ulujami", 04,0,10 cm - 30 cm
+1647,11 oktober 2020,jakarta selatan,"jakarta selatan, ulujami",0,0,10 cm - 30 cm
+1648,11 oktober 2020,jakarta selatan,"jakarta selatan, ulujami", 05,0,20 cm - 30 cm
+1649,11 oktober 2020,jakarta selatan,"jakarta selatan, ulujami", 07,0,20 cm - 30 cm
+1650,5 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang", 01,0,10 cm - 80 cm
+1651,10 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang", 01,0,10 cm - 80 cm
+1652,11 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang", 01,0,10 cm - 80 cm
+1653,25 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang", 01,0,10 cm - 80 cm
+1654,5 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang", 05,0,20 cm - 125 cm
+1655,10 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang", 05,0,20 cm - 125 cm
+1656,11 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang", 05,0,20 cm - 125 cm
+1657,25 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang", 05,0,20 cm - 125 cm
+1658,10 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang",0,0,10 cm - 125 cm
+1659,11 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang",0,0,10 cm - 125 cm
+1660,25 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang",0,0,10 cm - 125 cm
+1661,5 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang",0,0,10 cm - 125 cm
+1662,10 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang",0,0,10 cm - 125 cm
+1663,11 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang",0,0,10 cm - 125 cm
+1664,25 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang",0,0,10 cm - 125 cm
+1665,5 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang",0,0,10 cm - 125 cm
+1666,10 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang",0,0,10 cm - 125 cm
+1667,11 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang",0,0,10 cm - 125 cm
+1668,25 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang",0,0,10 cm - 125 cm
+1669,5 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang",0,0,10 cm - 125 cm
+1670,10 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang",0,0,10 cm - 125 cm
+1671,11 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang",0,0,10 cm - 125 cm
+1672,25 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang",0,0,10 cm - 125 cm
+1673,5 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang",0,0,10 cm - 125 cm
+1674,10 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang",0,0,10 cm - 125 cm
+1675,11 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang",0,0,10 cm - 125 cm
+1676,25 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang",0,0,10 cm - 125 cm
+1677,5 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang", 08,0,10 cm - 120 cm
+1678,10 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang", 08,0,10 cm - 120 cm
+1679,11 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang", 08,0,10 cm - 120 cm
+1680,25 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang", 08,0,10 cm - 120 cm
+1681,5 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang",0,0,10 cm - 120 cm
+1682,10 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang",0,0,10 cm - 120 cm
+1683,11 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang",0,0,10 cm - 120 cm
+1684,25 oktober 2020,jakarta selatan,"jakarta selatan, pondok pinang",0,0,10 cm - 120 cm
+1685,18 oktober 2020,jakarta selatan,"jakarta selatan, cipulir", 02,0,50 cm
+1686,18 oktober 2020,jakarta selatan,"jakarta selatan, cipulir", 06,0,10 cm
+1687,18 oktober 2020,jakarta selatan,"jakarta selatan, cipulir",0,0,10 cm
+1688,18 oktober 2020,jakarta selatan,"jakarta selatan, cipulir",0,0,20 cm
+1689,18 oktober 2020,jakarta selatan,"jakarta selatan, cipulir", 07,0,40 cm
+1690,18 oktober 2020,jakarta selatan,"jakarta selatan, cipulir", 09,0,10 cm
+1691,18 oktober 2020,jakarta selatan,"jakarta selatan, cipulir",0,0,40 cm
+1692,5 oktober 2020,jakarta selatan,"jakarta selatan, cipulir", 10,0,10 cm - 80 cm
+1693,6 oktober 2020,jakarta selatan,"jakarta selatan, cipulir", 10,0,10 cm - 80 cm
+1694,10 oktober 2020,jakarta selatan,"jakarta selatan, cipulir", 10,0,10 cm - 80 cm
+1695,11 oktober 2020,jakarta selatan,"jakarta selatan, cipulir", 10,0,10 cm - 80 cm
+1696,25 oktober 2020,jakarta selatan,"jakarta selatan, cipulir", 10,0,10 cm - 80 cm
+1697,5 oktober 2020,jakarta selatan,"jakarta selatan, cipulir",0,225,10 cm - 150 cm
+1698,6 oktober 2020,jakarta selatan,"jakarta selatan, cipulir",0,225,10 cm - 150 cm
+1699,9 oktober 2020,jakarta selatan,"jakarta selatan, cipulir",0,225,10 cm - 150 cm
+1700,10 oktober 2020,jakarta selatan,"jakarta selatan, cipulir",0,225,10 cm - 150 cm
+1701,11 oktober 2020,jakarta selatan,"jakarta selatan, cipulir",0,225,10 cm - 150 cm
+1702,25 oktober 2020,jakarta selatan,"jakarta selatan, cipulir",0,225,10 cm - 150 cm
+1703,16 oktober 2020,jakarta selatan,"jakarta selatan, grogol utara", 11,0,20 cm
+1704,16 oktober 2020,jakarta selatan,"jakarta selatan, 0", 14,0,40 cm
+1705,10 oktober 2020,jakarta selatan,"jakarta selatan, pondok labu", 01,0,30 cm
+1706,11 oktober 2020,jakarta selatan,"jakarta selatan, pondok labu", 01,0,30 cm
+1707,10 oktober 2020,jakarta selatan,"jakarta selatan, pondok labu", 02,0,80 - 100 cm
+1708,11 oktober 2020,jakarta selatan,"jakarta selatan, pondok labu", 02,0,80 - 100 cm
+1709,10 oktober 2020,jakarta selatan,"jakarta selatan, lebak bulus", 01,0,20 cm - 60 cm
+1710,11 oktober 2020,jakarta selatan,"jakarta selatan, lebak bulus", 01,0,20 cm - 60 cm
+1711,10 oktober 2020,jakarta selatan,"jakarta selatan, lebak bulus", 04,0,20 cm - 60 cm
+1712,11 oktober 2020,jakarta selatan,"jakarta selatan, lebak bulus", 04,0,20 cm - 60 cm
+1713,10 oktober 2020,jakarta selatan,"jakarta selatan, lebak bulus", 08,0,20 cm - 60 cm
+1714,11 oktober 2020,jakarta selatan,"jakarta selatan, lebak bulus", 08,0,20 cm - 60 cm
+1715,25 oktober 2020,jakarta timur,"jakarta timur, bidara cina",  07,0,20 - 70 cm
+1716,25 oktober 2020,jakarta timur,"jakarta timur, bidara cina",0,0,20 - 70 cm
+1717,25 oktober 2020,jakarta timur,"jakarta timur, bidara cina",0,0,20 - 70 cm
+1718,25 oktober 2020,jakarta timur,"jakarta timur, bidara cina",0,0,20 - 70 cm
+1719,25 oktober 2020,jakarta timur,"jakarta timur, bidara cina",0,0,20 - 70 cm
+1720,25 oktober 2020,jakarta timur,"jakarta timur, bidara cina",0,0,20 - 70 cm
+1721,25 oktober 2020,jakarta timur,"jakarta timur, bidara cina",0,0,20 - 70 cm
+1722,25 oktober 2020,jakarta timur,"jakarta timur, bidara cina",0,0,20 - 70 cm
+1723,25 oktober 2020,jakarta timur,"jakarta timur, bidara cina",0,0,20 - 70 cm
+1724,25 oktober 2020,jakarta timur,"jakarta timur, bidara cina",0,0,20 - 70 cm
+1725,5 oktober 2020,jakarta timur,"jakarta timur, bidara cina", 11,20,10 - 100 cm
+1726,25 oktober 2020,jakarta timur,"jakarta timur, bidara cina", 11,20,10 - 100 cm
+1727,5 oktober 2020,jakarta timur,"jakarta timur, bidara cina",0,28,10 - 100 cm
+1728,25 oktober 2020,jakarta timur,"jakarta timur, bidara cina",0,28,10 - 100 cm
+1729,5 oktober 2020,jakarta timur,"jakarta timur, bidara cina",0,24,10 - 100 cm
+1730,25 oktober 2020,jakarta timur,"jakarta timur, bidara cina",0,24,10 - 100 cm
+1731,5 oktober 2020,jakarta timur,"jakarta timur, bidara cina",0,31,10 - 100 cm
+1732,25 oktober 2020,jakarta timur,"jakarta timur, bidara cina",0,31,10 - 100 cm
+1733,5 oktober 2020,jakarta timur,"jakarta timur, bidara cina",0,23,10 - 100 cm
+1734,25 oktober 2020,jakarta timur,"jakarta timur, bidara cina",0,23,10 - 100 cm
+1735,29 oktober 2020,jakarta timur,"jakarta timur, bidara cina",0,23,10 - 100 cm
+1736,5 oktober 2020,jakarta timur,"jakarta timur, kampung melayu", 04,51,10 cm - 150 cm
+1737,11 oktober 2020,jakarta timur,"jakarta timur, kampung melayu", 04,51,10 cm - 150 cm
+1738,29 oktober 2020,jakarta timur,"jakarta timur, kampung melayu", 04,51,10 cm - 150 cm
+1739,5 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,66,10 cm - 150 cm
+1740,11 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,66,10 cm - 150 cm
+1741,25 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,66,10 cm - 150 cm
+1742,5 oktober 2020,jakarta timur,"jakarta timur, kampung melayu", 05,16,10 cm - 150 cm
+1743,5 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,118,10 cm - 150 cm
+1744,11 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,118,10 cm - 150 cm
+1745,25 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,118,10 cm - 150 cm
+1746,29 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,118,10 cm - 150 cm
+1747,5 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,80,10 cm - 150 cm
+1748,11 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,80,10 cm - 150 cm
+1749,25 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,80,10 cm - 150 cm
+1750,29 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,80,10 cm - 150 cm
+1751,5 oktober 2020,jakarta timur,"jakarta timur, kampung melayu", 06,18,10 cm - 30 cm
+1752,5 oktober 2020,jakarta timur,"jakarta timur, kampung melayu", 07,48,10 cm - 60 cm
+1753,5 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,23,10 cm - 60 cm
+1754,5 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,28,10 cm - 60 cm
+1755,5 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,31,10 cm - 60 cm
+1756,5 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,53,10 cm - 80 cm
+1757,11 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,53,10 cm - 80 cm
+1758,5 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,33,10 cm - 50 cm
+1759,5 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,28,10 cm - 50 cm
+1760,5 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,27,10 cm - 50 cm
+1761,5 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,27,10 cm - 80 cm
+1762,5 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,38,10 cm - 50 cm
+1763,5 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,21,10 cm - 50 cm
+1764,5 oktober 2020,jakarta timur,"jakarta timur, kampung melayu", 08,28,10 cm - 30 cm
+1765,5 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,15,10 cm - 30 cm
+1766,5 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,36,10 cm - 80 cm
+1767,11 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,36,10 cm - 80 cm
+1768,5 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,21,10 cm - 30 cm
+1769,5 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,31,10 cm - 50 cm
+1770,5 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,22,10 cm - 50 cm
+1771,5 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,46,10 cm - 80 cm
+1772,11 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,46,10 cm - 80 cm
+1773,5 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,54,10 cm - 80 cm
+1774,11 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,54,10 cm - 80 cm
+1775,5 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,58,10 cm - 80 cm
+1776,11 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,58,10 cm - 80 cm
+1777,5 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,51,10 cm - 80 cm
+1778,11 oktober 2020,jakarta timur,"jakarta timur, kampung melayu",0,51,10 cm - 80 cm
+1779,26 oktober 2020,jakarta timur,"jakarta timur, cipinang muara", 13,0,10 cm
+1780,27 oktober 2020,jakarta timur,"jakarta timur, cipinang muara", 13,0,10 cm
+1781,5 oktober 2020,jakarta timur,"jakarta timur, cawang", 01,7,20 - 50 cm
+1782,25 oktober 2020,jakarta timur,"jakarta timur, cawang", 01,7,20 - 50 cm
+1783,5 oktober 2020,jakarta timur,"jakarta timur, cawang",0,9,20 - 70 cm
+1784,25 oktober 2020,jakarta timur,"jakarta timur, cawang",0,9,20 - 70 cm
+1785,5 oktober 2020,jakarta timur,"jakarta timur, cawang",0,28,20 - 50 cm
+1786,5 oktober 2020,jakarta timur,"jakarta timur, cawang", 02,24,20 - 50 cm
+1787,25 oktober 2020,jakarta timur,"jakarta timur, cawang", 02,24,20 - 50 cm
+1788,5 oktober 2020,jakarta timur,"jakarta timur, cawang",0,20,20 - 70 cm
+1789,25 oktober 2020,jakarta timur,"jakarta timur, cawang",0,20,20 - 70 cm
+1790,5 oktober 2020,jakarta timur,"jakarta timur, cawang",0,21,40 - 120 cm
+1791,25 oktober 2020,jakarta timur,"jakarta timur, cawang",0,21,40 - 120 cm
+1792,5 oktober 2020,jakarta timur,"jakarta timur, cawang",0,24,40 - 100 cm
+1793,25 oktober 2020,jakarta timur,"jakarta timur, cawang",0,24,40 - 100 cm
+1794,5 oktober 2020,jakarta timur,"jakarta timur, cawang",0,16,50 - 110 cm
+1795,25 oktober 2020,jakarta timur,"jakarta timur, cawang",0,16,50 - 110 cm
+1796,5 oktober 2020,jakarta timur,"jakarta timur, cawang", 03,45,60 - 120 cm
+1797,25 oktober 2020,jakarta timur,"jakarta timur, cawang", 03,45,60 - 120 cm
+1798,5 oktober 2020,jakarta timur,"jakarta timur, cawang",0,24,20 - 120 cm
+1799,25 oktober 2020,jakarta timur,"jakarta timur, cawang",0,24,20 - 120 cm
+1800,5 oktober 2020,jakarta timur,"jakarta timur, cawang",0,21,20 - 70 cm
+1801,25 oktober 2020,jakarta timur,"jakarta timur, cawang",0,21,20 - 70 cm
+1802,5 oktober 2020,jakarta timur,"jakarta timur, cawang",0,24,20 - 120 cm
+1803,25 oktober 2020,jakarta timur,"jakarta timur, cawang",0,24,20 - 120 cm
+1804,5 oktober 2020,jakarta timur,"jakarta timur, cawang", 05,22,20 - 120 cm
+1805,25 oktober 2020,jakarta timur,"jakarta timur, cawang", 05,22,20 - 120 cm
+1806,5 oktober 2020,jakarta timur,"jakarta timur, cawang",0,12,20 - 80 cm
+1807,25 oktober 2020,jakarta timur,"jakarta timur, cawang",0,12,20 - 80 cm
+1808,5 oktober 2020,jakarta timur,"jakarta timur, cawang",0,38,20 - 120 cm
+1809,25 oktober 2020,jakarta timur,"jakarta timur, cawang",0,38,20 - 120 cm
+1810,5 oktober 2020,jakarta timur,"jakarta timur, cawang",0,21,20 - 50 cm
+1811,25 oktober 2020,jakarta timur,"jakarta timur, cawang",0,21,20 - 50 cm
+1812,25 oktober 2020,jakarta timur,"jakarta timur, cawang", 08,16,20 cm
+1813,5 oktober 2020,jakarta timur,"jakarta timur, cawang",0,17,20 - 70 cm
+1814,25 oktober 2020,jakarta timur,"jakarta timur, cawang",0,17,20 - 70 cm
+1815,5 oktober 2020,jakarta timur,"jakarta timur, cawang",0,30,20 - 120 cm
+1816,25 oktober 2020,jakarta timur,"jakarta timur, cawang",0,30,20 - 120 cm
+1817,5 oktober 2020,jakarta timur,"jakarta timur, cawang",0,18,20 - 70 cm
+1818,25 oktober 2020,jakarta timur,"jakarta timur, cawang",0,18,20 - 70 cm
+1819,5 oktober 2020,jakarta timur,"jakarta timur, cawang",0,13,20 - 100 cm
+1820,25 oktober 2020,jakarta timur,"jakarta timur, cawang",0,13,20 - 100 cm
+1821,5 oktober 2020,jakarta timur,"jakarta timur, cawang",0,7,20 - 100 cm
+1822,25 oktober 2020,jakarta timur,"jakarta timur, cawang",0,7,20 - 100 cm
+1823,25 oktober 2020,jakarta timur,"jakarta timur, cawang",0,0,20 cm
+1824,5 oktober 2020,jakarta timur,"jakarta timur, cawang", 12,5,20 - 30 cm
+1825,25 oktober 2020,jakarta timur,"jakarta timur, cawang", 12,5,20 - 30 cm
+1826,25 oktober 2020,jakarta timur,"jakarta timur, cawang",0,0,20 - 30 cm
+1827,25 oktober 2020,jakarta timur,"jakarta timur, balekambang", 01,0,20 cm - 70 cm
+1828,25 oktober 2020,jakarta timur,"jakarta timur, balekambang",0,0,20 cm - 70 cm
+1829,25 oktober 2020,jakarta timur,"jakarta timur, balekambang", 02,0,20 cm - 70 cm
+1830,25 oktober 2020,jakarta timur,"jakarta timur, balekambang", 05,0,20 cm - 70 cm
+1831,25 oktober 2020,jakarta timur,"jakarta timur, balekambang",0,0,20 cm - 70 cm
+1832,25 oktober 2020,jakarta timur,"jakarta timur, balekambang",0,0,20 cm - 70 cm
+1833,5 oktober 2020,jakarta timur,"jakarta timur, balekambang",0,41,50 cm
+1834,25 oktober 2020,jakarta timur,"jakarta timur, balekambang",0,41,50 cm
+1835,5 oktober 2020,jakarta timur,"jakarta timur, balekambang",0,10,50 cm
+1836,25 oktober 2020,jakarta timur,"jakarta timur, balekambang",0,10,50 cm
+1837,10 oktober 2020,jakarta timur,"jakarta timur, dukuh", 03,0,50 cm
+1838,11 oktober 2020,jakarta timur,"jakarta timur, dukuh", 03,0,50 cm
+1839,25 oktober 2020,jakarta timur,"jakarta timur, cililitan", 06,70,10 cm
+1840,25 oktober 2020,jakarta timur,"jakarta timur, cililitan",0,46,10 cm
+1841,25 oktober 2020,jakarta timur,"jakarta timur, cililitan",0,59,10 cm
+1842,25 oktober 2020,jakarta timur,"jakarta timur, cililitan",  07,70,10 cm
+1843,25 oktober 2020,jakarta timur,"jakarta timur, cililitan", 16,40,10 cm
+1844,10 oktober 2020,jakarta timur,"jakarta timur, kalisari", 01,0,10 cm 
+1845,11 oktober 2020,jakarta timur,"jakarta timur, kalisari", 01,0,10 cm 
+1846,10 oktober 2020,jakarta timur,"jakarta timur, kalisari", 02,0,10 cm 
+1847,11 oktober 2020,jakarta timur,"jakarta timur, kalisari", 02,0,10 cm 
+1848,10 oktober 2020,jakarta timur,"jakarta timur, kalisari", 09,0,40 cm 
+1849,11 oktober 2020,jakarta timur,"jakarta timur, kalisari", 09,0,40 cm 
+1850,10 oktober 2020,jakarta timur,"jakarta timur, cijantung", 11,0,35 cm
+1851,11 oktober 2020,jakarta timur,"jakarta timur, cijantung", 11,0,35 cm
+1852,10 oktober 2020,jakarta timur,"jakarta timur, cijantung",0,0,40 cm
+1853,11 oktober 2020,jakarta timur,"jakarta timur, cijantung",0,0,40 cm
+1854,26 oktober 2020,jakarta timur,"jakarta timur, pekayon", 07,0,30 cm
+1855,26 oktober 2020,jakarta timur,"jakarta timur, pekayon",0,0,30 cm
+1856,26 oktober 2020,jakarta timur,"jakarta timur, pekayon",0,0,50 cm
+1857,25 oktober 2020,jakarta timur,"jakarta timur, susukan", 05,0,15 cm
+1858,25 oktober 2020,jakarta timur,"jakarta timur, susukan",0,0,15 cm
+1859,25 oktober 2020,jakarta timur,"jakarta timur, susukan",0,0,15 cm
+1860,25 oktober 2020,jakarta timur,"jakarta timur, susukan",0,0,15 cm
+1861,10 oktober 2020,jakarta timur,"jakarta timur, susukan", 07,0,40 cm
+1862,11 oktober 2020,jakarta timur,"jakarta timur, susukan", 07,0,40 cm
+1863,10 oktober 2020,jakarta timur,"jakarta timur, susukan", 08,0,20 cm 
+1864,11 oktober 2020,jakarta timur,"jakarta timur, susukan", 08,0,20 cm 
+1865,10 oktober 2020,jakarta timur,"jakarta timur, ciracas", 03,0,70 cm - 80 cm
+1866,11 oktober 2020,jakarta timur,"jakarta timur, ciracas", 03,0,70 cm - 80 cm
+1867,10 oktober 2020,jakarta timur,"jakarta timur, ciracas",0,0,70 cm - 80 cm
+1868,11 oktober 2020,jakarta timur,"jakarta timur, ciracas",0,0,70 cm - 80 cm
+1869,10 oktober 2020,jakarta timur,"jakarta timur, ciracas",0,0,70 cm - 80 cm
+1870,11 oktober 2020,jakarta timur,"jakarta timur, ciracas",0,0,70 cm - 80 cm
+1871,10 oktober 2020,jakarta timur,"jakarta timur, ciracas",0,0,70 cm - 80 cm
+1872,11 oktober 2020,jakarta timur,"jakarta timur, ciracas",0,0,70 cm - 80 cm
+1873,10 oktober 2020,jakarta timur,"jakarta timur, ciracas",0,0,70 cm - 80 cm
+1874,11 oktober 2020,jakarta timur,"jakarta timur, ciracas",0,0,70 cm - 80 cm
+1875,10 oktober 2020,jakarta timur,"jakarta timur, ciracas", 04,0,20 cm - 80 cm
+1876,11 oktober 2020,jakarta timur,"jakarta timur, ciracas", 04,0,20 cm - 80 cm
+1877,26 oktober 2020,jakarta timur,"jakarta timur, ciracas", 04,0,20 cm - 80 cm
+1878,10 oktober 2020,jakarta timur,"jakarta timur, ciracas",0,0,20 cm - 80 cm
+1879,11 oktober 2020,jakarta timur,"jakarta timur, ciracas",0,0,20 cm - 80 cm
+1880,26 oktober 2020,jakarta timur,"jakarta timur, ciracas",0,0,20 cm - 80 cm
+1881,10 oktober 2020,jakarta timur,"jakarta timur, ciracas", 05,0,70 cm - 80 cm
+1882,11 oktober 2020,jakarta timur,"jakarta timur, ciracas", 05,0,70 cm - 80 cm
+1883,10 oktober 2020,jakarta timur,"jakarta timur, ciracas",0,0,70 cm - 80 cm
+1884,11 oktober 2020,jakarta timur,"jakarta timur, ciracas",0,0,70 cm - 80 cm
+1885,10 oktober 2020,jakarta timur,"jakarta timur, rambutan", 02,413,10 - 60 cm
+1886,11 oktober 2020,jakarta timur,"jakarta timur, rambutan", 02,413,10 - 60 cm
+1887,19 oktober 2020,jakarta timur,"jakarta timur, rambutan", 02,413,10 - 60 cm
+1888,26 oktober 2020,jakarta timur,"jakarta timur, rambutan", 02,413,10 - 60 cm
+1889,27 oktober 2020,jakarta timur,"jakarta timur, rambutan", 02,413,10 - 60 cm
+1890,10 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,385,10 - 50 cm
+1891,11 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,385,10 - 50 cm
+1892,19 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,385,10 - 50 cm
+1893,26 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,385,10 - 50 cm
+1894,27 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,385,10 - 50 cm
+1895,10 oktober 2020,jakarta timur,"jakarta timur, rambutan", 03,86,40 cm
+1896,11 oktober 2020,jakarta timur,"jakarta timur, rambutan", 03,86,40 cm
+1897,26 oktober 2020,jakarta timur,"jakarta timur, rambutan", 03,86,40 cm
+1898,27 oktober 2020,jakarta timur,"jakarta timur, rambutan", 03,86,40 cm
+1899,10 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,225,10 - 50 cm
+1900,11 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,225,10 - 50 cm
+1901,19 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,225,10 - 50 cm
+1902,26 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,225,10 - 50 cm
+1903,27 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,225,10 - 50 cm
+1904,10 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,120,10 - 70 cm
+1905,11 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,120,10 - 70 cm
+1906,19 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,120,10 - 70 cm
+1907,26 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,120,10 - 70 cm
+1908,27 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,120,10 - 70 cm
+1909,10 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,120,10 - 40 cm
+1910,11 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,120,10 - 40 cm
+1911,19 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,120,10 - 40 cm
+1912,26 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,120,10 - 40 cm
+1913,27 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,120,10 - 40 cm
+1914,10 oktober 2020,jakarta timur,"jakarta timur, rambutan", 04,90,40 cm
+1915,11 oktober 2020,jakarta timur,"jakarta timur, rambutan", 04,90,40 cm
+1916,10 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,150,60 cm
+1917,11 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,150,60 cm
+1918,10 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,150,50 cm
+1919,11 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,150,50 cm
+1920,10 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,178,40 cm
+1921,11 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,178,40 cm
+1922,10 oktober 2020,jakarta timur,"jakarta timur, rambutan", 05,117,70 cm
+1923,11 oktober 2020,jakarta timur,"jakarta timur, rambutan", 05,117,70 cm
+1924,26 oktober 2020,jakarta timur,"jakarta timur, rambutan", 05,117,70 cm
+1925,27 oktober 2020,jakarta timur,"jakarta timur, rambutan", 05,117,70 cm
+1926,10 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,162,70 cm
+1927,11 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,162,70 cm
+1928,26 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,162,70 cm
+1929,27 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,162,70 cm
+1930,10 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,30,40 cm
+1931,11 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,30,40 cm
+1932,26 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,30,40 cm
+1933,27 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,30,40 cm
+1934,10 oktober 2020,jakarta timur,"jakarta timur, rambutan", 06,35,40 cm
+1935,11 oktober 2020,jakarta timur,"jakarta timur, rambutan", 06,35,40 cm
+1936,10 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,150,40 cm
+1937,11 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,150,40 cm
+1938,10 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,120,20 - 50 cm
+1939,11 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,120,20 - 50 cm
+1940,26 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,120,20 - 50 cm
+1941,27 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,120,20 - 50 cm
+1942,10 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,160,20 - 40 cm
+1943,11 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,160,20 - 40 cm
+1944,26 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,160,20 - 40 cm
+1945,27 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,160,20 - 40 cm
+1946,10 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,97,15 - 30 cm
+1947,11 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,97,15 - 30 cm
+1948,26 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,97,15 - 30 cm
+1949,27 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,97,15 - 30 cm
+1950,10 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,45,15 - 40 cm
+1951,11 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,45,15 - 40 cm
+1952,26 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,45,15 - 40 cm
+1953,27 oktober 2020,jakarta timur,"jakarta timur, rambutan",0,45,15 - 40 cm
+1954,10 oktober 2020,jakarta timur,"jakarta timur, bambu apus", 02,0,60 cm
+1955,11 oktober 2020,jakarta timur,"jakarta timur, bambu apus", 02,0,60 cm
+1956,10 oktober 2020,jakarta timur,"jakarta timur, bambu apus", 03,0,100 cm
+1957,11 oktober 2020,jakarta timur,"jakarta timur, bambu apus", 03,0,100 cm
+1958,10 oktober 2020,jakarta timur,"jakarta timur, cipayung", 04,0,30 cm 
+1959,11 oktober 2020,jakarta timur,"jakarta timur, cipayung", 04,0,30 cm 
+1960,10 oktober 2020,jakarta timur,"jakarta timur, setu", 04,0,30 cm
+1961,11 oktober 2020,jakarta timur,"jakarta timur, setu", 04,0,30 cm
+1962,10 oktober 2020,jakarta timur,"jakarta timur, setu", 03,0,50 cm - 60 cm
+1963,11 oktober 2020,jakarta timur,"jakarta timur, setu", 03,0,50 cm - 60 cm
+1964,10 oktober 2020,jakarta timur,"jakarta timur, setu",0,0,50 cm - 60 cm
+1965,11 oktober 2020,jakarta timur,"jakarta timur, setu",0,0,50 cm - 60 cm
+1966,19 oktober 2020,jakarta timur,"jakarta timur, lubang buaya", 09,0,40 cm - 50 cm
+1967,10 oktober 2020,jakarta timur,"jakarta timur, cipinang melayu", 03,0,10 cm - 40 cm
+1968,11 oktober 2020,jakarta timur,"jakarta timur, cipinang melayu", 03,0,10 cm - 40 cm
+1969,27 oktober 2020,jakarta timur,"jakarta timur, cipinang melayu", 03,0,10 cm - 40 cm
+1970,28 oktober 2020,jakarta timur,"jakarta timur, cipinang melayu", 03,0,10 cm - 40 cm
+1971,10 oktober 2020,jakarta timur,"jakarta timur, cipinang melayu",0,0,10 cm - 40 cm
+1972,11 oktober 2020,jakarta timur,"jakarta timur, cipinang melayu",0,0,10 cm - 40 cm
+1973,10 oktober 2020,jakarta timur,"jakarta timur, cipinang melayu",0,0,10 cm - 40 cm
+1974,11 oktober 2020,jakarta timur,"jakarta timur, cipinang melayu",0,0,10 cm - 40 cm
+1975,27 oktober 2020,jakarta timur,"jakarta timur, cipinang melayu",0,0,10 cm - 40 cm
+1976,28 oktober 2020,jakarta timur,"jakarta timur, cipinang melayu",0,0,10 cm - 40 cm
+1977,27 oktober 2020,jakarta timur,"jakarta timur, cipinang melayu", 04,0,10 - 30 cm
+1978,28 oktober 2020,jakarta timur,"jakarta timur, cipinang melayu", 04,0,10 - 30 cm
+1979,27 oktober 2020,jakarta timur,"jakarta timur, cipinang melayu",0,0,10 - 30 cm
+1980,28 oktober 2020,jakarta timur,"jakarta timur, cipinang melayu",0,0,10 - 30 cm
+1981,10 oktober 2020,jakarta timur,"jakarta timur, cipinang melayu",0,0,10 cm - 40 cm
+1982,11 oktober 2020,jakarta timur,"jakarta timur, cipinang melayu",0,0,10 cm - 40 cm
+1983,11 oktober 2020,jakarta timur,"jakarta timur, makasar", 04,0,30 cm
+1984,11 oktober 2020,jakarta timur,"jakarta timur, makasar",0,0,30 cm
+1985,11 oktober 2020,jakarta timur,"jakarta timur, makasar",0,0,30 cm
+1986,11 oktober 2020,jakarta timur,"jakarta timur, makasar", 05,0,30 cm
+1987,11 oktober 2020,jakarta timur,"jakarta timur, makasar",0,0,30 cm
+1988,11 oktober 2020,jakarta timur,"jakarta timur, makasar",0,0,30 cm
+1989,11 oktober 2020,jakarta timur,"jakarta timur, makasar", 07,0,20 cm
+1990,11 oktober 2020,jakarta timur,"jakarta timur, makasar",0,0,30 cm
+1991,11 oktober 2020,jakarta timur,"jakarta timur, makasar",0,0,20 cm
+1992,11 oktober 2020,jakarta timur,"jakarta timur, makasar",0,0,30 cm
+1993,11 oktober 2020,jakarta timur,"jakarta timur, pinang ranti", 04,0,30 cm
+1994,11 oktober 2020,jakarta timur,"jakarta timur, kebon pala", 01,0,30 cm
+1995,11 oktober 2020,jakarta timur,"jakarta timur, kebon pala",0,0,10 cm
+1996,11 oktober 2020,jakarta timur,"jakarta timur, kebon pala",0,0,20 cm
+1997,11 oktober 2020,jakarta timur,"jakarta timur, kebon pala",0,0,30 cm
+1998,11 oktober 2020,jakarta timur,"jakarta timur, kebon pala",0,0,30 cm
+1999,11 oktober 2020,jakarta timur,"jakarta timur, kebon pala",0,0,40 cm
+2000,11 oktober 2020,jakarta timur,"jakarta timur, kebon pala",0,0,10 cm
+2001,11 oktober 2020,jakarta timur,"jakarta timur, kebon pala",0,0,40 cm
+2002,11 oktober 2020,jakarta timur,"jakarta timur, kebon pala", 04,0,80 cm
+2003,11 oktober 2020,jakarta timur,"jakarta timur, kebon pala", 06,0,80 cm
+2004,19 oktober 2020,jakarta timur,"jakarta timur, kebon pala", 09,0,10 cm
+2005,11 oktober 2020,jakarta timur,"jakarta timur, kebon pala",0,0,30 cm
+2006,11 oktober 2020,jakarta timur,"jakarta timur, kebon pala",0,0,80 cm
+2007,11 oktober 2020,jakarta timur,"jakarta timur, kebon pala", 10,0,30 cm
+2008,11 oktober 2020,jakarta timur,"jakarta timur, kebon pala",0,0,80 cm
+2009,11 oktober 2020,jakarta timur,"jakarta timur, kebon pala",0,0,30 cm
+2010,11 oktober 2020,jakarta timur,"jakarta timur, kebon pala",0,0,30 cm
+2011,11 oktober 2020,jakarta timur,"jakarta timur, kebon pala",0,0,30 cm
+2012,11 oktober 2020,jakarta timur,"jakarta timur, kebon pala", 11,0,50 cm
+2013,11 oktober 2020,jakarta timur,"jakarta timur, kebon pala",0,0,50 cm
+2014,16 oktober 2020,jakarta timur,"jakarta timur, pulo gadung", 07,0,30 cm
+2015,20 oktober 2020,jakarta timur,"jakarta timur, penggilingan", 07,0,10 cm
+2016,20 oktober 2020,jakarta timur,"jakarta timur, pulo gebang", 07,0,15 cm
+2017,20 oktober 2020,jakarta timur,"jakarta timur, jatinegara", 12,0,15 cm
+2018,20 oktober 2020,jakarta timur,"jakarta timur, cakung barat", 04,0,20 cm
+2019,20 oktober 2020,jakarta timur,"jakarta timur, duren sawit", 10,0,15 cm
+2020,16 november 2020,jakarta utara,"jakarta utara, kapuk muara",  001,0,15 - 30 cm
+2021,18 november 2020,jakarta utara,"jakarta utara, kapuk muara",  001,0,15 - 30 cm
+2022,16 november 2020,jakarta utara,"jakarta utara, kapuk muara",0,0,20 - 30 cm
+2023,16 november 2020,jakarta utara,"jakarta utara, kapuk muara",0,0,20 - 30 cm
+2024,17 november 2020,jakarta utara,"jakarta utara, kapuk muara",0,0,10 cm
+2025,17 november 2020,jakarta utara,"jakarta utara, penjaringan",  017,0,20 cm
+2026,17 november 2020,jakarta utara,"jakarta utara, penjaringan",0,0,30 - 40 cm
+2027,24 november 2020,jakarta utara,"jakarta utara, penjaringan",  07,0,10 cm
+2028,17 november 2020,jakarta utara,"jakarta utara, pluit",  022,0,10 - 15 cm
+2029,17 november 2020,jakarta utara,"jakarta utara, pluit",0,0,10 - 15 cm
+2030,17 november 2020,jakarta utara,"jakarta utara, pluit",0,0,10 - 15 cm
+2031,17 november 2020,jakarta utara,"jakarta utara, pluit",0,0,10 - 15 cm
+2032,17 november 2020,jakarta utara,"jakarta utara, pluit",0,0,10 - 15 cm
+2033,17 november 2020,jakarta utara,"jakarta utara, pluit",0,0,10 - 15 cm
+2034,17 november 2020,jakarta utara,"jakarta utara, pluit",0,0,10 - 15 cm
+2035,1 november 2020,jakarta utara,"jakarta utara, rorotan",  06,0,10 - 15 cm
+2036,17 november 2020,jakarta utara,"jakarta utara, marunda",  07,0,15 cm
+2037,18 november 2020,jakarta utara,"jakarta utara, marunda",  07,0,15 cm
+2038,17 november 2020,jakarta utara,"jakarta utara, marunda",0,0,15 cm
+2039,18 november 2020,jakarta utara,"jakarta utara, marunda",0,0,15 cm
+2040,17 november 2020,jakarta utara,"jakarta utara, marunda",0,0,15 cm
+2041,17 november 2020,jakarta utara,"jakarta utara, ancol",  08,0,20 cm
+2042,17 november 2020,jakarta utara,"jakarta utara, ancol",0,0,20 cm
+2043,17 november 2020,jakarta utara,"jakarta utara, ancol",0,0,10 cm
+2044,16 november 2020,jakarta barat,"jakarta barat, tegal alur",  001,0,10 - 60 cm
+2045,17 november 2020,jakarta barat,"jakarta barat, tegal alur",  001,0,10 - 60 cm
+2046,18 november 2020,jakarta barat,"jakarta barat, tegal alur",  001,0,10 - 60 cm
+2047,16 november 2020,jakarta barat,"jakarta barat, tegal alur",  009,0,10 - 60 cm
+2048,16 november 2020,jakarta barat,"jakarta barat, tegal alur",0,0,30 - 60 cm
+2049,17 november 2020,jakarta barat,"jakarta barat, tegal alur",0,0,30 - 60 cm
+2050,16 november 2020,jakarta barat,"jakarta barat, tegal alur",0,0,30 - 60 cm
+2051,17 november 2020,jakarta barat,"jakarta barat, tegal alur",0,0,30 - 60 cm
+2052,18 november 2020,jakarta barat,"jakarta barat, tegal alur",0,0,30 - 60 cm
+2053,18 november 2020,jakarta barat,"jakarta barat, kapuk",  05,0,10 cm
+2054,18 november 2020,jakarta barat,"jakarta barat, kapuk",  08,0,10 cm
+2055,18 november 2020,jakarta barat,"jakarta barat, kapuk",  010,0,10 cm
+2056,18 november 2020,jakarta barat,"jakarta barat, kapuk",0,0,10 cm
+2057,18 november 2020,jakarta barat,"jakarta barat, kapuk",0,0,20 cm
+2058,18 november 2020,jakarta barat,"jakarta barat, kapuk",  012,0,15 cm
+2059,1 november 2020,jakarta selatan,"jakarta selatan, jati padang",  06,0,10 - 40 cm
+2060,8 november 2020,jakarta selatan,"jakarta selatan, jati padang",  06,0,10 - 40 cm
+2061,8 november 2020,jakarta selatan,"jakarta selatan, jati padang",0,0,10 - 30 cm
+2062,8 november 2020,jakarta selatan,"jakarta selatan, jati padang",0,0,10 - 30 cm
+2063,8 november 2020,jakarta selatan,"jakarta selatan, jati padang",0,0,10 - 30 cm
+2064,8 november 2020,jakarta selatan,"jakarta selatan, jati padang",0,0,10 - 30 cm
+2065,8 november 2020,jakarta selatan,"jakarta selatan, cilandak timur",  001,0,10 - 30 cm
+2066,8 november 2020,jakarta selatan,"jakarta selatan, cilandak timur",  003,0,20 - 50 cm
+2067,8 november 2020,jakarta selatan,"jakarta selatan, kebagusan",  004,0,30 cm
+2068,8 november 2020,jakarta selatan,"jakarta selatan, kebagusan",0,0,10 - 30 cm
+2069,24 november 2020,jakarta selatan,"jakarta selatan, kebagusan",0,0,10 - 30 cm
+2070,8 november 2020,jakarta selatan,"jakarta selatan, pejaten barat",  002,0,30 cm
+2071,8 november 2020,jakarta selatan,"jakarta selatan, pejaten barat",  004,0,20 cm
+2072,8 november 2020,jakarta selatan,"jakarta selatan, pejaten barat",0,0,20 cm
+2073,8 november 2020,jakarta selatan,"jakarta selatan, pejaten barat",  007,0,20 cm
+2074,8 november 2020,jakarta selatan,"jakarta selatan, pejaten barat",0,0,30 cm
+2075,8 november 2020,jakarta selatan,"jakarta selatan, pejaten barat",  008,0,30 cm
+2076,8 november 2020,jakarta selatan,"jakarta selatan, pejaten barat",0,0,30 cm
+2077,8 november 2020,jakarta selatan,"jakarta selatan, pejaten barat",0,0,30 cm
+2078,8 november 2020,jakarta selatan,"jakarta selatan, pejaten barat",0,0,30 cm
+2079,8 november 2020,jakarta selatan,"jakarta selatan, kalibata",  007,0,20 cm
+2080,8 november 2020,jakarta selatan,"jakarta selatan, kalibata",  009,0,20 cm
+2081,8 november 2020,jakarta selatan,"jakarta selatan, kalibata",  005,0,20 cm
+2082,25 november 2020,jakarta selatan,"jakarta selatan, kalibata",  03,0,40 cm
+2083,25 november 2020,jakarta selatan,"jakarta selatan, rawajati",  05,0,20 cm
+2084,8 november 2020,jakarta selatan,"jakarta selatan, jagakarsa",  002,0,15 cm
+2085,8 november 2020,jakarta selatan,"jakarta selatan, cipedak",  004,0,20 cm
+2086,8 november 2020,jakarta selatan,"jakarta selatan, cipedak",0,0,50 cm
+2087,8 november 2020,jakarta selatan,"jakarta selatan, petogogan",  001,0,20 cm
+2088,8 november 2020,jakarta selatan,"jakarta selatan, bangka",  002,0,30 cm
+2089,8 november 2020,jakarta selatan,"jakarta selatan, bangka",  003,0,30 cm
+2090,8 november 2020,jakarta selatan,"jakarta selatan, bangka",  004,0,60 cm
+2091,8 november 2020,jakarta selatan,"jakarta selatan, bangka",0,0,40 cm
+2092,8 november 2020,jakarta selatan,"jakarta selatan, pela mampang",  004,0,10 - 20 cm
+2093,8 november 2020,jakarta selatan,"jakarta selatan, pela mampang",  005,0,10 - 20 cm
+2094,8 november 2020,jakarta selatan,"jakarta selatan, pela mampang",0,0,10 - 20 cm
+2095,8 november 2020,jakarta selatan,"jakarta selatan, pela mampang",0,0,10 - 20 cm
+2096,8 november 2020,jakarta selatan,"jakarta selatan, pela mampang",0,0,10 - 20 cm
+2097,8 november 2020,jakarta selatan,"jakarta selatan, pela mampang",  007,0,5 - 10 cm
+2098,8 november 2020,jakarta selatan,"jakarta selatan, pela mampang",0,0,5 - 10 cm
+2099,8 november 2020,jakarta selatan,"jakarta selatan, pela mampang",  010,0,10 - 20 cm
+2100,8 november 2020,jakarta selatan,"jakarta selatan, pela mampang",  011,0,10 - 30 cm
+2101,8 november 2020,jakarta selatan,"jakarta selatan, pela mampang",0,0,10 - 30 cm
+2102,8 november 2020,jakarta selatan,"jakarta selatan, pela mampang",  012,0,5 - 10 cm
+2103,25 november 2020,jakarta selatan,"jakarta selatan, kebon baru",  07,0,20 cm
+2104,1 november 2020,jakarta timur,"jakarta timur, duren sawit",  010,0,30 - 50 cm
+2105,1 november 2020,jakarta timur,"jakarta timur, pondok bambu",  02,0,10 - 20 cm 
+2106,1 november 2020,jakarta timur,"jakarta timur, pondok bambu",  03,0,10 - 20 cm 
+2107,1 november 2020,jakarta timur,"jakarta timur, pondok bambu",  04,0,10 - 20 cm 
+2108,1 november 2020,jakarta timur,"jakarta timur, pondok bambu",0,0,10 - 20 cm 
+2109,1 november 2020,jakarta timur,"jakarta timur, pondok bambu",0,0,10 - 20 cm 
+2110,1 november 2020,jakarta timur,"jakarta timur, pondok bambu",  06,0,10 - 20 cm 
+2111,1 november 2020,jakarta timur,"jakarta timur, pondok bambu",  12,0,10 - 20 cm 
+2112,1 november 2020,jakarta timur,"jakarta timur, susukan",  05,0,20 cm
+2113,1 november 2020,jakarta timur,"jakarta timur, kampung melayu",  04,0,10 - 25 cm
+2114,12 november 2020,jakarta timur,"jakarta timur, kampung melayu",  04,0,10 - 25 cm
+2115,12 november 2020,jakarta timur,"jakarta timur, kampung melayu",0,0,10 - 25 cm
+2116,1 november 2020,jakarta timur,"jakarta timur, kampung melayu",  05,0,10 - 20 cm
+2117,1 november 2020,jakarta timur,"jakarta timur, kampung melayu",0,0,10 - 20 cm
+2118,1 november 2020,jakarta timur,"jakarta timur, kampung melayu",  07,0,10 - 20 cm
+2119,1 november 2020,jakarta timur,"jakarta timur, kampung melayu",0,0,10 - 20 cm
+2120,1 november 2020,jakarta timur,"jakarta timur, kampung melayu",0,0,10 - 20 cm
+2121,1 november 2020,jakarta timur,"jakarta timur, kampung melayu",0,0,10 - 20 cm
+2122,1 november 2020,jakarta timur,"jakarta timur, kampung melayu",0,0,10 - 20 cm
+2123,1 november 2020,jakarta timur,"jakarta timur, kampung melayu",0,0,10 - 20 cm
+2124,1 november 2020,jakarta timur,"jakarta timur, kampung melayu",0,0,10 - 20 cm
+2125,1 november 2020,jakarta timur,"jakarta timur, kampung melayu",0,0,10 - 20 cm
+2126,1 november 2020,jakarta timur,"jakarta timur, kampung melayu",0,0,10 - 20 cm
+2127,1 november 2020,jakarta timur,"jakarta timur, kampung melayu",0,0,10 - 20 cm
+2128,1 november 2020,jakarta timur,"jakarta timur, kampung melayu",0,0,10 - 20 cm
+2129,1 november 2020,jakarta timur,"jakarta timur, kampung melayu",  08,0,10 - 20 cm
+2130,8 november 2020,jakarta timur,"jakarta timur, balekambang",  03,0,20 cm
+2131,12 november 2020,jakarta timur,"jakarta timur, cawang",  03,0,50 cm
+2132,12 november 2020,jakarta timur,"jakarta timur, cawang",  05,0,30 cm
+2133,12 november 2020,jakarta timur,"jakarta timur, cawang",0,0,30 cm
+2134,25 november 2020,jakarta timur,"jakarta timur, gedong",  010,0,20 cm
+2135,7 desember 2020,jakarta barat,"jakarta barat, kedoya utara",  002,0,20 cm
+2136,31 desember 2020,jakarta barat,"jakarta barat, srengseng",  008,0,25 cm
+2137,31 desember 2020,jakarta barat,"jakarta barat, srengseng",0,0,30 cm
+2138,31 desember 2020,jakarta barat,"jakarta barat, srengseng",0,0,30 cm
+2139,6 desember 2020,jakarta selatan,"jakarta selatan, pejaten timur",  005,70,40 cm
+2140,6 desember 2020,jakarta selatan,"jakarta selatan, pejaten timur",  006,80,10 cm
+2141,6 desember 2020,jakarta selatan,"jakarta selatan, pejaten timur",  007,0,30 cm
+2142,6 desember 2020,jakarta selatan,"jakarta selatan, pejaten timur",  008,90,30 cm
+2143,6 desember 2020,jakarta timur,"jakarta timur, gedong",  012,0,15 cm
+2144,6 desember 2020,jakarta timur,"jakarta timur, kampung melayu",  004,51,10 - 80 cm
+2145,6 desember 2020,jakarta timur,"jakarta timur, kampung melayu",0,66,10 - 80 cm
+2146,6 desember 2020,jakarta timur,"jakarta timur, kampung melayu",  005,118,10 - 80 cm
+2147,6 desember 2020,jakarta timur,"jakarta timur, kampung melayu",0,80,10 - 80 cm
+2148,7 desember 2020,jakarta timur,"jakarta timur, kampung melayu",  007,48,10 - 30 cm
+2149,7 desember 2020,jakarta timur,"jakarta timur, kampung melayu",0,23,10 - 40 cm
+2150,7 desember 2020,jakarta timur,"jakarta timur, kampung melayu",0,28,10 - 40 cm
+2151,7 desember 2020,jakarta timur,"jakarta timur, kampung melayu",0,31,10 - 40 cm
+2152,7 desember 2020,jakarta timur,"jakarta timur, kampung melayu",0,53,10 - 50 cm
+2153,7 desember 2020,jakarta timur,"jakarta timur, kampung melayu",0,21,10 - 30 cm
+2154,7 desember 2020,jakarta timur,"jakarta timur, kampung melayu",0,19,10 - 30 cm
+2155,6 desember 2020,jakarta timur,"jakarta timur, kampung melayu",  008,36,10 - 50 cm
+2156,7 desember 2020,jakarta timur,"jakarta timur, kampung melayu",0,12,10 - 25 cm
+2157,7 desember 2020,jakarta timur,"jakarta timur, kampung melayu",0,22,10 - 40 cm
+2158,6 desember 2020,jakarta timur,"jakarta timur, kampung melayu",0,46,10 - 50 cm
+2159,6 desember 2020,jakarta timur,"jakarta timur, kampung melayu",0,54,10 - 50 cm
+2160,6 desember 2020,jakarta timur,"jakarta timur, kampung melayu",0,58,10 - 50 cm
+2161,6 desember 2020,jakarta timur,"jakarta timur, kampung melayu",0,51,10 - 50 cm
+2162,6 desember 2020,jakarta timur,"jakarta timur, bidara cina",  007,0,10 - 60 cm
+2163,6 desember 2020,jakarta timur,"jakarta timur, bidara cina",0,0,10 - 60 cm
+2164,6 desember 2020,jakarta timur,"jakarta timur, bidara cina",0,0,10 - 60 cm
+2165,6 desember 2020,jakarta timur,"jakarta timur, bidara cina",  011,0,10 - 60 cm
+2166,6 desember 2020,jakarta timur,"jakarta timur, bidara cina",0,0,10 - 60 cm
+2167,6 desember 2020,jakarta timur,"jakarta timur, bidara cina",0,0,10 - 60 cm
+2168,6 desember 2020,jakarta timur,"jakarta timur, bidara cina",0,0,10 - 60 cm
+2169,6 desember 2020,jakarta timur,"jakarta timur, cililitan",  007,10,20 cm
+2170,6 desember 2020,jakarta timur,"jakarta timur, cawang",  003,0,60 cm
+2171,6 desember 2020,jakarta timur,"jakarta timur, cawang",0,0,60 cm
+2172,6 desember 2020,jakarta timur,"jakarta timur, cawang",0,0,60 cm
+2173,6 desember 2020,jakarta timur,"jakarta timur, cawang",  005,0,15 cm
+2174,6 desember 2020,jakarta timur,"jakarta timur, cawang",0,0,15 cm
+2175,15 desember 2020,kepulauan seribu,"kepulauan seribu, pulau harapan",  01,0,5 - 20 cm
+2176,15 desember 2020,kepulauan seribu,"kepulauan seribu, pulau harapan",0,0,5 - 10 cm
+2177,15 desember 2020,kepulauan seribu,"kepulauan seribu, pulau harapan",0,0,10 - 15 cm
+2178,15 desember 2020,kepulauan seribu,"kepulauan seribu, pulau harapan",0,0,5 - 20 cm
+2179,15 desember 2020,kepulauan seribu,"kepulauan seribu, pulau harapan",0,0,15 cm
+2180,15 desember 2020,kepulauan seribu,"kepulauan seribu, pulau harapan",  02,0,5 cm
+2181,15 desember 2020,kepulauan seribu,"kepulauan seribu, pulau harapan",0,0,5 - 20 cm
